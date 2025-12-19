@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000885.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior space, likely an office or storage area. It shows a light-colored wooden door with two panels, an 'A' label taped to it, and a small keyhole. To the right of the door is a white wall-mounted cabinet above a black GBC brand shredder. On top of the shredder are various items including books, papers, and plastic-wrapped objects. On the right wall, a large painting of a woman in a blue dress is visible. The floor is covered with a dark, ribbed carpet.",
+    "layout": "The image is a vertical shot of a corner/doorway area. The door is on the left, storage/shredder in the center-right, and artwork on the far right wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "A\nGBC\nEFTA00000885",
+    "text_regions": [
+      {
+        "region": "label on door",
+        "text": "A",
+        "type": "printed"
+      },
+      {
+        "region": "object branding",
+        "text": "GBC",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000885",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "GBC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000885"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Label with the letter 'A' taped to the door",
+      "Document ID EFTA00000885 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room view with door and office equipment",
+    "date": null,
+    "references": [
+      "EFTA00000885"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'A' is on a piece of paper taped to the door, likely used for evidence or room categorization. The text 'GBC' refers to the brand of the paper shredder.",
+  "file_path": "IMAGES\\0001\\EFTA00000885.pdf",
+  "document_id": "EFTA00000885",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:12.600595Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

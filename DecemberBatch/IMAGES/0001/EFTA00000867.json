@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000867.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior office space. The room features beige walls, a grey striped carpet, and white trim. In the foreground, there is a white desk with several items on it: a yellow power drill, a red tool kit, two clear water bottles, a cardboard box, and some papers. To the right of the desk is a white modern-style office chair with chrome armrests. In the background, there is an open doorway leading to another room and a large mirror reflecting a portion of the room and a wall-mounted light fixture. A similar light fixture is mounted on the wall in the main room.",
+    "layout": "Interior room view with furniture and tools.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000867",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000867",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000867"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000867"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior office space with tools and furniture",
+    "date": null,
+    "references": [
+      "EFTA00000867"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text 'EFTA00000867' is a Bates stamp used for document identification in legal or investigative contexts. The image appears to be evidence or documentation of a specific location.",
+  "file_path": "IMAGES\\0001\\EFTA00000867.pdf",
+  "document_id": "EFTA00000867",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:07.630341Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

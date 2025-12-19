@@ -1,0 +1,80 @@
+{
+  "file_name": "EFTA00000889.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room, likely an office or lounge area. The room features wood-paneled walls with several framed black-and-white portraits. A white leather sofa sits against the wall. In the foreground, there is a glass-topped coffee table with several books and a bowl of candy. A black and white striped rug is visible under the table. An open door leads to another room, possibly a bathroom or dressing area, where a sink and mirror are visible. A document ID 'EFTA00000889' is printed in the bottom right corner.",
+    "layout": "Interior room scene with furniture and wall decor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Atlas Obscura\nMALDIVES\nREFLECTIONS IN THE YOGA SESSION\nEFTA00000889",
+    "text_regions": [
+      {
+        "region": "book_spine_1",
+        "text": "Atlas Obscura",
+        "type": "printed"
+      },
+      {
+        "region": "book_cover_1",
+        "text": "MALDIVES",
+        "type": "printed"
+      },
+      {
+        "region": "book_spine_2",
+        "text": "REFLECTIONS IN THE YOGA SESSION",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000889",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Marilyn Monroe (subject of portrait)",
+      "Audrey Hepburn (subject of portrait)",
+      "Mick Jagger (subject of portrait)"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000889"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00000889 (Bates-style tracking number)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00000889"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The photograph contains several recognizable portraits of celebrities. The text extracted is from book titles on the coffee table and the document tracking number.",
+  "file_path": "IMAGES\\0001\\EFTA00000889.pdf",
+  "document_id": "EFTA00000889",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:41.578706Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

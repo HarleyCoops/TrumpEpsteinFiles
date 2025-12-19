@@ -1,0 +1,81 @@
+{
+  "file_name": "EFTA00000892.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room with curved walls featuring light wood paneling or wallpaper. In the center, a tall, slender black sculpture of a stylized head sits on a tall, square marble or granite pedestal. To the left, an open doorway reveals a glimpse into another room where a black bag with 'FBI' in yellow letters is visible on the floor. To the right is a closed white door. In the foreground, a glass table holds several books and a bowl of red and blue lollipops. One book title is partially visible: 'FOCUSING ON PROUD REFLECTIONS OF THE 72nd UNGA SESSION'. Another book is titled 'MALDIVES'.",
+    "layout": "Interior room shot with a central focal point (sculpture), flanked by doorways, with a foreground table.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "FBI\nFOCUSING ON PROUD REFLECTIONS OF THE 72nd UNGA SESSION\nMALDIVES\nEFTA00000892",
+    "text_regions": [
+      {
+        "region": "background_object",
+        "text": "FBI",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_books",
+        "text": "FOCUSING ON PROUD REFLECTIONS OF THE 72nd UNGA SESSION",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_books",
+        "text": "MALDIVES",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000892",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "FBI",
+      "UNGA"
+    ],
+    "locations": [
+      "Maldives"
+    ],
+    "document_numbers": [
+      "EFTA00000892"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000892"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence during a search or investigation",
+    "date": null,
+    "references": [
+      "72nd UNGA SESSION"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The presence of an 'FBI' bag in the background suggests this photo was taken during a law enforcement search. The book title refers to the 72nd United Nations General Assembly (UNGA) session.",
+  "file_path": "IMAGES\\0001\\EFTA00000892.pdf",
+  "document_id": "EFTA00000892",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:05.082186Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

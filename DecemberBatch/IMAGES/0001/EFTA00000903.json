@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000903.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a luxurious bathroom or dressing area. The room features a marble-topped vanity with a sink, a dark bust sculpture, a wall-mounted light fixture, and a large ornate gold-framed mirror. A small rug is on the floor. A white piece of paper with the letter 'C' is taped to the wall near the mirror. The doorway in the foreground is white with gold trim.",
+    "layout": "Interior architectural photograph with a central perspective looking down a hallway/bathroom area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "C\nEFTA00000903",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "C",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000903",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000903"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence label 'C' taped to wall",
+      "Bates stamp EFTA00000903"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence, likely related to an investigation",
+    "date": null,
+    "references": [
+      "EFTA00000903"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from a legal or governmental investigation, indicated by the 'C' marker and the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000903.pdf",
+  "document_id": "EFTA00000903",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:23.950444Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

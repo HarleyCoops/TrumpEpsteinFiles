@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000882.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a high-tech workstation or security monitoring room. The setup includes a large wall-mounted array of four flat-screen monitors, with three smaller monitors on the desk below. To the left is a server rack filled with various electronic components, including what appears to be a network switch and multiple rack-mounted units. A black mesh office chair is positioned in front of the desk. On the floor, there is a brown cardboard box with a shipping label and 'REPACK' written on it. The room has beige walls and grey ribbed carpeting. A white curtain is visible on the far left.",
+    "layout": "The image is a vertical photograph showing a workspace from a slightly elevated, wide-angle perspective.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "REPACK\n401\nEFTA00000882",
+    "text_regions": [
+      {
+        "region": "shipping_box_label",
+        "text": "REPACK",
+        "type": "printed"
+      },
+      {
+        "region": "shipping_box_handwriting",
+        "text": "401",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000882",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000882",
+      "401"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000882",
+      "Handwritten '401' on box",
+      "Printed 'REPACK' on box label"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Workspace or server room documentation",
+    "date": null,
+    "references": [
+      "EFTA00000882"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be evidence or documentation from an investigation, indicated by the Bates stamp 'EFTA00000882'. The '401' on the box might be a room number or evidence identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000882.pdf",
+  "document_id": "EFTA00000882",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:49.855717Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

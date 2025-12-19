@@ -1,0 +1,69 @@
+{
+  "file_name": "EFTA00000896.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, wide-shot photograph of a large, polished reddish-brown (mahogany or lacquered) desk in an office setting. On the desk sits a large silver Apple iMac computer with a wireless keyboard and mouse. To the left of the computer are two beige multi-line office telephones. To the right are a blue United States passport, a clear container holding pens and pencils, a stapler, a tape dispenser, and a pair of eyeglasses. In the background, there is a white leather sofa, a wooden tissue box, a bottle of hand sanitizer, and a white door. The floor is covered in black carpeting. A black office chair is visible in the foreground.",
+    "layout": "The desk is the central focus, angled slightly. The computer is centered. Objects are arranged around the perimeter of the desk surface.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "PASSPORT\nUnited States of America\nEFTA00000896",
+    "text_regions": [
+      {
+        "region": "passport_cover",
+        "text": "PASSPORT\nUnited States of America",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000896",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple",
+      "United States of America"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000896"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000896"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office desk setup with computer, phones, and passport",
+    "date": null,
+    "references": [
+      "EFTA00000896"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text on the passport is partially obscured by its angle but recognizable as a standard US passport. The Bates stamp 'EFTA00000896' is a digital overlay or footer added for document tracking.",
+  "file_path": "IMAGES\\0001\\EFTA00000896.pdf",
+  "document_id": "EFTA00000896",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:33.229432Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

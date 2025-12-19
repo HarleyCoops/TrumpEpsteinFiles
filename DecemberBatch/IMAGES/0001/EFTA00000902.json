@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000902.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room featuring a doorway, a tall floor lamp, and a large sculpture. The walls are covered in a light-colored wood-grain patterned wallpaper. To the left, a white built-in bookshelf is partially visible. A tall, rectangular, frosted glass floor lamp stands next to the bookshelf, illuminated from the base. In the center, a white paneled door is slightly ajar, with a white piece of paper taped to it featuring the letter 'B'. To the right, a large, dark, elongated head sculpture sits on a stone pedestal. A curved wall-mounted light fixture is positioned above the sculpture. The floor is covered in dark carpeting.",
+    "layout": "Interior room scene with a doorway as the central focus.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "B\nEFTA00000902",
+    "text_regions": [
+      {
+        "region": "label on door",
+        "text": "B",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000902",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000902"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "B (printed on paper taped to door)",
+      "EFTA00000902 (Bates stamp/identifier)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a room with a labeled door",
+    "date": null,
+    "references": [
+      "EFTA00000902"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates stamp and the 'B' label on the door.",
+  "file_path": "IMAGES\\0001\\EFTA00000902.pdf",
+  "document_id": "EFTA00000902",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:17.281618Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

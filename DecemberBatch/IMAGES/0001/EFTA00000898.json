@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000898.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a small closet or storage room. Inside the closet, there are two tall, white wire shelving units with multiple pull-out drawers. The drawers appear to contain various papers, folders, and documents. On top of the shelving units, there are stacks of books and more papers. Visible book titles include 'TOEFL iBT' and 'FIRE AND FURY'. The closet is viewed through an open white door. The wall outside the closet has a light-colored wood-grain patterned wallpaper and white trim/molding. The floor inside the closet is dark, possibly black carpeting.",
+    "layout": "Interior shot through a doorway; vertical orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TOEFL iBT\nTOEFL iBT\nFIRE AND FURY\nFIRE AND FURY\nFIRE AND FURY\nEFTA00000898",
+    "text_regions": [
+      {
+        "region": "book_spines",
+        "text": "TOEFL iBT\nTOEFL iBT\nFIRE AND FURY\nFIRE AND FURY\nFIRE AND FURY",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000898",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000898"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000898"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of documents and books in a closet",
+    "date": null,
+    "references": [
+      "EFTA00000898"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text extracted from book spines is based on visible titles on the top right of the shelving unit. There are labels on the individual drawers that are visible but too small/blurry to read accurately.",
+  "file_path": "IMAGES\\0001\\EFTA00000898.pdf",
+  "document_id": "EFTA00000898",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:46.996096Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

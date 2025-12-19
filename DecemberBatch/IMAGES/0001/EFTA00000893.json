@@ -1,0 +1,83 @@
+{
+  "file_name": "EFTA00000893.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office interior. The room features curved walls with wood-paneled wallpaper and white molding. A white door is visible on the left. In the foreground, there is a glass coffee table with several books and a bowl of red and orange candies. A large desk is positioned on the right, holding an Apple iMac computer, a printer, a desk lamp, a telephone, and various personal items including a small framed photo and hand sanitizer. A decorative guitar with a mosaic pattern hangs on the wall behind the desk. The floor is covered with a dark carpet and a striped rug under the desk.",
+    "layout": "Interior office shot with a desk in the mid-ground and a coffee table in the foreground.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000893\nFOCUSING\nON PEOPLE\nREFLECTIONS\nOF THE 72nd\nUNGA SESSION\nmaldives\nOSCAR NIEMEYER",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000893",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_books",
+        "text": "FOCUSING\nON PEOPLE\nREFLECTIONS\nOF THE 72nd\nUNGA SESSION",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_books",
+        "text": "maldives",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_books",
+        "text": "OSCAR NIEMEYER",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Oscar Niemeyer"
+    ],
+    "organizations": [
+      "UNGA (United Nations General Assembly)",
+      "Apple"
+    ],
+    "locations": [
+      "Maldives"
+    ],
+    "document_numbers": [
+      "EFTA00000893"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000893"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office interior",
+    "date": null,
+    "references": [
+      "72nd UNGA SESSION"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.93
+  },
+  "notes": "The image is a photograph of an office, likely belonging to a high-ranking official or diplomat given the UNGA reference on the book. The text 'EFTA00000893' is a Bates stamp used for document tracking in legal or investigative contexts.",
+  "file_path": "IMAGES\\0001\\EFTA00000893.pdf",
+  "document_id": "EFTA00000893",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:12.518488Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000890.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room featuring a curved, built-in white bookshelf filled with numerous books. To the left, there is a wall with wood-grain paneling or wallpaper, two framed black-and-white photographs, and a small dark sculpture on a pedestal. In the foreground, two white leather armchairs are visible. A tall, thin floor lamp stands between the wood wall and the bookshelf. A red 'PLEASE Take A Number' ticket dispenser is mounted on the side of the bookshelf.",
+    "layout": "The image shows a corner of a room with a curved wall. The left side is dominated by wood-textured wall treatments and framed art, while the right side features a large, integrated shelving unit.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PLEASE\nTake A\nNumber\nEFTA00000890",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "PLEASE\nTake A\nNumber",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000890",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000890"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000890' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room view with bookshelves and furniture",
+    "date": null,
+    "references": [
+      "EFTA00000890"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text on the book spines is visible but mostly illegible due to the angle and distance. The red object is a standard 'take a number' ticket dispenser often found in service environments, which is an unusual item for a residential-style library.",
+  "file_path": "IMAGES\\0001\\EFTA00000890.pdf",
+  "document_id": "EFTA00000890",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:49.100688Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

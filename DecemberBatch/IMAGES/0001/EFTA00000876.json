@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000876.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an open access panel in a white ceiling, likely for maintenance or inspection. A metal door hangs down from the rectangular opening, revealing internal wiring, pipes, and structural components. Below the ceiling panel are white cabinets with horizontal handles. A small sticker is visible on the metal door.",
+    "layout": "Vertical orientation showing a ceiling and upper cabinetry.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000876",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000876",
+        "type": "printed"
+      },
+      {
+        "region": "label",
+        "text": "[unclear: sticker with logo and text]",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000876"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document tracking number EFTA00000876 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Maintenance access panel and ceiling interior",
+    "date": null,
+    "references": [
+      "EFTA00000876"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the sticker on the metal panel is too small and blurry to read accurately. The primary text is the document ID at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000876.pdf",
+  "document_id": "EFTA00000876",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:10.317710Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

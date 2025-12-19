@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000861.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior wall featuring a large oil painting of a woman in a blue dress sitting in a chair. To the left of the painting, a document with a large 'A' is partially visible on a door or wall. To the right, a small framed document or letter is hung. The painting depicts a woman with light-colored hair, wearing a blue dress and red heels, seated in a white armchair against a background of bookshelves.",
+    "layout": "The image shows a wall with three distinct items: a partial document on the left, a large central painting, and a small framed item on the right.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "A\nEFTA00000861",
+    "text_regions": [
+      {
+        "region": "left_document",
+        "text": "A",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000861",
+        "type": "printed"
+      },
+      {
+        "region": "right_framed_item",
+        "text": "[unclear: handwritten text on a small framed document]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000861"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Large letter 'A' on a document on the left"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a wall with artwork and documents",
+    "date": null,
+    "references": [
+      "EFTA00000861"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.8,
+    "overall": 0.85
+  },
+  "notes": "The text on the small framed document to the right of the painting is illegible due to distance and resolution. The document on the left is partially cut off.",
+  "file_path": "IMAGES\\0001\\EFTA00000861.pdf",
+  "document_id": "EFTA00000861",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:48:25.382072Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

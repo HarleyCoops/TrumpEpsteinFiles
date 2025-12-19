@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000897.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small bathroom or ensuite. The image shows a white vanity with a built-in sink and chrome faucets. Above the vanity is a large mirror reflecting the room. To the left is a glass-enclosed shower stall with white tiled walls and a drain on the floor. The floor outside the shower is covered in small, white, diamond-patterned tiles. A doorway frame is visible in the foreground, framing the shot. There are various toiletries on the vanity, including bottles and a tissue box.",
+    "layout": "Interior shot of a bathroom taken from a doorway.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000897",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000897",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000897"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/document identifier: EFTA00000897"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Bathroom interior",
+    "date": null,
+    "references": [
+      "EFTA00000897"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard photograph used as evidence or documentation, likely part of a legal or investigative file as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000897.pdf",
+  "document_id": "EFTA00000897",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:39.585900Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "file_name": "EFTA00000899.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of an office or study. In the foreground, a dark red desk surface holds two white multi-line office telephones with coiled cords and a white computer keyboard. A large computer monitor is partially visible, reflecting the room. In the mid-ground, a large, cylindrical white lampshade hangs from the ceiling. Behind it is a white door, slightly ajar, leading to what appears to be a bathroom with a mirror and sink. The wall to the right is covered in wood-grain paneling and features three framed black-and-white portraits. Below the portraits is a white leather sofa. The lighting is a mix of ambient light and a strong flash, creating deep shadows.",
+    "layout": "Interior room shot with foreground desk, mid-ground door and lamp, and background wall with decor.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "• \nEFTA00000899",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000899",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "•",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Marilyn Monroe (portrait)",
+      "Unidentified male (portrait)",
+      "Unidentified male (portrait)"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000899"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000899"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of an office or residence",
+    "date": null,
+    "references": [
+      "EFTA00000899"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The photograph contains a Bates stamp 'EFTA00000899' at the bottom right, indicating it is part of a legal or investigative production. The portraits on the wall include a recognizable image of Marilyn Monroe.",
+  "file_path": "IMAGES\\0001\\EFTA00000899.pdf",
+  "document_id": "EFTA00000899",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:54.230167Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

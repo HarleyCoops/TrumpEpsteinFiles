@@ -1,0 +1,69 @@
+{
+  "file_name": "EFTA00000869.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a small room or utility area. The room has beige walls, a dark grey striped carpet, and a white door frame on the right. On the left wall, there are several electrical or fire alarm control panels with wires running down to the floor. A tall, cylindrical wall-mounted light fixture is lit in the center of the wall. Below the light, there are several items on the floor: a stainless steel trash can, a black bag, a brown cardboard box labeled 'SupplyHouse', and a stack of boxes labeled 'VOSS'. A piece of lumber leans against the wall on the right side. There are also light switches and a small black screen (possibly a thermostat or security panel) on the right wall.",
+    "layout": "Interior room shot with equipment and storage items against the back wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "SupplyHouse\nVOSS\nVOSS\nVOSS\nVOSS\nEFTA00000869",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000869",
+        "type": "printed"
+      },
+      {
+        "region": "body_labels",
+        "text": "SupplyHouse\nVOSS\nVOSS\nVOSS\nVOSS",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "SupplyHouse",
+      "VOSS"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000869"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000869' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00000869"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text on the electrical panels is too small to read clearly. The Bates stamp indicates this is part of a legal or investigative production.",
+  "file_path": "IMAGES\\0001\\EFTA00000869.pdf",
+  "document_id": "EFTA00000869",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:21.699291Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

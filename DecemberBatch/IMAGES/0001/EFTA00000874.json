@@ -1,0 +1,77 @@
+{
+  "file_name": "EFTA00000874.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a cluttered office desk and workspace. The desk is L-shaped and light-colored. On the desk are various items including two Ryobi power drills, a red Milwaukee drill bit set, two clear water bottles (one labeled 'VOSS'), a laptop, multiple computer monitors, a telephone, a box of tissues, a calculator, and various papers. A black mesh office chair is positioned at the desk. On the floor to the left is a brown cardboard box. The room has grey carpeting and a white wall with a window and curtain on the left.",
+    "layout": "Overhead perspective of an office environment.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "RYOBI\nRYOBI\nMilwaukee\n10x LIFE\nVOSS\nMr. Richard [unclear: Kals]\nEFTA00000874",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000874",
+        "type": "typed"
+      },
+      {
+        "region": "object_labels",
+        "text": "RYOBI, RYOBI, Milwaukee, 10x LIFE, VOSS",
+        "type": "printed"
+      },
+      {
+        "region": "handwritten_note",
+        "text": "Mr. Richard [unclear: Kals]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Richard [unclear: Kals]"
+    ],
+    "organizations": [
+      "Ryobi",
+      "Milwaukee",
+      "Voss"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000874"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000874"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office workspace scene with tools and equipment",
+    "date": null,
+    "references": [
+      "EFTA00000874"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The handwriting on the brown package is partially obscured and difficult to read with certainty. The Bates stamp indicates this is part of a legal or investigative production.",
+  "file_path": "IMAGES\\0001\\EFTA00000874.pdf",
+  "document_id": "EFTA00000874",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:56.819650Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

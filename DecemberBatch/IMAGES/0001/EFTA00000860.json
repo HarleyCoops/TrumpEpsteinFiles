@@ -2,8 +2,8 @@
   "file_name": "EFTA00000860.pdf",
   "image_analysis": {
     "type": "photograph",
-    "description": "A photograph taken from a doorway or hallway looking into a room. The central focus is a large oil painting hanging on a neutral-colored wall. The painting depicts a woman with blonde hair wearing a blue dress, seated in a chair. To the left of the painting is an open door with a white paper or label attached to it. The walls flanking the doorway appear to be made of light-colored stone or textured panels. A small white device, possibly a thermostat or sensor, is visible on the left wall. A small framed object is partially visible on the right wall.",
-    "layout": "Interior shot framed by a doorway, with a central painting as the focal point.",
+    "description": "A photograph taken from a doorway or hallway looking into a room. The central focus is a large oil painting of a woman in a blue dress seated in a chair. The woman in the painting is depicted in a relaxed pose, with her legs crossed. The background of the painting appears to be an interior room with a window or bookshelf. To the left of the painting is a doorway with a white door partially open, showing a small white piece of paper attached to it. The walls are a neutral beige or off-white color with architectural molding. On the far left wall, there is a small white rectangular object, possibly a light switch or thermostat. On the right wall, a small portion of another frame is visible.",
+    "layout": "Interior architectural shot with a central artwork focal point.",
     "quality": "medium",
     "orientation": "landscape"
   },
@@ -33,14 +33,14 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Bates stamp: EFTA00000860"
+      "Bates stamp 'EFTA00000860' in the bottom right corner"
     ]
   },
   "document_metadata": {
     "document_type": "photograph",
     "sender": null,
     "recipient": null,
-    "subject": "Interior photograph of a room featuring a painting",
+    "subject": "Interior view of a room featuring a portrait painting",
     "date": null,
     "references": [
       "EFTA00000860"
@@ -51,11 +51,11 @@
     "structured_data": 1.0,
     "overall": 0.95
   },
-  "notes": "The photograph appears to be an evidentiary photo from an investigation. There is a small white paper attached to the door on the left, but the text on it is illegible due to distance and angle.",
+  "notes": "The text on the small piece of paper attached to the door is illegible due to distance and resolution. The painting appears to be of a specific individual, but the features are not distinct enough for identification without external context.",
   "file_path": "IMAGES\\0001\\EFTA00000860.pdf",
   "document_id": "EFTA00000860",
   "processing_metadata": {
-    "processed_at": "2025-12-19T23:48:18.268755Z",
+    "processed_at": "2025-12-19T23:48:19.175821Z",
     "model": "gemini-3-flash-preview"
   }
 }

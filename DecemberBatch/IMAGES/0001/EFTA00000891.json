@@ -1,0 +1,81 @@
+{
+  "file_name": "EFTA00000891.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room featuring a large built-in white bookshelf filled with books and decorative items. To the right of the bookshelf is a doorway leading into another room. The walls are covered in a light-colored wood-grain patterned wallpaper. In the foreground, a white leather or vinyl cushioned surface is visible. Through the doorway, a hallway leads to another room where a painting is hanging on the wall. A black bag with 'FBI' printed on it is visible on the floor in the background hallway.",
+    "layout": "The image is a vertical photograph showing a corner of a room with a bookshelf on the left and a doorway on the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000891\nFBI\nALASKA\nBY THE WAYSIDE\nTHE ANIMALS OF FARTHING WOOD\nMURDOCH\n[unclear: various book titles]",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000891",
+        "type": "printed"
+      },
+      {
+        "region": "background_object",
+        "text": "FBI",
+        "type": "printed"
+      },
+      {
+        "region": "picture_frame",
+        "text": "ALASKA",
+        "type": "printed"
+      },
+      {
+        "region": "book_spines",
+        "text": "BY THE WAYSIDE\nTHE ANIMALS OF FARTHING WOOD\nMURDOCH",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "FBI"
+    ],
+    "locations": [
+      "ALASKA"
+    ],
+    "document_numbers": [
+      "EFTA00000891"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00000891 (Bates-style stamp/footer)",
+      "FBI (on bag in background)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence, possibly during a search",
+    "date": null,
+    "references": [
+      "EFTA00000891"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.85,
+    "structured_data": 0.9,
+    "overall": 0.9
+  },
+  "notes": "The photograph appears to be evidence from an investigation, indicated by the 'FBI' bag in the background and the 'EFTA' prefix on the document number. Many book titles on the shelves are visible but too small or angled to read with 100% certainty.",
+  "file_path": "IMAGES\\0001\\EFTA00000891.pdf",
+  "document_id": "EFTA00000891",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:57.152924Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

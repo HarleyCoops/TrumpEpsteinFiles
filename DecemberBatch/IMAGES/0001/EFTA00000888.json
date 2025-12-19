@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000888.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office interior. The room features curved walls with light wood paneling and a decorative crown molding. A large desk with a reddish-brown top and chrome legs sits in the center. On the desk is an Apple iMac computer, a desk lamp, various office supplies, and a framed photo. To the left of the desk is a black office chair and a printer on a side table. A unique guitar-shaped collage hangs on the wall. In the foreground, there is a glass coffee table with several books, including one titled 'MALDIVES'. The floor is covered with a dark carpet and a circular rug with a black and white striped pattern.",
+    "layout": "Interior office shot with a desk as the central focus, showing a workspace and decorative elements.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "MALDIVES\nBALI\nEFTA00000888",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000888",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_objects",
+        "text": "MALDIVES\nBALI",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple"
+    ],
+    "locations": [
+      "Maldives",
+      "Bali"
+    ],
+    "document_numbers": [
+      "EFTA00000888"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00000888 (Bates stamp/tracking number)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office interior documentation",
+    "date": null,
+    "references": [
+      "EFTA00000888"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'MALDIVES' and 'BALI' are titles on books located on the coffee table in the foreground. The alphanumeric string 'EFTA00000888' is a tracking label or Bates stamp typical of legal or committee documentation.",
+  "file_path": "IMAGES\\0001\\EFTA00000888.pdf",
+  "document_id": "EFTA00000888",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:33.965906Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

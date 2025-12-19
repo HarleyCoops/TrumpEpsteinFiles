@@ -1,0 +1,64 @@
+{
+  "file_name": "EFTA00000895.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a home office or study. The room features wood-paneled walls and black carpeting. In the center is a modern desk with a red top and chrome legs. On the desk is a large Apple iMac computer, a desk phone, hand sanitizer, a small framed photo, and various office supplies. Behind the desk is a printer on a stand. To the left, a decorative guitar-shaped collage hangs on the wall. To the right, an open door leads into a bathroom with a white vanity and sink. A large drum-style pendant lamp hangs over the desk.",
+    "layout": "Interior room shot with a central desk as the focal point.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000895",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000895",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple",
+      "Brother"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000895"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000895' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of an office space",
+    "date": null,
+    "references": [
+      "EFTA00000895"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The image is a high-quality photograph likely taken for investigative or evidentiary purposes, as indicated by the Bates stamp. The Apple logo is clearly visible on the back of the monitor. The printer appears to be a Brother brand model.",
+  "file_path": "IMAGES\\0001\\EFTA00000895.pdf",
+  "document_id": "EFTA00000895",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:26.051221Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

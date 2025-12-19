@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000894.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of an office or study. The room features wood-paneled walls with a vertical grain, a white chair rail, and a curved ceiling with decorative molding. A white door is partially open, revealing a dark room beyond. To the left, a desk is visible with a telephone, papers, and a modern floor lamp with a large white drum shade. On the right wall, two framed black-and-white photographs are hung vertically. In the foreground, a white leather sofa is partially visible. A small decorative object, possibly a turtle figurine, sits on the floor near the door.",
+    "layout": "Interior room shot with a desk on the left, a door in the center, and a sofa/wall art on the right.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000894",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000894",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000894"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000894' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior office space",
+    "date": null,
+    "references": [
+      "EFTA00000894"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp at the bottom right. The content appears to be an office setting, possibly related to an investigation or evidence collection.",
+  "file_path": "IMAGES\\0001\\EFTA00000894.pdf",
+  "document_id": "EFTA00000894",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:52:19.186530Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

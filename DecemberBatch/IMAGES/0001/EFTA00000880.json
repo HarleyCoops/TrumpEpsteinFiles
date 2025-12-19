@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000880.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a storage room or closet. The room has light-colored walls and dark gray ribbed carpeting. White metal shelving tracks are mounted to the wall, supporting several white shelves. On the shelves and floor are various items including cardboard boxes, a white plastic bucket, plastic shopping bags (one with orange 'LOW' branding), a roll of brown textured material (possibly a rug or mat), and green bubble wrap. The room appears cluttered and used for storage.",
+    "layout": "The photograph is taken from a slightly elevated angle looking into a corner of a room. Shelving units dominate the upper half, while boxes and a bucket occupy the floor space.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ti\nEFTA00000880\nLOW\nLOW",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000880",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "ti",
+        "type": "printed"
+      },
+      {
+        "region": "label on bag",
+        "text": "LOW\nLOW",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000880"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000880"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage room interior",
+    "date": null,
+    "references": [
+      "EFTA00000880"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'ti' in the top left is likely a fragment or artifact from the scanning/processing stage. The 'LOW' text is part of a retail logo on a plastic shopping bag.",
+  "file_path": "IMAGES\\0001\\EFTA00000880.pdf",
+  "document_id": "EFTA00000880",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:35.811306Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

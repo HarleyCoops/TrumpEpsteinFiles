@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000904.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room, likely a bathroom or dressing area. The image shows an open doorway leading into another room with a large, ornate gold-framed mirror reflecting a hallway. To the right of the doorway, there is a wall with patterned wallpaper, a wall-mounted light fixture, a small shelf with rolled white towels, and a dark bronze-colored bust of a person's head. On a counter in the foreground, there is a black decorative container with gold floral patterns and a small white rectangular object. A white piece of paper with the letter 'C' is taped to the door frame.",
+    "layout": "The photograph is taken from a slightly low angle looking through a doorway. The composition is split between the doorway/reflection on the left and the wall/decorations on the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "C\nEFTA00000904",
+    "text_regions": [
+      {
+        "region": "label_on_doorframe",
+        "text": "C",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000904",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000904"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000904",
+      "Evidence marker: 'C' on white paper"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence with evidence marker",
+    "date": null,
+    "references": [
+      "EFTA00000904"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the 'C' marker and the Bates stamp. The paper marked 'C' also contains a grid or table that is too small to read.",
+  "file_path": "IMAGES\\0001\\EFTA00000904.pdf",
+  "document_id": "EFTA00000904",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:31.604396Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

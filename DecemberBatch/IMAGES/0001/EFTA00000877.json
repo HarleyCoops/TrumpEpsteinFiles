@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000877.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken through an open white door looking into a bathroom. The bathroom features white square floor tiles, a white pedestal sink with silver faucets, a large mirror reflecting a portion of the room and a clothes hanger, a circular wall-mounted light fixture above the mirror, and a brown wastebasket on the floor. The foreground shows a dark-colored striped carpet and the white door frame.",
+    "layout": "The image is framed by a doorway, creating a 'room within a room' perspective. The bathroom is the central focus.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000877",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000877",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000877"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000877' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000877"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from a legal or investigative file, indicated by the Bates stamp at the bottom.",
+  "file_path": "IMAGES\\0001\\EFTA00000877.pdf",
+  "document_id": "EFTA00000877",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:15.877988Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

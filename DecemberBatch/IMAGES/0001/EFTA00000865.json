@@ -1,0 +1,76 @@
+{
+  "file_name": "EFTA00000865.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a high-tech workstation or monitoring station. The setup features a vertical array of at least six large flat-screen monitors mounted on a wall or stand. Below the large screens are several smaller computer monitors. On the white desk surface, there is an open laptop, a keyboard, a mouse, a calculator, a landline telephone, various office supplies (tissues, spray bottles, pens), and some papers. An office chair is positioned in front of the desk. In the background, an open door leads to another room where a printer and some storage are visible. A small sign with the letter 'A' is on the door.",
+    "layout": "The image is a vertical photograph showing an interior office space with a focus on a multi-monitor desk setup.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "A\nred\nShore\nEFTA00000865",
+    "text_regions": [
+      {
+        "region": "door_sign",
+        "text": "A",
+        "type": "printed"
+      },
+      {
+        "region": "document_on_desk",
+        "text": "red",
+        "type": "printed"
+      },
+      {
+        "region": "document_under_laptop",
+        "text": "Shore",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000865",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000865"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000865"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office workstation setup",
+    "date": null,
+    "references": [
+      "EFTA00000865"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be evidence or documentation from an investigation, indicated by the Bates stamp 'EFTA00000865'. The text on the desk documents is partially obscured.",
+  "file_path": "IMAGES\\0001\\EFTA00000865.pdf",
+  "document_id": "EFTA00000865",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:48:53.635190Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

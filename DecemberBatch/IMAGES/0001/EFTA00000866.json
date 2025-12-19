@@ -1,0 +1,72 @@
+{
+  "file_name": "EFTA00000866.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office interior. In the foreground is a cluttered L-shaped desk with an office chair. Items on the desk include a telephone, tissues, cleaning supplies, two cordless drills, a tape measure, papers, a computer mouse, and water bottles. In the background, there is an open door labeled 'A', a doorway leading to another room where a digital clock is visible on the wall, and a mirrored panel. The lighting is from an overhead ceiling fixture.",
+    "layout": "Interior office shot with foreground desk and background doorways.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "A\n3:16 45\nEFTA00000866",
+    "text_regions": [
+      {
+        "region": "door_label",
+        "text": "A",
+        "type": "printed"
+      },
+      {
+        "region": "digital_clock",
+        "text": "3:16 45",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000866",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000866"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Label 'A' on the door",
+      "Bates stamp EFTA00000866"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office interior documentation",
+    "date": null,
+    "references": [
+      "EFTA00000866"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The digital clock in the background shows the time 3:16:45. The desk contains various tools (drills) and office supplies, suggesting maintenance or a transition period. The Bates stamp indicates this is part of a legal or investigative production.",
+  "file_path": "IMAGES\\0001\\EFTA00000866.pdf",
+  "document_id": "EFTA00000866",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:01.158411Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

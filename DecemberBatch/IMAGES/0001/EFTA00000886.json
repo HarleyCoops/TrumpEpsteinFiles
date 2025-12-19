@@ -1,0 +1,75 @@
+{
+  "file_name": "EFTA00000886.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a modern, circular or curved room. The room features wood-paneled walls with several framed black-and-white portraits. A white leather sofa and a matching white leather armchair are visible. A black rug with a white circular pattern is on the floor. To the right, there is a built-in white bookshelf filled with books. A mirrored side table sits in front of the armchair. A small black sculpture is on a pedestal against the wall. A door with a gold-colored handle and hinge is in the foreground on the right, with a paper labeled 'B' taped to it.",
+    "layout": "Interior room shot framed by a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "B\nAtlas Obscura\nEFTA00000886",
+    "text_regions": [
+      {
+        "region": "door_label",
+        "text": "B",
+        "type": "printed"
+      },
+      {
+        "region": "book_spine",
+        "text": "Atlas Obscura",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000886",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Marilyn Monroe (subject of portrait)",
+      "Albert Einstein (subject of portrait)"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000886"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Paper labeled 'B' taped to the door",
+      "Bates stamp 'EFTA00000886' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a room, likely part of an investigation or evidence collection",
+    "date": null,
+    "references": [
+      "EFTA00000886"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be an evidentiary photo from a legal or governmental investigation, indicated by the Bates stamp and the 'B' label on the door. The portraits on the wall include recognizable figures like Marilyn Monroe and Albert Einstein.",
+  "file_path": "IMAGES\\0001\\EFTA00000886.pdf",
+  "document_id": "EFTA00000886",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:19.740378Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

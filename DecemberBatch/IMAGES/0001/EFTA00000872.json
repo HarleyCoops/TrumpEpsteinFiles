@@ -1,0 +1,63 @@
+{
+  "file_name": "EFTA00000872.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of an office or room. In the foreground, there is a white modern office chair and a black ergonomic office chair. A small cardboard box sits on the carpeted floor. On a white table surface in the lower right, there is a red Milwaukee tool kit, a clear water bottle, and some papers. The background features floor-to-ceiling beige curtains, a doorway on the left, and a black framed board or monitor on the right wall. A black lamp fixture is mounted on the wall in the upper left.",
+    "layout": "Interior room shot with furniture and objects on the floor and table.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000872",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000872",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Milwaukee"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000872"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000872"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room scene",
+    "date": null,
+    "references": [
+      "EFTA00000872"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The text 'Milwaukee' is visible on the red tool kit. There is some illegible text on the shipping label of the cardboard box and on the document attached to the wall-mounted board.",
+  "file_path": "IMAGES\\0001\\EFTA00000872.pdf",
+  "document_id": "EFTA00000872",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:42.462455Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

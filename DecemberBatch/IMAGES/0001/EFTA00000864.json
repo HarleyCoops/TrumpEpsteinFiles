@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000864.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office or command center setup. The room features a large L-shaped desk with a complex multi-monitor array (at least 6-8 monitors) mounted on a heavy-duty black stand. There are two black ergonomic office chairs. On the desk, there are various items including power tools (yellow drills), a box of tissues, a green container, and papers. A black backpack sits on the grey carpeted floor. In the background, there is a tall window covered by floor-to-ceiling grey curtains. To the right, a wall-mounted light fixture and an electrical or control box are visible. A silver trash can and some boxes are in the foreground right.",
+    "layout": "Interior room shot, angled perspective showing the desk and monitor setup.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000864\nM",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000864",
+        "type": "printed"
+      },
+      {
+        "region": "foreground_object",
+        "text": "M",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000864"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000864"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office interior with multi-monitor workstation",
+    "date": null,
+    "references": [
+      "EFTA00000864"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a forensic or evidentiary photograph, likely part of a larger document production as indicated by the Bates stamp 'EFTA00000864'. The 'M' visible in the foreground appears to be a logo on a cardboard box.",
+  "file_path": "IMAGES\\0001\\EFTA00000864.pdf",
+  "document_id": "EFTA00000864",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:48:46.593300Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

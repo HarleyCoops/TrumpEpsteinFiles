@@ -1,0 +1,80 @@
+{
+  "file_name": "EFTA00000871.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office or workstation area. The scene includes a large desk with multiple computer monitors (at least four visible in a grid), a laptop, a keyboard, and a mouse. On the desk are various items including two clear water bottles (VOSS brand), a yellow and black power drill (Ryobi), a red drill bit set (Milwaukee), a tape measure, and several papers. A black office chair is positioned at the desk. In the background, there is a tall window with grey curtains, a cardboard box on the floor, and a framed document or whiteboard on the wall. The lighting appears to be indoor artificial light.",
+    "layout": "Interior room shot showing a desk setup and surrounding floor area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "1 \nEFTA00000871\nRYOBI\nMilwaukee\nVOSS\nVOSS\n[unclear: handwritten text on brown envelope]",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000871",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "1",
+        "type": "printed"
+      },
+      {
+        "region": "object_labels",
+        "text": "RYOBI, Milwaukee, VOSS",
+        "type": "printed"
+      },
+      {
+        "region": "envelope",
+        "text": "[unclear: handwritten text]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Ryobi",
+      "Milwaukee",
+      "Voss"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000871"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000871"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office environment documentation",
+    "date": null,
+    "references": [
+      "EFTA00000871"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The image is a forensic or evidentiary photograph of a workspace. Some text on papers and the brown envelope is visible but too small or blurry to transcribe accurately.",
+  "file_path": "IMAGES\\0001\\EFTA00000871.pdf",
+  "document_id": "EFTA00000871",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:35.666656Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

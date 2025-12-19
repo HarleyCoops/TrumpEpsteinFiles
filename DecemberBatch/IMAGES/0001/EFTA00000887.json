@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000887.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room featuring a tall, dark, elongated head sculpture on a stone pedestal. The walls are covered in a light-colored wood-grain patterned wallpaper. To the right of the sculpture is a white door. Further right, a guitar-shaped piece of wall art is visible. In the background, a desk area with a printer and a trash can is partially visible. A curved, thin-arm lamp is mounted on the wall above the sculpture.",
+    "layout": "Interior room shot with a focus on art pieces and architectural details.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "1~\nEFTA00000887",
+    "text_regions": [
+      {
+        "region": "top_left",
+        "text": "1~",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000887",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000887"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000887"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000887"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text '1~' appears to be a page or sequence marker. The alphanumeric string at the bottom is a standard Bates stamp used for document tracking in legal or investigative contexts.",
+  "file_path": "IMAGES\\0001\\EFTA00000887.pdf",
+  "document_id": "EFTA00000887",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:51:26.384308Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

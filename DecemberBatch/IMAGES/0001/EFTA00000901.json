@@ -1,0 +1,83 @@
+{
+  "file_name": "EFTA00000901.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room featuring a large, white, curved built-in bookshelf filled with books and decorative objects. In front of the bookshelf is a white leather armchair and a small glass side table. To the left and right of the bookshelf are tall, rectangular floor lamps that emit a warm glow. In the foreground, there is a glass coffee table with several large books, including one titled 'MALDIVES' and another with 'BALLS' on the spine. Above the bookshelf, a large, dark, tribal-style mask or sculpture is mounted on the wall. The walls have a light wood-grain or textured wallpaper. A white door is visible on the right side of the frame.",
+    "layout": "The image is a vertical photograph showing a corner of a room. The bookshelf is the central focus, with furniture and lighting arranged around it.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PLEASE\nTake A\nNumber\n329\nMALDIVES\nBALLS\nEFTA00000901",
+    "text_regions": [
+      {
+        "region": "label on bookshelf",
+        "text": "PLEASE\nTake A\nNumber",
+        "type": "printed"
+      },
+      {
+        "region": "digital clock on shelf",
+        "text": "329",
+        "type": "printed"
+      },
+      {
+        "region": "book on coffee table",
+        "text": "MALDIVES",
+        "type": "printed"
+      },
+      {
+        "region": "book on coffee table",
+        "text": "BALLS",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000901",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "Maldives"
+    ],
+    "document_numbers": [
+      "EFTA00000901"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000901"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000901"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.8,
+    "overall": 0.9
+  },
+  "notes": "The photograph appears to be part of an evidentiary collection, indicated by the Bates stamp 'EFTA00000901'. The room contains various books and decorative items, including a 'Take a Number' sign which may be a novelty item.",
+  "file_path": "IMAGES\\0001\\EFTA00000901.pdf",
+  "document_id": "EFTA00000901",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:10.218427Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

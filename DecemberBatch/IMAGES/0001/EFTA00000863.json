@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000863.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a hallway or doorway looking into an office space. In the foreground on the left wall, there is a large painting showing the lower half of a person wearing red high-heeled shoes and a blue garment. Next to it is a smaller framed document or letter with a red border. In the background, an office is visible with a white desk, two black office chairs, a computer monitor, and various items on the desk including tools (yellow drills), tissues, and containers. Heavy beige curtains cover a large window in the background.",
+    "layout": "Interior room view with foreground wall art and background office furniture.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000863",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000863",
+        "type": "printed"
+      },
+      {
+        "region": "framed_document",
+        "text": "[unclear: handwritten text on white paper with red border]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000863"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000863"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior office space",
+    "date": null,
+    "references": [
+      "EFTA00000863"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.9
+  },
+  "notes": "The text within the small framed frame on the wall is illegible due to distance and resolution, though it appears to be a handwritten note or letter. The primary identifiable text is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000863.pdf",
+  "document_id": "EFTA00000863",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:48:39.057260Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000870.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a workspace or control room. The room features a large L-shaped desk cluttered with various items including two yellow Ryobi power drills, a tape measure, a box of tissues, a laptop (MacBook), a water bottle, and various papers. Above the desk is a multi-monitor setup consisting of six large flat-screen monitors mounted on a wall. To the right of the monitors, there are several wall-mounted control panels, likely for fire safety or building security, with visible wiring conduits. A silver trash can sits on the carpeted floor next to the desk.",
+    "layout": "The image shows an indoor office environment with a focus on a cluttered desk and a wall-mounted monitor array.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000870",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000870",
+        "type": "printed"
+      },
+      {
+        "region": "object_labels",
+        "text": "RYOBI",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Ryobi"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000870"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000870"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Workspace or control room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000870"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'RYOBI' is visible on the power tools. The primary text is the Bates stamp at the bottom right. The wall panels contain small text and labels that are illegible due to distance and angle.",
+  "file_path": "IMAGES\\0001\\EFTA00000870.pdf",
+  "document_id": "EFTA00000870",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:28.473315Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

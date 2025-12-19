@@ -1,0 +1,72 @@
+{
+  "file_name": "EFTA00000862.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a wall featuring a large oil painting and a smaller framed document. The painting depicts a man resembling Bill Clinton wearing a blue dress and red high heels, lounging in a chair within what appears to be the Oval Office. He is pointing his finger toward the viewer. To the right of the painting is a smaller framed document with handwritten text and a logo at the top.",
+    "layout": "The image shows a wall with two framed items: a large square painting centered and a smaller rectangular frame to its right. A white vertical border is visible on the left side of the frame.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000862",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000862",
+        "type": "printed"
+      },
+      {
+        "region": "framed_document",
+        "text": "[unclear: handwritten text on stationery with a logo at the top]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Bill Clinton"
+    ],
+    "organizations": [
+      "House Oversight Committee"
+    ],
+    "locations": [
+      "Oval Office (depicted in painting)"
+    ],
+    "document_numbers": [
+      "EFTA00000862"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000862 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Painting of Bill Clinton in a dress (Parsing Dancing by Petrina Ryan-Kleid)",
+    "date": null,
+    "references": [
+      "EFTA00000862"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.8,
+    "overall": 0.85
+  },
+  "notes": "The painting is a known work titled 'Parsing Bill' by artist Petrina Ryan-Kleid. The text in the smaller frame to the right is illegible due to the resolution and distance of the photograph.",
+  "file_path": "IMAGES\\0001\\EFTA00000862.pdf",
+  "document_id": "EFTA00000862",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:48:32.320599Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

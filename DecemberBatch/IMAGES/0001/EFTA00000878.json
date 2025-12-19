@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000878.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a small room or hallway. The room has beige walls and dark gray carpet. On the left wall, there is a white wall-mounted document organizer. Below it sits a large silver Rimowa-style rolling suitcase. Further back is a white desk or table cluttered with various items including what appears to be a printer, papers, and office supplies. On the wall above the desk is a digital clock. A black backpack sits on the floor next to the desk. To the right, an open white interior door leads to another room.",
+    "layout": "Interior room shot framed by a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "3:18 30\n11 THU 70.3 --%\nEFTA00000878",
+    "text_regions": [
+      {
+        "region": "digital_clock_display",
+        "text": "3:18 30\n11 THU 70.3 --%",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000878",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000878"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000878"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph with luggage and office items",
+    "date": null,
+    "references": [
+      "EFTA00000878"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The digital clock shows 3:18:30, Thursday the 11th, with a temperature of 70.3 degrees. The year and month are not visible on the clock face. The text 'EFTA00000878' is a Bates stamp likely added for document discovery purposes.",
+  "file_path": "IMAGES\\0001\\EFTA00000878.pdf",
+  "document_id": "EFTA00000878",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:22.969501Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

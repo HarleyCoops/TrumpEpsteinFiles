@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000883.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a cluttered home office or security monitoring station. The room features a large L-shaped white desk. On the wall above the desk, there are four large flat-screen monitors mounted in a 2x2 grid, with additional smaller monitors on the desk surface. The desk is covered with various items including a landline telephone, a box of tissues, a computer mouse, tools (two yellow power drills, a tape measure, a red tool case), water bottles, and miscellaneous papers. A black mesh office chair is positioned at the desk. A black backpack is on the floor under the desk. In the background, a lit wall sconce is visible next to an open doorway leading to another room with stone-like walls.",
+    "layout": "Interior room shot with a focus on a desk and wall-mounted monitors.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "i \nEFTA00000883",
+    "text_regions": [
+      {
+        "region": "top left",
+        "text": "i",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000883",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000883"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000883"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of an office or monitoring room",
+    "date": null,
+    "references": [
+      "EFTA00000883"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The photograph appears to be evidence or documentation from an investigation, indicated by the Bates stamp 'EFTA00000883'. The room contains significant electronic equipment and tools, suggesting a workspace in transition or a security hub.",
+  "file_path": "IMAGES\\0001\\EFTA00000883.pdf",
+  "document_id": "EFTA00000883",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:57.156374Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

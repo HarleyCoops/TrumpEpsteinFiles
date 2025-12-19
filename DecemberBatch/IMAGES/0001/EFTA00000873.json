@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000873.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a security or monitoring workstation. The setup includes a large array of monitors: four large flat-screen TVs mounted on the wall above three smaller computer monitors on the desk. A laptop (MacBook) sits open on the desk alongside a keyboard, mouse, calculator, telephone, and various office supplies like tissues, a bottle of hand sanitizer, and a notepad. To the left is a server rack with an open door containing networking equipment. On the right wall, there are several control panels, including what appears to be a fire alarm control panel and other building system interfaces.",
+    "layout": "Interior room view focusing on a desk workstation and wall-mounted equipment.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000873",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000873",
+        "type": "printed"
+      },
+      {
+        "region": "wall_panels",
+        "text": "[unclear: text on fire alarm and control panels]",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000873"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000873"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Monitoring workstation/Security room",
+    "date": null,
+    "references": [
+      "EFTA00000873"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The image is a clear photograph of a technical workspace. Most text on the desk items (papers, labels) is too small or blurred to read reliably, but the Bates stamp is clearly legible.",
+  "file_path": "IMAGES\\0001\\EFTA00000873.pdf",
+  "document_id": "EFTA00000873",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:49.036961Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "file_name": "EFTA00000900.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room, likely an office or study. The room features wood-paneled walls with several framed black-and-white portraits. A white leather sofa sits against the wall. In the foreground, a glass coffee table is cluttered with various books (including titles like 'maldives' and 'OSCAR NIEMEYER') and a bowl of colorful candies or lollipops. A tall, rectangular floor lamp stands next to the sofa. To the right, a white bookshelf is partially visible, containing books and a small sign that says 'PLEASE Take a Number'. The floor is covered with a black rug and a patterned circular rug under the table.",
+    "layout": "Interior room shot with furniture and decor; vertical orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PLEASE\nTake a\nNumber\n\nOSCAR NIEMEYER\nCASAS\n\nmaldives\nTHE UNDERWATER KINGDOM\n\nEFTA00000900",
+    "text_regions": [
+      {
+        "region": "sign on bookshelf",
+        "text": "PLEASE Take a Number",
+        "type": "printed"
+      },
+      {
+        "region": "book cover on table",
+        "text": "OSCAR NIEMEYER CASAS",
+        "type": "printed"
+      },
+      {
+        "region": "book cover on table",
+        "text": "maldives THE UNDERWATER KINGDOM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000900",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Marilyn Monroe (portrait)",
+      "Audrey Hepburn (portrait)",
+      "Oscar Niemeyer (book subject)"
+    ],
+    "organizations": [],
+    "locations": [
+      "Maldives"
+    ],
+    "document_numbers": [
+      "EFTA00000900"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000900 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a room with white sofa, books, and portraits",
+    "date": null,
+    "references": [
+      "EFTA00000900"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The portraits on the wall appear to be iconic figures including Marilyn Monroe and Audrey Hepburn. The text on the books is partially obscured by the angle and other objects.",
+  "file_path": "IMAGES\\0001\\EFTA00000900.pdf",
+  "document_id": "EFTA00000900",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:01.948624Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

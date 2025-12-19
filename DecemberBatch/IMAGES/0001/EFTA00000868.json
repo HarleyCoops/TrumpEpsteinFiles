@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000868.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph showing a doorway and two chairs. On the left is a white, ribbed modern office chair with chrome armrests. In the foreground on the right is a dark, high-back ergonomic office chair. The doorway in the center is open, revealing a white paneled door and a glimpse into another room. Inside the other room, a dark rectangular object (possibly a plaque or small monitor) is mounted on the wall. The walls are a neutral beige/tan color with white trim around the door frame and ceiling.",
+    "layout": "Interior room shot with a doorway as the central focus, flanked by furniture.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "2 \nEFTA00000868",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "2",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000868",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000868"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000868",
+      "Page number: 2"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a room with office chairs and an open door",
+    "date": null,
+    "references": [
+      "EFTA00000868"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text '2' and 'EFTA00000868' are digital overlays/stamps typically used for document discovery and evidence tracking.",
+  "file_path": "IMAGES\\0001\\EFTA00000868.pdf",
+  "document_id": "EFTA00000868",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:49:14.139129Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

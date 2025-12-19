@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000875.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a small room or storage area. In the foreground, the back of a black and grey mesh office chair is visible. The room beyond contains a dark countertop cluttered with various items including cardboard boxes, spray cans (one yellow, one blue/white), and other supplies. Below the counter on the floor is a black tool bag, a white plastic shopping bag with blue text, and some yellow items. White cabinets are mounted on the wall above the counter. The room has beige walls, white trim, and a grey patterned carpet. A grey rectangular object is mounted on the wall to the left.",
+    "layout": "Interior photograph with a doorway framing the scene.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000875\nDU[unclear: ane]\n[unclear: rege]",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000875",
+        "type": "printed"
+      },
+      {
+        "region": "body_object_label",
+        "text": "DU[unclear: ane]\n[unclear: rege]",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Duane Reade"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000875"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000875"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a storage or utility room",
+    "date": null,
+    "references": [
+      "EFTA00000875"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.85,
+    "structured_data": 0.9,
+    "overall": 0.9
+  },
+  "notes": "The text on the white plastic bag appears to be a 'Duane Reade' logo, though it is partially obscured and wrinkled. The number at the bottom right is a standard Bates stamp used in legal and oversight documentation.",
+  "file_path": "IMAGES\\0001\\EFTA00000875.pdf",
+  "document_id": "EFTA00000875",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:50:04.161619Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
