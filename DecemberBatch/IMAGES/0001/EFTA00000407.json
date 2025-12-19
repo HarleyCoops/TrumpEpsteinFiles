@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000407.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a built-in white cabinet or closet with four doors (two upper, two lower) set into a recessed wall area. To the left is a doorway or hallway opening with a grey-painted frame. The floor in the foreground has a black and white checkered pattern, while the floor inside the closet alcove appears to be a light-colored tile or linoleum, bordered by red tape or a protective strip labeled 'PREMIUM CARPET'. There is a light switch on the wall to the left of the cabinet.",
+    "layout": "Vertical orientation showing an interior architectural space.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000407\nPREMIUM CARPET\nPET GRIPPER",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000407",
+        "type": "printed"
+      },
+      {
+        "region": "floor_tape",
+        "text": "PREMIUM CARPET\nPET GRIPPER",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000407"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000407"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a storage cabinet and doorway",
+    "date": null,
+    "references": [
+      "EFTA00000407"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'PREMIUM CARPET' and 'PET GRIPPER' is visible on the red protective tape on the floor at the base of the cabinet. The alphanumeric string in the bottom right corner is a Bates stamp used for document tracking.",
+  "file_path": "IMAGES\\0001\\EFTA00000407.pdf",
+  "document_id": "EFTA00000407",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:59.023491Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

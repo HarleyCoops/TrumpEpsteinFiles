@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000398.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small kitchen or kitchenette area. It features white upper and lower cabinetry, a stainless steel sink set into a white countertop, and a black and white checkered tile floor. A stainless steel range hood is mounted on the wall to the left of the upper cabinets. A roll of paper towels is mounted under the upper cabinets. A flexible hose or pipe is visible on the right side of the counter, extending towards the floor. The walls are painted a light cream or yellow color.",
+    "layout": "The image is a vertical shot of a kitchen corner, showing the floor, lower cabinets, countertop, upper cabinets, and a range hood.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000398",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000398",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000398"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000398"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Kitchenette area",
+    "date": null,
+    "references": [
+      "EFTA00000398"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation. The text 'EFTA00000398' is a Bates stamp used for document tracking.",
+  "file_path": "IMAGES\\0001\\EFTA00000398.pdf",
+  "document_id": "EFTA00000398",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:02.473201Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

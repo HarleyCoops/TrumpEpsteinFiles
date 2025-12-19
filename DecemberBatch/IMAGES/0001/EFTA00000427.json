@@ -1,0 +1,78 @@
+{
+  "file_name": "EFTA00000427.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a storage closet or small room. The floor has a black and white checkered pattern. On the left, there is an orange rolling garment rack holding several items: a green coat, white linens, and a blue-wrapped pillow on the bottom shelf. A small maroon bag with a gold emblem and a white tag is hanging from the top bar. On the right, there are metal wire shelving units stacked with various household supplies, including boxes of Kleenex tissues, boxes of what appears to be crackers or snacks, and rolls of paper towels. More white linens are hanging on a rack attached to the shelving unit. The walls are white, and the ceiling has standard office-style tiles.",
+    "layout": "Interior shot of a storage area with a checkered floor and various storage racks.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000427\nKleenex\nKleenex\nRAY\n[unclear: 9-7]",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000427",
+        "type": "printed"
+      },
+      {
+        "region": "labels on shelving",
+        "text": "Kleenex",
+        "type": "printed"
+      },
+      {
+        "region": "bag label",
+        "text": "RAY",
+        "type": "printed"
+      },
+      {
+        "region": "hanging tag",
+        "text": "[unclear: 9-7]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Kleenex"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000427"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00000427 (Bates stamp/identifier)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area contents",
+    "date": null,
+    "references": [
+      "EFTA00000427"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The photograph appears to be evidence documentation, likely from a search or inventory process, given the Bates stamp identifier at the bottom right. The handwritten tag on the garment rack is partially obscured and difficult to read with certainty.",
+  "file_path": "IMAGES\\0001\\EFTA00000427.pdf",
+  "document_id": "EFTA00000427",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:34:14.658409Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

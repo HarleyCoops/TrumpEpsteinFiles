@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000414.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a storage or utility room. In the foreground, there are several vacuum cleaners, including two Dyson cordless models mounted on the wall and a red upright vacuum. A gray hand truck (dolly) is positioned in the center. In the background, there is a hallway leading to a row of white lockers. To the right, a white countertop and sink are partially visible. The floor is covered in dark carpeting.",
+    "layout": "Interior room shot with equipment in the foreground and a hallway with lockers in the background.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "dyson\nEFTA00000414",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "dyson",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000414",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Dyson"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000414"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number EFTA00000414"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage room with cleaning equipment and lockers",
+    "date": null,
+    "references": [
+      "EFTA00000414"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph likely taken as part of an investigation or inventory, as indicated by the Bates-style numbering at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000414.pdf",
+  "document_id": "EFTA00000414",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:47.486199Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

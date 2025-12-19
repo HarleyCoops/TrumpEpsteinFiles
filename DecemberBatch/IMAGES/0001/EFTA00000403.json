@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000403.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bathroom vanity area. The room has light pink or beige walls and a black and white checkered tile floor. The vanity is white with a built-in sink and chrome faucet. Above the vanity is a rectangular mirror reflecting a doorway and part of a shower enclosure. A single wall-mounted light fixture is visible to the right of the mirror. The photo is taken from a doorway, with a white door frame visible on the left and right sides of the frame.",
+    "layout": "Interior architectural photograph showing a bathroom vanity and floor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000403",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000403",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000403"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000403' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000403"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a real estate or investigative file, as indicated by the Bates numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000403.pdf",
+  "document_id": "EFTA00000403",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:33.674558Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "file_name": "EFTA00000812.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a white paper form taped to a textured, beige-colored wall or door panel. The paper features a large, bold letter 'B' in the center, partially obscuring a faint circular seal. Below the 'B' is a table for search personnel information and a checkbox for search completion.",
+    "layout": "The image shows a centered document on a vertical surface. The document has a header area (redacted), a large central identifier, and a data table at the bottom.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "B\nSearch Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)\n[unclear: M. Kolodny]\nEFTA00000812",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "[Redacted black bar]",
+        "type": "printed"
+      },
+      {
+        "region": "center",
+        "text": "B",
+        "type": "printed"
+      },
+      {
+        "region": "table_headers",
+        "text": "Search Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "table_entry",
+        "text": "[unclear: M. Kolodny]",
+        "type": "handwritten"
+      },
+      {
+        "region": "checkbox",
+        "text": "X",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer_watermark",
+        "text": "EFTA00000812",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "[unclear: M. Kolodny]"
+    ],
+    "organizations": [
+      "FBI (visible in faint seal background)"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000812"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Faint circular seal behind the letter B (appears to be FBI seal)",
+      "Large black redaction bar at top of form",
+      "Handwritten 'X' in the 'Search Completed' box"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Search Evidence/Room Marker Form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Search and Seizure Documentation",
+    "date": null,
+    "references": [
+      "EFTA00000812"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.85,
+    "structured_data": 0.8,
+    "overall": 0.85
+  },
+  "notes": "The document appears to be a room or area marker (Room B) used during a law enforcement search. The name in the 'Search Personnel Name' column is handwritten and difficult to read with certainty. The background seal behind the 'B' is consistent with the FBI logo.",
+  "file_path": "IMAGES\\0001\\EFTA00000812.pdf",
+  "document_id": "EFTA00000812",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:42:37.724681Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

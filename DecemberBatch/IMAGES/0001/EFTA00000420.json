@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000420.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a built-in white storage cabinet with four doors (two upper, two lower) set into a wall. To the left of the cabinet is an open doorway leading into another room or storage area. Inside that room, a black hand truck (dolly) is visible, along with various items like a vacuum cleaner and shelving containing bottles and miscellaneous supplies. The floor is covered in dark blue or black carpeting.",
+    "layout": "Interior room shot with a focus on a built-in cabinet and an adjacent storage space.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000420",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000420",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000420"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000420"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior storage area and cabinetry",
+    "date": null,
+    "references": [
+      "EFTA00000420"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph likely taken for investigative or inventory purposes, as indicated by the Bates-style numbering at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000420.pdf",
+  "document_id": "EFTA00000420",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:27.176807Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

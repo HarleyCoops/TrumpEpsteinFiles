@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000418.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small bathroom or toilet stall. The image shows a white toilet with the lid open, a blue trash can with a white liner to the left, a silver toilet brush holder and a white plunger to the right. Above the toilet is a narrow white shelf holding three cleaning/aerosol bottles: a blue spray bottle, a green spray bottle, and an orange aerosol can. A toilet paper roll is mounted on the left wall, and a metal towel bar is visible on the right wall. The walls are off-white/beige, and the floor is a neutral-colored tile or linoleum.",
+    "layout": "Centered shot of a toilet area within a confined space.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000418",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000418",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000418"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000418' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom facility",
+    "date": null,
+    "references": [
+      "EFTA00000418"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary or documentation photograph, likely part of a larger set of discovery materials as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000418.pdf",
+  "document_id": "EFTA00000418",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:13.035315Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

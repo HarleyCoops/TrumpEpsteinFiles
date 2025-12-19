@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000417.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bathroom vanity area. The scene includes a white countertop with an inset oval sink, white cabinetry below, and a large mirror reflecting the opposite side of the room. On the wall, there is a lit sconce light and a paper towel dispenser. Various toiletries, including a blue tube (possibly toothpaste) and bottles, are visible on the counter. A blue cloth lies near the sink. To the left, an open doorway leads into a darker room. A white door frame with a visible metal hinge is in the immediate foreground on the right.",
+    "layout": "Interior room shot, portrait orientation, showing a bathroom vanity and an adjacent doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000417",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000417",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000417"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000417' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000417"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text 'EFTA00000417' is a Bates stamp likely added for document tracking in a legal or investigative context. The image appears to be evidence or documentation of a specific location.",
+  "file_path": "IMAGES\\0001\\EFTA00000417.pdf",
+  "document_id": "EFTA00000417",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:05.738131Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

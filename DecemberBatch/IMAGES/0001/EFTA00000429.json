@@ -1,0 +1,72 @@
+{
+  "file_name": "EFTA00000429.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a laundry room or commercial cleaning facility. The room features a black and white checkered floor. On the left, there is a white front-loading washing machine and a white laundry cart with a fabric liner. In the background, a large industrial dryer is recessed into an alcove. To the right, a large blue piece of industrial equipment (possibly a flatwork ironer or folder) is visible in the foreground. A doorway on the right leads to another room where hanging garments and storage racks are visible. A black garment hangs on a white wall hook next to the doorway.",
+    "layout": "Interior room view with equipment arranged along the walls and a central walkway.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "WARNING\nCAUTION-HOT\nADVERTENCIA-CALIENTE\nEFTA00000429",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000429",
+        "type": "printed"
+      },
+      {
+        "region": "equipment_label_blue_machine_left",
+        "text": "WARNING",
+        "type": "printed"
+      },
+      {
+        "region": "equipment_label_blue_machine_right",
+        "text": "CAUTION-HOT\nADVERTENCIA-CALIENTE",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000429"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000429",
+      "Warning and Caution labels on blue machinery"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Laundry facility interior",
+    "date": null,
+    "references": [
+      "EFTA00000429"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text on the warning labels is partially legible but clearly indicates safety warnings for industrial equipment. The Bates stamp 'EFTA00000429' is a standard document identifier for legal/oversight proceedings.",
+  "file_path": "IMAGES\\0001\\EFTA00000429.pdf",
+  "document_id": "EFTA00000429",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:34:29.169533Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "file_name": "EFTA00000419.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a white storage closet or cabinet with six visible shelves. The shelves are filled with various items including cardboard boxes, plastic storage bins with blue lids, hardware supplies, and white dome-shaped objects. The closet door is open, and a silver-colored door handle and latch are visible on the right side.",
+    "layout": "Vertical storage shelving unit with multiple levels.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "305L\nDL2700/26D\n311L\n311L\nHINGES\nHINGES\nRawl\n11\nTHIS SIDE UP\nEFTA00000419",
+    "text_regions": [
+      {
+        "region": "top_shelf_boxes",
+        "text": "305L",
+        "type": "handwritten"
+      },
+      {
+        "region": "second_shelf_box",
+        "text": "DL2700/26D",
+        "type": "printed"
+      },
+      {
+        "region": "second_shelf_right_boxes",
+        "text": "311L\n311L",
+        "type": "handwritten"
+      },
+      {
+        "region": "third_shelf_yellow_boxes",
+        "text": "HINGES\nHINGES",
+        "type": "printed"
+      },
+      {
+        "region": "third_shelf_small_box",
+        "text": "Rawl",
+        "type": "printed"
+      },
+      {
+        "region": "fourth_shelf_large_box",
+        "text": "11\nTHIS SIDE UP",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000419",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000419",
+      "DL2700/26D"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000419",
+      "Directional marking: THIS SIDE UP"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage closet contents",
+    "date": null,
+    "references": [
+      "EFTA00000419"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a forensic or evidentiary photograph of a storage area. The text 'DL2700/26D' likely refers to a Trilogy electronic keypad lock model. The white dome objects on the fifth shelf appear to be light fixtures or security camera housings.",
+  "file_path": "IMAGES\\0001\\EFTA00000419.pdf",
+  "document_id": "EFTA00000419",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:20.842129Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

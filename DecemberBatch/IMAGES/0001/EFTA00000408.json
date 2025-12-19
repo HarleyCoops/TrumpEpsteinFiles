@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000408.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow hallway with a black and white checkered floor. The walls are lined with large-scale photographic prints or murals. One mural on the right depicts an ornate, ancient-looking stone doorway or facade with Arabic-style script. Further down the hall, there is another dark mural. At the end of the hallway, several cardboard boxes are stacked, one of which has the 'Crate & Barrel' logo visible. A grey pedestal or counter is also visible near the boxes. The ceiling is a standard office-style drop ceiling with rectangular fluorescent light fixtures.",
+    "layout": "Perspective view looking down a long, narrow corridor.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Crate & Barrel\nEFTA00000408",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Crate & Barrel",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000408",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Crate & Barrel"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000408"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000408"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior hallway with murals and storage boxes",
+    "date": null,
+    "references": [
+      "EFTA00000408"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'Crate & Barrel' is partially obscured on a cardboard box in the background. The Bates stamp 'EFTA00000408' is clearly visible in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000408.pdf",
+  "document_id": "EFTA00000408",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:07.320996Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

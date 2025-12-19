@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000395.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A wide-angle photograph of an empty, sparsely furnished room undergoing some form of maintenance or renovation. The room has light yellow walls, a concrete or linoleum floor, and a drop ceiling with recessed lighting and a central dome light. There is a white door with a security bar, a smaller white door, and a window. A single wooden chair sits near the window with tools on it. A yellow power tool and a black extension cord are on the floor. Exposed wiring is visible on the right wall.",
+    "layout": "Interior room view",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000395",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000395",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000395"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000395' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000395"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be a piece of evidence or documentation from an investigation, indicated by the Bates stamp. The room shows signs of electrical work or renovation.",
+  "file_path": "IMAGES\\0001\\EFTA00000395.pdf",
+  "document_id": "EFTA00000395",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:43.379552Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

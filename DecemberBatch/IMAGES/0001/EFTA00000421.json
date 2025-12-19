@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000421.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a hallway or storage area. The floor has a black and white checkered pattern. On the left, several cardboard boxes are stacked, one of which has 'Crate & Barrel' branding. A hand truck is leaning against the boxes. In the center, there is a gray and silver machine, possibly a shredder or air purifier. On the right wall, there is a large, framed black and white photograph of a person in a white robe crouching on a wooden deck. The person's face is obscured by a black box. In the background, there is a gray door with a circular window and a red fire extinguisher mounted on the wall next to it.",
+    "layout": "Interior hallway view with storage items and wall art.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Crate & Barrel\nEFTA00000421",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Crate & Barrel",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000421",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Crate & Barrel"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000421"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000421"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area with boxes and wall art",
+    "date": null,
+    "references": [
+      "EFTA00000421"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The face of the person in the large wall photograph has been redacted with a black box. The text 'Crate & Barrel' is partially visible on a box.",
+  "file_path": "IMAGES\\0001\\EFTA00000421.pdf",
+  "document_id": "EFTA00000421",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:33.901893Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

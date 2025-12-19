@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000425.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a storage room or walk-in closet. The room features a black and white checkered floor and a drop ceiling with fluorescent lighting panels. Inside, there are several metal rolling garment racks. One rack on the left holds dark clothing and white shirts. A central rack holds boxes of what appear to be medical or cleaning supplies (possibly gloves or masks). A large orange rolling rack in the foreground holds heavy, patterned curtains or drapes. The room appears to be a storage area for linens and supplies.",
+    "layout": "Interior shot through a doorway with a central focus on storage racks.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000425",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000425",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000425"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000425' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage room contents",
+    "date": null,
+    "references": [
+      "EFTA00000425"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be evidence or documentation of a storage area. The boxes on the central rack have blue and yellow branding consistent with bulk-packaged disposable supplies.",
+  "file_path": "IMAGES\\0001\\EFTA00000425.pdf",
+  "document_id": "EFTA00000425",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:34:00.555465Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

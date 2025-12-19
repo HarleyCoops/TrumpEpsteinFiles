@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000426.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a cluttered storage or utility room. In the foreground, there is an orange rolling garment rack with a patterned curtain hanging from it. The floor has a black and white checkered tile pattern. Against the back wall, there are several large black electronic components or speakers, a small black Frigidaire refrigerator, and a white steam cleaner. A complex tangle of blue, purple, and white cables hangs from the ceiling and runs down the wall into various electronic boxes and panels. A grey electrical or networking panel is mounted on the right wall. The room appears to be a makeshift server or utility closet.",
+    "layout": "Interior shot looking into a small room through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "FRIGIDAIRE\nEFTA00000426",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "FRIGIDAIRE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000426",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Frigidaire"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000426"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000426"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Utility/Storage room with electronics and cabling",
+    "date": null,
+    "references": [
+      "EFTA00000426"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp EFTA00000426. It depicts a room with significant electrical/data cabling and various household/office items.",
+  "file_path": "IMAGES\\0001\\EFTA00000426.pdf",
+  "document_id": "EFTA00000426",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:34:07.778543Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000410.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow hallway. The floor features a black and white checkerboard pattern. On the left wall, there is a large white canvas with vertical gray/brown line patterns. The ceiling is a standard drop-ceiling with square tiles and rectangular fluorescent light fixtures. Further down the hallway, there are stacked cardboard boxes, one of which has 'Crate & Barrel' branding visible. A door is visible at the far end of the corridor.",
+    "layout": "Perspective shot looking down a hallway",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000410\nCrate & Barrel",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000410",
+        "type": "printed"
+      },
+      {
+        "region": "background_object",
+        "text": "Crate & Barrel",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Crate & Barrel"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000410"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000410' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior hallway photograph",
+    "date": null,
+    "references": [
+      "EFTA00000410"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The text 'Crate & Barrel' is partially obscured on a box in the background. The primary text is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000410.pdf",
+  "document_id": "EFTA00000410",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:19.738987Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

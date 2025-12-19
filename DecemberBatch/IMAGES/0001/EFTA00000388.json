@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000388.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, wide-shot photograph of a commercial-style kitchen. The room features white cabinetry, stainless steel backsplashes, and a black-and-white checkered floor. In the center is a glass-topped dining table with four grey chairs. The kitchen is equipped with professional-grade appliances including a large Garland range and griddle, a commercial dishwasher (Jackson brand), and various countertop appliances like a blender and coffee maker. A blue spray bottle sits on the glass table.",
+    "layout": "The kitchen is arranged in an L-shape with a central dining area. Appliances are positioned along the walls under white cabinets and a large stainless steel ventilation hood.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Jackson\nGARLAND\nEFTA00000388",
+    "text_regions": [
+      {
+        "region": "appliance_label_left",
+        "text": "Jackson",
+        "type": "printed"
+      },
+      {
+        "region": "appliance_label_right",
+        "text": "GARLAND",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000388",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Jackson",
+      "Garland"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000388"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000388"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a kitchen facility",
+    "date": null,
+    "references": [
+      "EFTA00000388"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a photographic exhibit, likely part of a legal or investigative discovery process as indicated by the EFTA prefix Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000388.pdf",
+  "document_id": "EFTA00000388",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:29:57.475662Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

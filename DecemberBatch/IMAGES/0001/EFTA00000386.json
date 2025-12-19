@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000386.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a narrow pantry or storage area leading into a kitchen. On the left, there are white upper and lower cabinets. Several large blue water cooler jugs are stored on the counter. In the foreground on the right, there is a metal utility cart holding various items including what appears to be a laminator or small appliance and some papers. The floor has a black and white checkered tile pattern. Through a doorway in the background, a commercial-style kitchen is visible with stainless steel appliances, a range hood, and chairs.",
+    "layout": "Interior room shot with a central perspective looking through a doorway.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000386",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000386",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000386"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000386' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a storage/pantry area and kitchen",
+    "date": null,
+    "references": [
+      "EFTA00000386"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a clear photograph likely taken during an investigation or site visit. The only text present is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000386.pdf",
+  "document_id": "EFTA00000386",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:29:44.580025Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

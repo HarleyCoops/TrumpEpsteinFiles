@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000389.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a kitchen area featuring two white top-freezer refrigerators positioned in the center of the room. The floor has a black and white checkerboard pattern. In the background, there are white kitchen cabinets, a sink, and a microwave. To the right, a glass dining table with grey chairs is visible. The ceiling is a drop-tile grid with recessed lighting and vents. On the far left, a stainless steel commercial-style refrigerator or freezer unit is partially visible.",
+    "layout": "Landscape orientation showing a wide-angle view of a kitchen/breakroom interior.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "J \nEFTA00000389",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000389",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "J",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000389"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000389"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a kitchen or breakroom facility",
+    "date": null,
+    "references": [
+      "EFTA00000389"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'J' appears as a single character in the upper left margin area, likely a stray mark or part of a filing system. The primary text is the Bates stamp identifier at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000389.pdf",
+  "document_id": "EFTA00000389",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:03.893808Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

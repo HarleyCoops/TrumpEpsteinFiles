@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00000813.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a small utility or storage room. The room has beige walls, white crown molding, and a dark striped carpet. A ceiling light with a gold-colored base is on. There is an open ceiling tile revealing wires. On the left wall, there is a gray rectangular panel. A white plastic shopping bag with the word 'DUANE' visible is on the floor. In the background, there is a counter with various items including yellow power tools (possibly DeWalt or Ryobi), boxes, and a roll of paper towels. A black tool bag and other items are on the floor in the corner.",
+    "layout": "Interior photograph showing a room through an open white door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I \nEFTA00000813\nDUANE\nre",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000813",
+        "type": "printed"
+      },
+      {
+        "region": "body_object_label",
+        "text": "DUANE\nre",
+        "type": "printed"
+      },
+      {
+        "region": "top_margin",
+        "text": "I",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Duane Reade"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000813"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic footer: EFTA00000813"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a storage or utility room with tools and supplies",
+    "date": null,
+    "references": [
+      "EFTA00000813"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'DUANE' and 're' appear to be part of a 'Duane Reade' shopping bag logo. The number EFTA00000813 is a bates-style tracking number for the document collection.",
+  "file_path": "IMAGES\\0001\\EFTA00000813.pdf",
+  "document_id": "EFTA00000813",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:42:36.682954Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

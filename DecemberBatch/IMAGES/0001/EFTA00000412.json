@@ -1,0 +1,77 @@
+{
+  "file_name": "EFTA00000412.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a utility or storage room. The room contains various cleaning supplies and equipment. On the left, there are vacuum cleaners (including a red Miele canister vacuum and a Dyson cordless vacuum) and a gray metal cart. In the center, a doorway leads to a back area with a row of white lockers and a ladder leaning against the wall. On the right, there is a small kitchenette area with a white countertop, a stainless steel sink, a paper towel holder, and a red fire extinguisher in the foreground.",
+    "layout": "Interior room shot with a central hallway/doorway perspective.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000412\nINSTRUCTIONS\n2018",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000412",
+        "type": "typed"
+      },
+      {
+        "region": "fire_extinguisher_label",
+        "text": "INSTRUCTIONS",
+        "type": "printed"
+      },
+      {
+        "region": "fire_extinguisher_tag",
+        "text": "2018",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2018"
+    ],
+    "people": [],
+    "organizations": [
+      "Miele",
+      "Dyson"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000412"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Yellow inspection tag on fire extinguisher",
+      "Bates stamp EFTA00000412"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Utility/Storage Room Interior",
+    "date": null,
+    "references": [
+      "EFTA00000412"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text '2018' is visible on a yellow inspection tag attached to the fire extinguisher. The vacuum brands Miele and Dyson are identified by their distinct product designs and logos visible on the equipment.",
+  "file_path": "IMAGES\\0001\\EFTA00000412.pdf",
+  "document_id": "EFTA00000412",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:32.815251Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

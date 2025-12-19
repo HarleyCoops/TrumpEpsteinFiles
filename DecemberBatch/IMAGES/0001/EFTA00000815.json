@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000815.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small bathroom taken from a doorway. The bathroom features white square floor tiles, a white pedestal sink, a white toilet with the lid open, and a glass-walled shower stall on the right. A large mirror is mounted above the sink, reflecting a doorway and a light fixture from the opposite wall. A circular light fixture is mounted on the wall above the mirror. A brown wicker-style trash can with a white liner is positioned between the toilet and the sink. A clothes hanger is visible hanging on a hook on the wall reflected in the mirror.",
+    "layout": "Interior room shot, portrait orientation, framed by a white door on the left and a door frame on the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I \nEFTA00000815",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000815",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "I",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000815"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/document identifier: EFTA00000815"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000815"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'I' appears to be a stray character or part of a larger header/footer system not fully visible. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000815.pdf",
+  "document_id": "EFTA00000815",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:42:50.491469Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

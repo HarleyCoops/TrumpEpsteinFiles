@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000428.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A well-lit indoor photograph of a laundry or utility room. The room features a black and white checkered floor. On the left, there is a large industrial-style blue and red ironing machine (mangle) with white and yellow rollers. Above it is a garment rack with several white shirts on hangers. In the center background, there are white cabinets with drawers, a mirror reflecting the room, and a flat-screen television. To the right, there is a white table covered with a white cloth, an iron resting on a wall-mounted shelf, and a portion of a white washing machine or dryer in the foreground. The walls and cabinetry are white.",
+    "layout": "The photograph is taken from a slightly elevated, wide-angle perspective showing the interior of a functional room.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "PUSH TO STOP IRONER\nEMPUJE PARA PARAR\nWARNING\nCUIDADO\nWARNING\nCUIDADO\nEFTA00000428",
+    "text_regions": [
+      {
+        "region": "ironing machine label",
+        "text": "PUSH TO STOP IRONER\nEMPUJE PARA PARAR",
+        "type": "printed"
+      },
+      {
+        "region": "safety warning labels",
+        "text": "WARNING\nCUIDADO\nWARNING\nCUIDADO",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000428",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000428"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000428"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a laundry or utility room",
+    "date": null,
+    "references": [
+      "EFTA00000428"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the safety labels is partially obscured by the angle but the primary warnings are legible. The Bates stamp 'EFTA00000428' is clearly visible in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000428.pdf",
+  "document_id": "EFTA00000428",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:34:22.130830Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

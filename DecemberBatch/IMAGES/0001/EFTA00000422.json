@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000422.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow hallway or storage area. On the left wall is a large, framed piece of ornate, patterned fabric or wallpaper with a bamboo-style frame. In the background, several cardboard boxes are stacked, one of which has the word 'Barrel' printed on it. A gray door with a circular window is visible at the end of the hallway. To the right of the door is a red fire extinguisher. A hand truck (dolly) leans against the wall near the boxes. The floor has a black and white checkered tile pattern. In the foreground on the right, a gray and white appliance or piece of equipment is partially visible.",
+    "layout": "Perspective view looking down a hallway towards a door.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Barrel\nEFTA00000422",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Barrel",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000422",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Barrel"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000422"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000422"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area or hallway interior",
+    "date": null,
+    "references": [
+      "EFTA00000422"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp EFTA00000422. The 'Barrel' text appears to be part of a brand name on a cardboard box (likely Crate & Barrel).",
+  "file_path": "IMAGES\\0001\\EFTA00000422.pdf",
+  "document_id": "EFTA00000422",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:40.636209Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

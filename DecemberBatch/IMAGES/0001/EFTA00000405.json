@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000405.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of an empty closet. The closet features a single white shelf and a chrome hanging rod. The walls are painted a light cream or off-white color. The floor appears to be a light-colored carpet or concrete. A dark electrical outlet or cover plate is visible on the lower right back wall. The door frame is white, and a portion of a white door is visible on the left side with a metal hook attached to it.",
+    "layout": "Interior architectural shot",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I' \nEFTA00000405",
+    "text_regions": [
+      {
+        "region": "top_margin",
+        "text": "I'",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000405",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000405"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000405' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a closet",
+    "date": null,
+    "references": [
+      "EFTA00000405"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'I'' at the top appears to be a fragment of a header or a scanning artifact. The primary identifier is the Bates stamp at the bottom.",
+  "file_path": "IMAGES\\0001\\EFTA00000405.pdf",
+  "document_id": "EFTA00000405",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:45.996764Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

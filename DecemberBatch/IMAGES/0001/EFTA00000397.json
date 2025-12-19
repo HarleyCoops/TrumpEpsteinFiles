@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000397.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a small utility or storage room. The room features beige walls and a black-and-white checkered tile floor. On the right wall, there are two large electrical panel boxes; one has its outer door open, revealing a grey interior. Below the panels is an electrical outlet box without a cover. To the far right, a white shelving unit is partially visible with a roll of paper towels on one shelf. On the left wall, there is a small square access panel near the floor. The lighting is bright, likely from a camera flash, casting shadows on the wall.",
+    "layout": "Landscape photograph showing a corner of a room with electrical infrastructure.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000397",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000397",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000397"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number 'EFTA00000397' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a utility room with electrical panels",
+    "date": null,
+    "references": [
+      "EFTA00000397"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard investigative or evidentiary photograph, likely part of a larger set of documentation as indicated by the Bates-style numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000397.pdf",
+  "document_id": "EFTA00000397",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:56.403931Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

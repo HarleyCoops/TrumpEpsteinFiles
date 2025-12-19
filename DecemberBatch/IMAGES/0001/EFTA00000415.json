@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000415.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a row of six white lockers built into a recessed wall area. The lockers are tall and narrow, each with a silver handle, a circular lock mechanism, and a small circular identification tag at the top. The lockers are set against off-white walls. To the right, an open doorway is visible, showing a door handle and part of another room. The floor in front of the lockers is covered with a dark, textured mat or carpet.",
+    "layout": "The image shows a centered view of the locker unit, with a wall on the left and a doorway on the right. A watermark/document ID is located in the bottom right corner.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000415",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000415",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000415"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document ID watermark: EFTA00000415"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photographic evidence",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of lockers",
+    "date": null,
+    "references": [
+      "EFTA00000415"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard forensic or investigative photograph. There are small labels or numbers on the lockers that are too small to read clearly, though they appear to be standard locker identification tags.",
+  "file_path": "IMAGES\\0001\\EFTA00000415.pdf",
+  "document_id": "EFTA00000415",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:53.896598Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

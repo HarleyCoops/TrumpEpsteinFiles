@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000385.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an indoor hallway and a doorway. In the foreground, a grey door is partially open, with a white paper sign taped to it. The sign features the large letters 'JJ' and a grid below. To the left of the door is a white wall with a small black sign labeled 'C'. Further left, a stainless steel utility cart holds various items including a black sandwich press, a red tool, and other kitchen-related objects. In the background, a room with a black and white checkered floor and stainless steel kitchen equipment is visible. A water cooler stands against the wall. The image has a timestamp/reference number in the bottom right corner.",
+    "layout": "Interior architectural shot with a focus on a doorway and a utility cart in a hallway.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "C\nJJ\nEFTA00000385",
+    "text_regions": [
+      {
+        "region": "door_signage",
+        "text": "C",
+        "type": "printed"
+      },
+      {
+        "region": "paper_sign",
+        "text": "JJ",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000385",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000385"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000385"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a facility hallway and kitchen area",
+    "date": null,
+    "references": [
+      "EFTA00000385"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The paper sign on the door contains a grid that appears to be a log or schedule, but the text within the grid is too small and blurry to extract reliably. The letter 'C' is on a small black plaque next to the door frame.",
+  "file_path": "IMAGES\\0001\\EFTA00000385.pdf",
+  "document_id": "EFTA00000385",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:29:38.135778Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

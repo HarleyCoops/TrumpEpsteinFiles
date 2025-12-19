@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000404.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bathroom interior. The image shows a white bathtub with a sliding glass shower door framed in chrome. To the left, a partial view of a toilet is visible in a separate alcove. The floor features a black and white checkered tile pattern. The walls are painted a light pink or off-white color. A white door with a silver doorknob is visible on the right side of the frame, partially obscuring the shower.",
+    "layout": "The photograph is taken from a slightly elevated angle looking into the bathroom area. The shower is the central focus, with the toilet area to the left and a door to the right.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000404",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000404",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000404"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000404' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Bathroom interior photograph",
+    "date": null,
+    "references": [
+      "EFTA00000404"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary photograph, likely from a property inspection or investigation, as indicated by the Bates numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000404.pdf",
+  "document_id": "EFTA00000404",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:39.485003Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

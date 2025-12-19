@@ -1,0 +1,85 @@
+{
+  "file_name": "EFTA00000413.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an open storage closet or pantry filled with various cleaning supplies and household items. The closet has multiple white shelves. A gray door is partially open on the left, with a white paper sign labeled 'LL' taped to it. The shelves contain items like Miele vacuum bags, AirClean filters, spray bottles (D-Force, various cleaners), jugs of liquid (possibly carpet cleaner or bleach), and boxes labeled 'TASTY BANANA' mouse and insect traps. A wooden frame or stand is leaning against the bottom shelves.",
+    "layout": "Vertical orientation showing a multi-tiered shelving unit inside a closet.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "LL\nAirClean\nAirClean\nAirClean\nMiele\nMiele\nMiele\nSL\nSPR\nD-Force\nTASTY BANANA™\nMOUSE & INSECT\n72-\n144 T\nDEEPCLEAN\nTT\nEFTA00000413",
+    "text_regions": [
+      {
+        "region": "door_sign",
+        "text": "LL",
+        "type": "printed"
+      },
+      {
+        "region": "top_shelf_items",
+        "text": "AirClean\nAirClean\nAirClean\nMiele\nMiele\nMiele",
+        "type": "printed"
+      },
+      {
+        "region": "middle_shelf_items",
+        "text": "SL\nSPR\nD-Force\nTASTY BANANA™\nMOUSE & INSECT\n72-\n144 T",
+        "type": "printed"
+      },
+      {
+        "region": "lower_shelf_items",
+        "text": "DEEPCLEAN\nTT",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000413",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Miele",
+      "AirClean"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000413"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Large 'LL' printed on a white sign taped to the door",
+      "Bates stamp EFTA00000413 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage closet contents",
+    "date": null,
+    "references": [
+      "EFTA00000413"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation. The sign on the door 'LL' likely serves as a location or evidence marker. Most text extracted comes from product labels on the shelves.",
+  "file_path": "IMAGES\\0001\\EFTA00000413.pdf",
+  "document_id": "EFTA00000413",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:40.655800Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

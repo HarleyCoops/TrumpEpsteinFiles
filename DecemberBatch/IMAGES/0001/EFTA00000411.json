@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000411.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph showing a doorway leading into a room. The door is a light gray color and is partially open, revealing a hallway or storage area. On the door, there is a small white piece of paper taped with some text and a black graphic. Inside the room, there is a hand truck (dolly), a row of white lockers, a small white counter with a sink, and a ladder leaning against the wall. The lighting appears to be from overhead fluorescent fixtures.",
+    "layout": "The image is a landscape-oriented photograph. The foreground is dominated by the open gray door on the left. The background shows the interior of a utility or locker room.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000411",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000411",
+        "type": "printed"
+      },
+      {
+        "region": "door_label",
+        "text": "[unclear: graphic and text on white paper]",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000411"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000411 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a room with lockers and equipment",
+    "date": null,
+    "references": [
+      "EFTA00000411"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the paper attached to the door is too small and blurry to read accurately. The primary identifiable text is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000411.pdf",
+  "document_id": "EFTA00000411",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:25.683790Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

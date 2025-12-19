@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000409.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A dimly lit interior hallway. The floor features a black and white checkered pattern. On the left wall, there is a large, vertical piece of abstract art or a textured panel. The ceiling has several recessed square fluorescent light fixtures, only a few of which are illuminated, casting a soft glow. The right side of the image shows a dark, reflective surface, possibly a glass partition or a dark-painted wall. The end of the hallway leads into a darker room or area where some indistinct objects are visible.",
+    "layout": "Landscape orientation photograph with a perspective view down a hallway.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000409",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000409",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000409"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000409"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior hallway view",
+    "date": null,
+    "references": [
+      "EFTA00000409"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is very dark, making it difficult to identify specific objects at the end of the hallway. The OCR provided in the prompt ('a INNS es ai') appears to be noise or misinterpretation of visual artifacts, as only the Bates stamp is clearly legible text.",
+  "file_path": "IMAGES\\0001\\EFTA00000409.pdf",
+  "document_id": "EFTA00000409",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:13.462229Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

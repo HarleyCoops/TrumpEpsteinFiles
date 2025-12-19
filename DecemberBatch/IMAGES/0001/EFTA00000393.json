@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000393.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a hallway or transition area within a building. The walls are painted a pale yellow/cream color. There are three visible doorways: one on the left leading to a dark room, one in the center leading to a room with black and white checkered floor tiles, and one on the right leading to another dark room. The floor in the foreground is a neutral tan/beige tile or linoleum. Red tape or markings are visible along the baseboards on the floor. An electrical outlet is visible on the wall between the center and right doorways.",
+    "layout": "Symmetrical interior shot showing three doorways from a central hallway perspective.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000393",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000393",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000393"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000393"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a building interior",
+    "date": null,
+    "references": [
+      "EFTA00000393"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The OCR provided in the prompt ('AMINI MI MI. ISM NW BM MEM RI MS IN') appears to be noise or misinterpretation of visual patterns in the image, as no such text is visible on the walls or surfaces. The only legible text is the document ID at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000393.pdf",
+  "document_id": "EFTA00000393",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:30.711509Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

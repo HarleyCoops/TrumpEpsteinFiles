@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000406.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow interior hallway. The walls are painted a light cream or beige color. On the right wall, there is a large piece of modern art depicting a figure in yellow and black tones. At the end of the hallway, there is a white double-door closet. Two circular flush-mount ceiling lights are visible. On the left floor, there is a red fire extinguisher. Red tape or a protective strip runs along the baseboards on both sides of the floor. A light switch or small panel is visible on the center wall segment.",
+    "layout": "Interior architectural view looking down a corridor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "r \nEFTA00000406\nPREMIUM CARPET GRIP\nPREMIUM CARPET GRIP",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000406",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "r",
+        "type": "printed"
+      },
+      {
+        "region": "floor_tape",
+        "text": "PREMIUM CARPET GRIP",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000406"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000406"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office hallway",
+    "date": null,
+    "references": [
+      "EFTA00000406"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'PREMIUM CARPET GRIP' is repeated on the protective tape along the floor edges. The 'r' in the top left appears to be a stray character or part of a larger watermark/header cut off by the frame.",
+  "file_path": "IMAGES\\0001\\EFTA00000406.pdf",
+  "document_id": "EFTA00000406",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:52.389065Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

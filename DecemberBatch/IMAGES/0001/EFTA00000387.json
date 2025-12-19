@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000387.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A wide-angle photograph of a large, commercial-style kitchen. The room features white cabinetry, stainless steel countertops and backsplashes, and a black and white checkered floor. There is a large professional-grade stove and oven unit under a massive stainless steel ventilation hood. A smaller dishwasher unit is integrated into the cabinetry on the left. A glass-topped table with two grey chairs is positioned in the center of the room. The ceiling is a drop-tile grid with recessed lighting and square light panels.",
+    "layout": "Interior kitchen scene with a central open floor area and perimeter cabinetry/appliances.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000387",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000387",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000387"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000387' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a kitchen facility",
+    "date": null,
+    "references": [
+      "EFTA00000387"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a clear photograph of a kitchen, likely part of an evidentiary or documentation set as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000387.pdf",
+  "document_id": "EFTA00000387",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:29:50.756413Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

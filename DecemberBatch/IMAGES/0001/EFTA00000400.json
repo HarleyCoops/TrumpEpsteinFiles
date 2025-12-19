@@ -1,0 +1,63 @@
+{
+  "file_name": "EFTA00000400.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room, likely a basement or storage area. The room has light beige walls and a light brown floor. A white door is open on the left, revealing a dark interior space. On the back wall, there is a small white shelf with electronic equipment (possibly a router or modem) and several black cables hanging down to the floor. There is a large structural pillar or bump-out on the right side of the back wall. A ceiling vent is visible in the top right. A light switch is on the wall to the left of the door.",
+    "layout": "Interior room shot with a wide-angle perspective.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000400",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000400",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000400"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000400' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00000400"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier. No other text is present in the image.",
+  "file_path": "IMAGES\\0001\\EFTA00000400.pdf",
+  "document_id": "EFTA00000400",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:15.042775Z",
+    "model": "gemini-3-flash-preview"
+  }
+}ni-3-flash-preview"
+  }
+}

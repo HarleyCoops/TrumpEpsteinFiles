@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000402.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph showing a doorway leading into a small room or alcove. The floor features a black and white checkerboard tile pattern. To the left, a portion of a white cabinet or vanity with a countertop is visible. The walls are painted an off-white or light beige color. In the background room, a standard electrical outlet is visible on the lower wall. On the right, an open door with a silver hinge and doorknob is partially in frame.",
+    "layout": "Interior architectural shot looking through a doorway.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000402",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000402",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000402"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000402' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room view",
+    "date": null,
+    "references": [
+      "EFTA00000402"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary or real estate style photograph of an interior space. The only text is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000402.pdf",
+  "document_id": "EFTA00000402",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:27.829300Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

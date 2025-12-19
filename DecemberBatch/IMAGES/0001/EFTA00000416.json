@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000416.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A vertical photograph showing a hallway or bathroom area. On the left is a glass-enclosed shower stall with a white towel draped over the top of the glass door. The shower interior has white square tiling. To the right of the shower is a narrow hallway leading to another doorway. The walls are off-white, and the flooring appears to be a polished concrete or dark stone. A light switch is visible on the wall to the left of the shower.",
+    "layout": "Interior architectural shot showing a shower stall and an adjacent hallway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000416",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000416",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000416"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000416' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom/shower area",
+    "date": null,
+    "references": [
+      "EFTA00000416"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000416.pdf",
+  "document_id": "EFTA00000416",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:32:59.475339Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

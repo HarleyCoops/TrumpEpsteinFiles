@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000391.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A wide-angle indoor photograph of a breakroom or kitchen area. The room features a black and white checkered floor and a drop ceiling with recessed lighting and square fluorescent fixtures. In the foreground, there is a glass-topped table with four grey upholstered chairs. On the table sits a blue spray bottle with a red trigger. In the background, there are several large appliances including a stainless steel commercial refrigerator/freezer and a white residential-style refrigerator. To the right, there is a smaller table with two chairs, a wall-mounted television, and a doorway leading to another room. A trash can and a small step stool are visible near the center.",
+    "layout": "The image is a single photograph with a text identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000391",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000391",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000391"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000391"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a kitchen or breakroom facility",
+    "date": null,
+    "references": [
+      "EFTA00000391"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates stamp numbering. The room contains various items including a spray bottle, a television, and kitchen appliances.",
+  "file_path": "IMAGES\\0001\\EFTA00000391.pdf",
+  "document_id": "EFTA00000391",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:17.126354Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

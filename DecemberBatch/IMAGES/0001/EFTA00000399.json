@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000399.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an empty room with white walls and a beige floor. There are two circular, tiered green side tables or nightstands placed against the back wall. On the left table, there is a black telephone or similar electronic device with wires. On the right table, there is a black electronic box (possibly a cable box or router) with white cables. A single dome-style light fixture with a gold-colored rim is mounted on the ceiling. There are electrical outlets visible on the lower left and lower right walls. Two rectangular access panels or patches are visible on the lower part of the back wall.",
+    "layout": "Interior room shot, landscape orientation.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "~\nEFTA00000399",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000399",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "~",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000399"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000399"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00000399"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The image is a standard evidentiary photograph, likely from an investigation or property record, identified by the Bates stamp in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000399.pdf",
+  "document_id": "EFTA00000399",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:09.181223Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

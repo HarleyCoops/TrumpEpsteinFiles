@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000423.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a laundry or utility room. The foreground shows a grey door held open, with a white paper sign taped to it. The room inside has a black and white checkered tile floor, a drop ceiling with fluorescent lights, and white cabinetry. Visible appliances include a front-loading washing machine and what appears to be a dryer or refrigerator. A table covered with a white cloth is also visible.",
+    "layout": "Interior photograph with a doorway framing the scene.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "MM\nEFTA00000423",
+    "text_regions": [
+      {
+        "region": "sign on door",
+        "text": "MM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000423",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000423"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000423",
+      "White paper sign on door with large 'MM' and a grid/table below it"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a utility or laundry room",
+    "date": null,
+    "references": [
+      "EFTA00000423"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The sign on the door contains a table/grid that is too small to read clearly, but the large letters 'MM' are prominent. The image appears to be an evidentiary photograph.",
+  "file_path": "IMAGES\\0001\\EFTA00000423.pdf",
+  "document_id": "EFTA00000423",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:47.086865Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

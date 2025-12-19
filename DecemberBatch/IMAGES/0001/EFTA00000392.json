@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00000392.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a white door with a piece of paper taped to it. The paper has large black letters 'KK' printed on it, along with a table or form below the letters. The door is slightly ajar, revealing a dark interior room beyond. To the right, a hallway or another room with yellow-toned walls is visible. A silver-colored doorknob is at the bottom right of the door frame. The lighting appears to be from a camera flash, creating a stark contrast and some shadows.",
+    "layout": "The image is a landscape-oriented photograph. The primary subject (the door and the sign) is on the left, while the background hallway is on the right.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "KK\n[unclear: table headers and form fields]\nEFTA00000392",
+    "text_regions": [
+      {
+        "region": "sign_on_door",
+        "text": "KK",
+        "type": "printed"
+      },
+      {
+        "region": "sign_on_door_table",
+        "text": "[unclear: table headers and form fields]",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000392",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000392"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000392"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Evidence or room identification photograph",
+    "date": null,
+    "references": [
+      "EFTA00000392"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the paper taped to the door is mostly illegible except for the large 'KK'. The paper appears to be an evidence log or room identification form. The Bates number EFTA00000392 is clearly visible in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000392.pdf",
+  "document_id": "EFTA00000392",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:24.141478Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

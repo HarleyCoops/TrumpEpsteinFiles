@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000390.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A wide-angle photograph of a kitchen and dining area. The room features a black and white checkered tile floor and a drop ceiling with fluorescent lighting panels and circular recessed lights. In the foreground, there are two large white refrigerators on the left. In the center, a glass-top dining table is surrounded by four grey upholstered chairs. On the table sits a blue spray bottle. The background shows a kitchen area with white cabinetry, a stainless steel sink, a microwave, a large stainless steel commercial-style refrigerator/freezer unit, and a dishwasher. A small wooden chair and table are visible in an adjacent room through an opening.",
+    "layout": "Interior room shot with refrigerators on the left, dining set in the center, and kitchen counters/appliances in the background.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000390",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000390",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000390"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000390' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a kitchen/dining area",
+    "date": null,
+    "references": [
+      "EFTA00000390"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be an evidentiary photo or a site survey photo, likely part of a larger investigative file as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000390.pdf",
+  "document_id": "EFTA00000390",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:10.517817Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

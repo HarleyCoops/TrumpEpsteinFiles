@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000424.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a laundry or utility room. The room features a black and white checkered floor, white cabinetry, and drop-ceiling tiles with fluorescent lighting. Visible equipment includes a large blue industrial-style ironing or pressing machine with a white cloth-covered table, a white front-loading washing machine, a small white refrigerator, and a laundry hamper. A flexible metal vent pipe extends from the pressing machine to the ceiling. A wooden bulletin board is partially visible on the right wall.",
+    "layout": "Interior room shot with equipment arranged along the walls and a central workspace.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "r \nEFTA00000424",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000424",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "r",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000424"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000424"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Laundry/Utility Room Interior",
+    "date": null,
+    "references": [
+      "EFTA00000424"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The image is a clear photograph used as evidence or documentation, identified by the Bates stamp at the bottom right. The 'r' in the OCR appears to be a stray character or artifact from the scanning process.",
+  "file_path": "IMAGES\\0001\\EFTA00000424.pdf",
+  "document_id": "EFTA00000424",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:33:53.559193Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

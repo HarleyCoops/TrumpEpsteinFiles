@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000401.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior hallway or small room. The walls are painted a light beige or off-white color. There is a white door in the center of the frame, and an open doorway to the right leading into what appears to be a bathroom with black and white checkered flooring. Several small white adhesive hooks are visible on the walls. The floor in the foreground is a neutral tan color with a thin orange/red border strip along the baseboards.",
+    "layout": "Interior shot showing a hallway, a closed door, and an open doorway to a bathroom.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000401",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000401",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000401"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000401"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office space",
+    "date": null,
+    "references": [
+      "EFTA00000401"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation. The text 'EFTA00000401' is a Bates stamp used for document tracking in legal or investigative contexts.",
+  "file_path": "IMAGES\\0001\\EFTA00000401.pdf",
+  "document_id": "EFTA00000401",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:31:22.178189Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

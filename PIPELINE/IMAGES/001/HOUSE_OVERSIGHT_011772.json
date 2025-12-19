@@ -1,0 +1,94 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_011772.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single printed page of text, appearing to be a memoir or book excerpt. The page contains four full paragraphs and a partial fifth paragraph. There are page numbers and a footer identifier.",
+    "layout": "Standard book layout with centered header text, justified body text, and a footer at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "/ BARAK / 15\n\nBy November, even his Foreign Minister, David Levy, was making noises about quitting. He said it would be a waste of time to stay in the cabinet if it was going to bring the peace process to a halt. I warned Bibi, both in the Knesset and in a series of speeches, about the alternative on the Palestinian side if those who wanted a negotiated peace had nothing but stalemate to show for it. And lives, I insisted, were at stake. Both through closed-door sessions of the Knesset’s security and foreign affairs committee, and my own contacts in military intelligence, I was convinced that the result would be a second, much more deadly, intifada. Not with Molotov cocktails, but guns, and suicide bombs.\n\nI was not out to score political points in keeping the pressure on Bibi to move forward. In fact, I announced that if Bibi did go ahead and finalize the terms for our Oslo redeployment, Labor would once again provide the extra Knesset votes needed for him to get it approved.\n\nEarly in 1998, he sent word that he wanted to talk. The message came through Yaakov Ne’eman, his Finance Minister and a prominent lawyer whom I knew and liked. He and I held an exploratory meeting at which he proposed talks with Bibi on the prospect of a unity government that would help move the peace process forward. I said I’d talk, with one proviso: the discussions would be genuinely secret, with no leaks. I was not prepared to engage in political gamesmanship. In May, Bibi sent an assurance of confidentiality through Ne’eman. The first of about a half-dozen meetings came a few days later at the Prime Minister’s residence in Jerusalem. Then, we shifted venue, meeting at a Mossad-owned villa north of Tel Aviv. I brought along Bougie Herzog, a bright young lawyer, and Labor Party member, who was working in the same law firm and Ne’eman. It was by no means clear we’d agree on a unity government. To my amusement, if not altogether to my surprise, I got word that Bibi was putting out separate political feelers to Shimon Peres. But before long, it became clear there was a specific political motivation behind his approaching me. It was indeed the peace process. But it wasn’t the Palestinian peace process, something Bibi still clearly wanted to avoid as much as humanly possible. It was an attempt to engage with Syria.\n\nHe asked me about the talks under Rabin and Peres, and my views on the possibility of a deal with President Assad. He also wanted my assessment about whether the army could work out arrangements to safeguard the country’s security if we handed back most, if not all, of the Golan Heights. If so, what kind of security arrangements, with what timeline? We met through the summer, as the\n\n301\nHOUSE_OVERSIGHT_011772",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "/ BARAK / 15",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "By November, even his Foreign Minister, David Levy, was making noises about quitting. He said it would be a waste of time to stay in the cabinet if it was going to bring the peace process to a halt. I warned Bibi, both in the Knesset and in a series of speeches, about the alternative on the Palestinian side if those who wanted a negotiated peace had nothing but stalemate to show for it. And lives, I insisted, were at stake. Both through closed-door sessions of the Knesset’s security and foreign affairs committee, and my own contacts in military intelligence, I was convinced that the result would be a second, much more deadly, intifada. Not with Molotov cocktails, but guns, and suicide bombs.\n\nI was not out to score political points in keeping the pressure on Bibi to move forward. In fact, I announced that if Bibi did go ahead and finalize the terms for our Oslo redeployment, Labor would once again provide the extra Knesset votes needed for him to get it approved.\n\nEarly in 1998, he sent word that he wanted to talk. The message came through Yaakov Ne’eman, his Finance Minister and a prominent lawyer whom I knew and liked. He and I held an exploratory meeting at which he proposed talks with Bibi on the prospect of a unity government that would help move the peace process forward. I said I’d talk, with one proviso: the discussions would be genuinely secret, with no leaks. I was not prepared to engage in political gamesmanship. In May, Bibi sent an assurance of confidentiality through Ne’eman. The first of about a half-dozen meetings came a few days later at the Prime Minister’s residence in Jerusalem. Then, we shifted venue, meeting at a Mossad-owned villa north of Tel Aviv. I brought along Bougie Herzog, a bright young lawyer, and Labor Party member, who was working in the same law firm and Ne’eman. It was by no means clear we’d agree on a unity government. To my amusement, if not altogether to my surprise, I got word that Bibi was putting out separate political feelers to Shimon Peres. But before long, it became clear there was a specific political motivation behind his approaching me. It was indeed the peace process. But it wasn’t the Palestinian peace process, something Bibi still clearly wanted to avoid as much as humanly possible. It was an attempt to engage with Syria.\n\nHe asked me about the talks under Rabin and Peres, and my views on the possibility of a deal with President Assad. He also wanted my assessment about whether the army could work out arrangements to safeguard the country’s security if we handed back most, if not all, of the Golan Heights. If so, what kind of security arrangements, with what timeline? We met through the summer, as the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "301\nHOUSE_OVERSIGHT_011772",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1998-01-01",
+      "1998-05-01"
+    ],
+    "people": [
+      "David Levy",
+      "Bibi",
+      "Yaakov Ne’eman",
+      "Bougie Herzog",
+      "Shimon Peres",
+      "Rabin",
+      "President Assad"
+    ],
+    "organizations": [
+      "Knesset",
+      "Labor Party",
+      "Mossad"
+    ],
+    "locations": [
+      "Jerusalem",
+      "Tel Aviv",
+      "Golan Heights",
+      "Syria"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_011772",
+      "301",
+      "15"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_011772 (Bates stamp or document identifier)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "memoir excerpt",
+    "sender": "Ehud Barak (implied by header)",
+    "recipient": null,
+    "subject": "Israeli-Palestinian peace process and negotiations with Syria",
+    "date": "1998",
+    "references": [
+      "Oslo redeployment"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The text appears to be from a book written by Ehud Barak, given the header '/ BARAK / 15'. The content discusses political events in Israel during the late 1990s.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_011772.jpg",
+  "document_id": "HOUSE_OVERSIGHT_011772",
+  "house_oversight_id": "011772",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:42:42.776634Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

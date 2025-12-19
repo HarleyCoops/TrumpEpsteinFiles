@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000814.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a high-tech workstation or command center setup. It features a large L-shaped desk with multiple computer monitors. There are four large flat-screen monitors mounted on a wall or stand in a 2x2 grid, and at least three smaller monitors on the desk surface below them. To the left is a black server rack containing various networking equipment, servers, and cables. An ergonomic office chair with a blue seat and black mesh back is in the foreground. The room has beige walls and grey ribbed carpeting. A telephone and some office supplies are visible on the right side of the desk.",
+    "layout": "Interior room shot focusing on a multi-monitor computer workstation and server rack.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000814",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000814",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000814"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000814' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Workstation and server rack configuration",
+    "date": null,
+    "references": [
+      "EFTA00000814"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be evidence or documentation of a specific technical setup, possibly related to an investigation or inventory. The only text present is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000814.pdf",
+  "document_id": "EFTA00000814",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:42:44.146695Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

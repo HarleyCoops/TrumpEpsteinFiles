@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000394.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An indoor photograph showing a hallway leading into a room with a black and white checkered floor. To the left is a closed white door. In the center, an open doorway reveals a kitchen or service area with stainless steel equipment (possibly a refrigerator or oven), a table with chairs, and a checkered floor. A fire extinguisher and a white pipe are visible against the wall in the hallway. To the right, another white door is partially open, with a label attached to it.",
+    "layout": "Interior architectural shot showing a transition between a hallway and a service room.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "KK\nEFTA00000394",
+    "text_regions": [
+      {
+        "region": "label_on_door",
+        "text": "KK",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000394",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000394"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Paper label taped to door with 'KK' printed on it",
+      "Digital watermark/footer 'EFTA00000394'"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a facility",
+    "date": null,
+    "references": [
+      "EFTA00000394"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary or investigative photograph from a larger set, indicated by the 'KK' label and the EFTA serial number.",
+  "file_path": "IMAGES\\0001\\EFTA00000394.pdf",
+  "document_id": "EFTA00000394",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:30:36.992904Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

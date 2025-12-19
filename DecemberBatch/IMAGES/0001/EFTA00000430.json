@@ -1,0 +1,4 @@
+{
+  "file_name": "EFTA00000430.pdf",
+  "error": "peer closed connection without sending complete message body (incomplete chunked read)"
+}
