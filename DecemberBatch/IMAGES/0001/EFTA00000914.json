@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000914.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph showing a doorway leading from a room with white walls and marble baseboards into a hallway. The hallway features a checkered tile floor (white with dark diamond accents) and a second open door. In the background, a set of metallic elevator doors is visible. A circular, bowl-shaped light fixture with a dark metal frame is mounted on the ceiling of the hallway.",
+    "layout": "Interior architectural shot with a perspective view through a doorway into a hallway and toward an elevator.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I / \n• \n.r2r-'1Y \nEFTA00000914",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000914",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin",
+        "text": "I / \n• \n.r2r-'1Y",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000914"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number: EFTA00000914"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence or office showing a hallway and elevator",
+    "date": null,
+    "references": [
+      "EFTA00000914"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text in the top left margin appears to be artifacts or fragments of text from a previous page or scanning process. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000914.pdf",
+  "document_id": "EFTA00000914",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:40.328255Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

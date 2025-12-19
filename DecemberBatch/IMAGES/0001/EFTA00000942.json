@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000942.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of an ornate dining room. The room features a large white-topped dining table with a dark wooden base. Several chairs upholstered in a leopard-print fabric are arranged around the table. On the table sits a white floral arrangement in a glass vase and a long, patterned fabric runner. The background includes a fireplace with a dark mantel, above which hangs a large framed portrait of an elderly man with a long beard. The walls are decorated with a mural depicting misty mountains and clouds. To the right, tall beige curtains frame a window or doorway where a candelabra is visible. The floor is covered in a light-colored striped carpet. Recessed lighting is visible in the ceiling.",
+    "layout": "Interior room shot with a focus on the dining set and wall decor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "'ti \nEFTA00000942",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000942",
+        "type": "typed"
+      },
+      {
+        "region": "margin",
+        "text": "'ti",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000942"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000942' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000942"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'ti' appears to be a fragment or artifact from the scanning/OCR process. The primary identifier is the Bates stamp EFTA00000942.",
+  "file_path": "IMAGES\\0001\\EFTA00000942.pdf",
+  "document_id": "EFTA00000942",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:00.015157Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000936.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a luxury bathroom interior. The foreground features a granite countertop with a white undermount sink, gold-toned faucets, a white candle in a glass jar, and a bottle of blue hand soap. On the counter sits an ornate black and gold clock flanked by two small statues. A large mirror reflects the wall-mounted sconces and the opposite side of the room. In the background, an open door leads to another room where a large piece of artwork depicting a zebra is visible. The walls are covered in a patterned wallpaper, and the floor appears to be polished stone with a small woven rug.",
+    "layout": "Interior room shot with a focus on the vanity area and a view through an open doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "E\nEFTA00000936",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "EFTA00000936",
+        "type": "printed"
+      },
+      {
+        "region": "label",
+        "text": "E",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000936"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000936' in the bottom right corner",
+      "A white label with the letter 'E' and some smaller, illegible text is affixed to the door frame on the right."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000936"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text on the white label 'E' has smaller sub-text that is too blurry to read accurately. The image is part of a legal or investigative production as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000936.pdf",
+  "document_id": "EFTA00000936",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:18.100633Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

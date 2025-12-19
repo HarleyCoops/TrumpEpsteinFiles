@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000915.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, interior shot of a lavishly decorated hallway or gallery. The scene features ornate, gold-gilded furniture, including two console tables with marble tops. On the foreground table sits a decorative lamp with a pleated shade and a small candle. A large, ornate gold-framed mirror hangs above the table. In the background, there is a white marble fireplace with gold accents and a large framed painting above it. A white piece of paper with the letter 'D' is taped to the fireplace mantel. The floor is white marble with black diamond-shaped insets. The walls are white with gold trim and moldings.",
+    "layout": "The photograph is taken from a standing perspective looking down a long hallway. Objects are arranged along the right wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "D\nEFTA00000915",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "D",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000915",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000915"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence label 'D' taped to fireplace mantel",
+      "Bates stamp 'EFTA00000915' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence, likely part of an investigation or inventory",
+    "date": null,
+    "references": [
+      "EFTA00000915"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The photograph appears to be an evidentiary photo from an investigation, indicated by the 'D' label and the Bates stamp. The setting is an opulent interior.",
+  "file_path": "IMAGES\\0001\\EFTA00000915.pdf",
+  "document_id": "EFTA00000915",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:47.773946Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

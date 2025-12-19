@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000918.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room featuring a sitting area under a grand staircase. The room has light-colored stone tile flooring with dark diamond-shaped accents. There are three white, plush, textured armchairs arranged around a small, ornate black and gold octagonal table that has a chessboard on top. Behind the seating area is a long, dark console table with a marble top, displaying several decorative objects including two white stylized head sculptures and a dark circular platter. Above the console is a large wooden staircase with an ornate wrought-iron railing. A portion of a painted ceiling mural and a white decorative rope or fabric hanging are visible in the upper right corner.",
+    "layout": "The photograph is taken from a standing eye-level perspective, looking into a corner/nook under a staircase.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "• \nEFTA00000918",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000918",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "•",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000918"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000918"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000918"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document production, as evidenced by the Bates stamp 'EFTA00000918' in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000918.pdf",
+  "document_id": "EFTA00000918",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:08.837825Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

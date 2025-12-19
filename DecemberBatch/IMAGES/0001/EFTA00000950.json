@@ -1,0 +1,64 @@
+{
+  "file_name": "EFTA00000950.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a large, dark wood sideboard or console table covered with numerous framed photographs. The wall behind the table has a textured, wave-like or cloud-like sculptural relief. In the foreground, there is a table with a white and floral patterned cloth and a bouquet of white and green flowers (hydrangeas). A chair with leopard-print upholstery is partially visible behind the foreground table. The framed photos on the sideboard appear to show various people, including some in formal or religious attire (one appears to show a figure resembling a Pope, others show individuals in Middle Eastern dress).",
+    "layout": "Landscape orientation photograph with a foreground floral arrangement, a middle-ground leopard-print chair, and a background sideboard with framed photos against a textured wall.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000950",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000950",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Pope John Paul II (likely identification based on visual)",
+      "Unidentified individuals in framed photographs"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000950"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000950 in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a room with framed photographs on a sideboard",
+    "date": null,
+    "references": [
+      "EFTA00000950"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.8,
+    "overall": 0.9
+  },
+  "notes": "The photograph contains many smaller images within frames that are difficult to identify with 100% certainty, though one appears to show a meeting with a Pope. The text 'EFTA00000950' is a Bates stamp common in legal and oversight documentation.",
+  "file_path": "IMAGES\\0001\\EFTA00000950.pdf",
+  "document_id": "EFTA00000950",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:55.593430Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

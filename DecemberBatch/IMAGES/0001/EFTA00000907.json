@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000907.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing two framed architectural or interior design sketches hanging on a patterned wallpapered wall. The top frame contains a single perspective drawing of a large, ornate room with a domed ceiling and classical details. The bottom frame contains three smaller sketches showing different views of wood-paneled interiors. Below the frames, a portion of a wooden banister or furniture piece and a pair of eyeglasses on a surface are visible.",
+    "layout": "The image shows a wall with two framed artworks arranged vertically. The wallpaper has a repeating pattern of vertical stripes and diamond-shaped textures. A document ID is printed in the bottom right corner.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ALBERTO PINTO\nEFTA00000907",
+    "text_regions": [
+      {
+        "region": "bottom_of_top_artwork",
+        "text": "ALBERTO PINTO",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000907",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Alberto Pinto"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000907"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000907"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior design sketches by Alberto Pinto",
+    "date": null,
+    "references": [
+      "EFTA00000907"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The text 'ALBERTO PINTO' is visible at the bottom of the top framed sketch, identifying the designer. The sketches appear to be interior design renderings. There is additional small text on the sketches that is illegible due to resolution.",
+  "file_path": "IMAGES\\0001\\EFTA00000907.pdf",
+  "document_id": "EFTA00000907",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:52.702400Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

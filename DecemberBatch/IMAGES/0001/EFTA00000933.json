@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000933.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior hallway or foyer leading into another room. The space features white walls with ornate gold-leaf molding and trim. The floor is light-colored stone or tile with dark diamond-shaped insets. A large, white, shell-like or floral-shaped chandelier hangs from the ceiling. In the background, a large, dark wood double door is partially open, revealing a glimpse of another room containing a circular object (possibly a gong or decorative shield) and furniture. To the far right, a portion of a gold-colored console table with a marble top is visible.",
+    "layout": "Interior architectural photograph with a central perspective looking through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000933",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000933",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000933"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000933' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000933"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document collection, identified by the Bates stamp EFTA00000933. No other text is present in the image.",
+  "file_path": "IMAGES\\0001\\EFTA00000933.pdf",
+  "document_id": "EFTA00000933",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:56.703731Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000930.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior space featuring a grand staircase and a hanging sculpture. The sculpture depicts a bronze-colored figure of a person wearing a white lace dress or bridal veil, suspended from the ceiling by a thick white rope. The figure is positioned in mid-air above a wooden staircase with an ornate wrought-iron railing. The background features a large mural of a blue sky with white clouds on the upper wall. The architecture includes white walls with gold trim and decorative molding. In the lower-left background, a person is partially visible standing in a doorway.",
+    "layout": "Vertical composition showing a multi-level interior space with architectural details and an art installation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000930",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000930",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000930"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000930"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of art installation and architecture",
+    "date": null,
+    "references": [
+      "EFTA00000930"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates number EFTA00000930. The subject matter appears to be an art installation in a high-end residential or gallery setting.",
+  "file_path": "IMAGES\\0001\\EFTA00000930.pdf",
+  "document_id": "EFTA00000930",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:35.623051Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

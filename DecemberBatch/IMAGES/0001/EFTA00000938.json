@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000938.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a set of large, ornate double doors made of dark polished wood with gold-toned metal accents and geometric patterns. The doors are partially open, revealing a glimpse into a room. Inside the room, there is a leopard-print chair, a table with a white cloth, a large circular metallic object (possibly a gong or decorative plate), and a framed black-and-white photograph on an easel. The walls of the hallway are white with gold trim.",
+    "layout": "Interior architectural shot looking through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000938",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000938",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000938"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic Bates stamp: EFTA00000938"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000938"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a high-quality interior photograph, likely part of an evidentiary collection or inventory. The only text present is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000938.pdf",
+  "document_id": "EFTA00000938",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:32.337554Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000949.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a luxuriously decorated room. The room features a large mural on the wall depicting a stylized tree and landscape in muted, monochromatic tones. Below the mural is a long, cream-colored sofa with decorative stitching and multiple cushions. To the left, there are two armchairs upholstered in a leopard-print fabric, positioned around a white table. To the right of the sofa stands a tall, modern floor lamp with a wide, flat top and a small stone figurine. The floor is covered in a light-colored, striped carpet. A black power cord is visible running across the floor.",
+    "layout": "Interior room shot with furniture and wall decor; document ID in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000949",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000949",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000949"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000949"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000949"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The OCR provided in the prompt included some noise ('-,r \"it') which is not clearly visible as text in the image; the primary text is the document identification number at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000949.pdf",
+  "document_id": "EFTA00000949",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:47.879417Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

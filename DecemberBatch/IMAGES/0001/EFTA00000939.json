@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000939.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room showing a doorway leading into another room. The foreground room features a dark wood console table with ornate carved legs, topped with framed photos and a display case. The wall has a light-colored wallpaper with a subtle, stylized wave or cloud pattern. The doorway is framed in dark, polished wood. Through the doorway, a second room is visible with light wood flooring and a white door featuring a circular porthole-style window. A ceiling light fixture with a gold-colored rim is visible in the hallway/second room.",
+    "layout": "Interior architectural shot with a foreground room and a view into an adjacent space through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000939",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000939",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000939"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000939' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room view",
+    "date": null,
+    "references": [
+      "EFTA00000939"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely taken for documentation purposes. The only text present is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000939.pdf",
+  "document_id": "EFTA00000939",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:38.706181Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

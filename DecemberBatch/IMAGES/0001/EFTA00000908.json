@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000908.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a bathroom vanity area. The vanity features a granite countertop with an undermount white oval sink and gold-toned fixtures. On the counter, there is a black decorative container with a floral pattern, a bottle of hand soap, and a stack of white hand towels. A large mirror is mounted on the wall above the sink, reflecting a wall-mounted sconce light. The walls are covered in a patterned wallpaper with a geometric design. To the right, an open white paneled door leads to another room. A small woven rug is visible on the floor in the foreground.",
+    "layout": "Interior architectural photograph showing a bathroom vanity and doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000908",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000908",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000908"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000908' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000908"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely used as evidence or documentation in a legal or investigative proceeding, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000908.pdf",
+  "document_id": "EFTA00000908",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:59.458991Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

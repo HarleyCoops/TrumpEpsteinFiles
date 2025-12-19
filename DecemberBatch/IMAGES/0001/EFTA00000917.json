@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000917.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a grand foyer or living area. It features a dark wood staircase with an ornate wrought-iron railing. In the foreground, there are three white, plush, textured armchairs arranged around a small, dark-topped table with a gold-trimmed edge. On the table, there is a chessboard. The floor is light-colored marble or tile with dark diamond-shaped accents. The ceiling features a painted mural of a cloudy sky and ornate crown molding. A white bust and other decorative objects are visible on a side table to the left.",
+    "layout": "Interior architectural shot with furniture in the foreground and a staircase leading upwards in the background.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "a\na\n1\nEFTA00000917",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000917",
+        "type": "typed"
+      },
+      {
+        "region": "margin",
+        "text": "a\na\n1",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000917"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number EFTA00000917"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000917"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'a a 1' appears to be OCR artifacts or very small marginalia not clearly part of the primary document content. The primary identifier is the Bates-style number at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000917.pdf",
+  "document_id": "EFTA00000917",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:01.783236Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

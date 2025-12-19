@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000941.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room, likely a dining or meeting room. The room features a large wooden table with a white top, partially covered by a patterned cloth. Several chairs upholstered in a leopard-print fabric are around the table. In the background, there is a sideboard with a vase of flowers, a framed black-and-white photograph of a person, and a large circular gong on a stand. Two windows with long, light-colored curtains are visible, flanking a dark wooden door. A tall candelabra stands on a pedestal near one window. The walls are a neutral beige color with decorative molding near the ceiling. The floor is covered in a light-colored, ribbed carpet.",
+    "layout": "Interior room shot with furniture and decor items.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000941",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000941",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000941"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000941' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a room",
+    "date": null,
+    "references": [
+      "EFTA00000941"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The OCR provided in the prompt ('4fitittt S8414.1*.#') appears to be noise or a misinterpretation of visual artifacts at the top of the image; the only legible text is the Bates stamp at the bottom.",
+  "file_path": "IMAGES\\0001\\EFTA00000941.pdf",
+  "document_id": "EFTA00000941",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:52.748000Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

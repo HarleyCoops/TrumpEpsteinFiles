@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000909.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior hallway or entryway. The scene features a large, off-white paneled door that is slightly ajar, leading into another room. To the right of the door is a wall with patterned wallpaper and two framed pictures. Below the pictures is a dark wood bench with a purple velvet cushion featuring gold embroidered patterns. A white landline telephone sits on a small table or the end of the bench. The floor is made of polished stone or marble, with a small rectangular woven rug in the foreground. To the left, a portion of a dark wood table or console is visible.",
+    "layout": "Interior architectural photograph with a vertical orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000909",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000909",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000909"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000909' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office",
+    "date": null,
+    "references": [
+      "EFTA00000909"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The OCR provided in the prompt ('t 4 P4 < Z.Z') appears to be noise or misinterpretation of visual elements; the only legible text in the image is the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000909.pdf",
+  "document_id": "EFTA00000909",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:06.413035Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

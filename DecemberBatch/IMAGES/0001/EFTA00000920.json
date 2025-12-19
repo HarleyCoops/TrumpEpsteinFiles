@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000920.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior grand staircase and lounge area. The staircase is made of dark wood with ornate wrought-iron railings. In the center of the stairwell, a sculpture of a person in a white dress is suspended from the ceiling by a rope. The ceiling features a mural of a blue sky with clouds, framed by gold-leafed moldings. In the foreground, there are two cream-colored upholstered armchairs and a small table with a chess set. Various decorative objects, including a white bust and a dark platter, are on a console table against the wall.",
+    "layout": "The image shows a multi-level interior space with a focus on the staircase and the suspended art piece.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000920",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000920",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000920"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000920' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000920"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The photograph appears to be part of an evidentiary production, indicated by the Bates stamp 'EFTA00000920'.",
+  "file_path": "IMAGES\\0001\\EFTA00000920.pdf",
+  "document_id": "EFTA00000920",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:22.169346Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

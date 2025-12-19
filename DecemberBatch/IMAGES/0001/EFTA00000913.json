@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000913.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, wide-angle photograph of a luxurious interior hallway or foyer. The floor is light-colored stone or marble with dark diamond-shaped insets. The walls are white with ornate gold-leaf molding and trim. To the left, a staircase with a dark wood banister and a cream-colored armchair are visible. To the right, there is an ornate gold-gilded console table and a fireplace mantel. At the end of the hallway, a set of dark, polished double doors is visible under a decorative light fixture. A small white label with the letter 'D' is affixed to the fireplace area.",
+    "layout": "Interior architectural shot looking down a long corridor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "D\nEFTA00000913",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "D",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000913",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000913"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000913",
+      "Evidence label: D"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000913"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph appears to be an evidentiary photo from an investigation, indicated by the Bates stamp and the 'D' label on the fireplace.",
+  "file_path": "IMAGES\\0001\\EFTA00000913.pdf",
+  "document_id": "EFTA00000913",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:34.134464Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000922.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room with high ceilings and ornate architectural details. The room features a white marble floor with dark square accents. In the foreground, there is a seating area with four plush, cream-colored armchairs arranged around a small, dark circular table with a chess set on top. Behind the seating area is a dark sideboard or console table holding several decorative objects, including a white bust and a dark plate. A grand, dark wooden staircase with an ornate wrought-iron railing ascends from the right side of the frame. The wall above the staircase features a large mural of a blue sky with clouds. Hanging from the ceiling or upper floor is a sculpture of a dark-skinned figure wrapped in white cloth, suspended by a thick white rope. The walls are white with gold-leaf molding.",
+    "layout": "Interior architectural photograph with a focus on a seating area and a grand staircase.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000922",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000922",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000922"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000922' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000922"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The OCR provided in the prompt was largely noise; the only legible text on the image is the Bates stamp identifier in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000922.pdf",
+  "document_id": "EFTA00000922",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:36.767464Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

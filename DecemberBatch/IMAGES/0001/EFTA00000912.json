@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000912.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a grand hallway or foyer. In the foreground, a white door with gold-leaf paneling is partially open. The floor is made of light-colored stone or marble tiles with small dark square accents (cabochons) at the corners. To the left, there is a marble baseboard. In the background, a dimly lit area shows a beige armchair, a staircase with a dark railing, and further architectural details including ornate moldings and another doorway.",
+    "layout": "Interior architectural shot with a focus on a doorway in the foreground leading into a larger hall.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000912",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000912",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000912"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000912' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or official building",
+    "date": null,
+    "references": [
+      "EFTA00000912"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates number EFTA00000912.",
+  "file_path": "IMAGES\\0001\\EFTA00000912.pdf",
+  "document_id": "EFTA00000912",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:27.373859Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

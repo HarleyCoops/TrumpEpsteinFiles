@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000921.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a grand staircase in a luxurious residence. The staircase is made of dark wood with an ornate wrought-iron railing. A large mural depicting a blue sky with white clouds is painted on the ceiling and upper walls. A unique sculpture of a figure in white robes is suspended from the ceiling by a rope. In the foreground, there is a seating area with two white plush armchairs and a small table with a chess set. On a console table behind the chairs, there are several decorative objects, including two white bust sculptures. A single ornate chair sits on the landing of the stairs.",
+    "layout": "The image is a vertical photograph capturing a multi-level interior space dominated by a staircase and high ceilings.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000921",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000921",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000921"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000921' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000921"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document collection, identified by the Bates stamp EFTA00000921.",
+  "file_path": "IMAGES\\0001\\EFTA00000921.pdf",
+  "document_id": "EFTA00000921",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:29.634582Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

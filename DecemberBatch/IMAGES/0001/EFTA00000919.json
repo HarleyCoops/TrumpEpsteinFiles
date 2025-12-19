@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000919.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a grand staircase area. The scene features a wooden staircase with ornate wrought iron railings. Below the stairs is a console table with various art pieces, including two white stylized head sculptures and a dark circular object. In the foreground, there are two cream-colored upholstered armchairs facing a small octagonal table with a chessboard. Most notably, a sculpture of a person in a white dress is suspended by a rope from a ceiling that features a mural of a blue sky with clouds, framed by ornate gold molding.",
+    "layout": "The image is a vertical photograph showing a multi-level interior space. The staircase dominates the left and right sides of the frame, while the furniture and art are centered in the lower half.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000919",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000919",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000919"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000919 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence showing art and decor",
+    "date": null,
+    "references": [
+      "EFTA00000919"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates number EFTA00000919. The suspended sculpture is a prominent and unusual feature of the interior design.",
+  "file_path": "IMAGES\\0001\\EFTA00000919.pdf",
+  "document_id": "EFTA00000919",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:15.623677Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

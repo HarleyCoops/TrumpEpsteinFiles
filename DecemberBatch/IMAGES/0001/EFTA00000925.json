@@ -1,0 +1,82 @@
+{
+  "file_name": "EFTA00000925.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an Apple iMac computer sitting on a reddish-brown glossy desk. The computer screen is on, displaying the macOS desktop with a mountain wallpaper (macOS Sierra). A 'System Preferences' window is open in the center of the screen. To the left of the computer is a bottle of hand sanitizer and a wooden box. To the right, a pen holder and a blue passport are partially visible. A white coiled cord is visible in the bottom left foreground.",
+    "layout": "Central focus on the computer monitor, with desk accessories in the periphery.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "System Preferences Edit View Window Help\nThu 3:38 PM Guest User\nWhat's New in macOS Sierra\nTake a tour to see what's new on the Finder Help menu.\nClose\nShow\nUpdates Not Installed\nSome updates could not be installed automatically.\nDetails\nInstall\nSystem Preferences\nGeneral Desktop & Screen Saver Dock Mission Control Language & Region Security & Privacy Spotlight Notifications\nDisplays Energy Saver Keyboard Mouse Trackpad Sound Printers & Scanners Startup Disk\niCloud Internet Accounts App Store Network Bluetooth Extensions Sharing\nUsers & Groups Parental Controls Siri Date & Time Time Machine Accessibility\nFlash Player Java\nEFTA00000925",
+    "text_extraction_details": [
+      {
+        "region": "menu_bar",
+        "text": "System Preferences Edit View Window Help Thu 3:38 PM Guest User",
+        "type": "printed"
+      },
+      {
+        "region": "notifications",
+        "text": "What's New in macOS Sierra Take a tour to see what's new on the Finder Help menu. Close Show Updates Not Installed Some updates could not be installed automatically. Details Install",
+        "type": "printed"
+      },
+      {
+        "region": "system_preferences_window",
+        "text": "System Preferences General Desktop & Screen Saver Dock Mission Control Language & Region Security & Privacy Spotlight Notifications Displays Energy Saver Keyboard Mouse Trackpad Sound Printers & Scanners Startup Disk iCloud Internet Accounts App Store Network Bluetooth Extensions Sharing Users & Groups Parental Controls Siri Date & Time Time Machine Accessibility Flash Player Java",
+        "type": "printed"
+      },
+      {
+        "region": "footer_watermark",
+        "text": "EFTA00000925",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "Thu 3:38 PM"
+    ],
+    "people": [
+      "Guest User"
+    ],
+    "organizations": [
+      "Apple"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000925"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000925"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "iMac computer screen showing System Preferences",
+    "date": null,
+    "references": [
+      "EFTA00000925"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.85,
+    "structured_data": 0.9,
+    "overall": 0.9
+  },
+  "notes": "The text on the screen is small and slightly blurry due to the photograph's resolution, but the standard macOS interface elements are identifiable. The wallpaper indicates the OS is macOS Sierra.",
+  "file_path": "IMAGES\\0001\\EFTA00000925.pdf",
+  "document_id": "EFTA00000925",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:01.138049Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

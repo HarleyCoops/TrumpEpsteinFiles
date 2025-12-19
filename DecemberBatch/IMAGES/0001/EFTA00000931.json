@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000931.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a grand interior space, likely a luxury residence or hotel. The image shows a two-story foyer or hall with ornate architectural details. In the foreground/right, a sculpture of a figure in a white dress is suspended by a thick rope. The lower level features a marble fireplace with gold leaf carvings, a portrait painting above it, and two ornate gold-framed mirrors with lamps. A person is partially visible in the doorway on the right. The upper level features a balcony with an intricate black wrought-iron railing. The ceiling is coffered with gold accents and recessed lighting.",
+    "layout": "Vertical composition showing a multi-level interior room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000931",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000931",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000931"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000931' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a luxury residence",
+    "date": null,
+    "references": [
+      "EFTA00000931"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, as evidenced by the Bates stamp. The subject matter appears to be a high-end interior, possibly related to an investigation into assets or lifestyle.",
+  "file_path": "IMAGES\\0001\\EFTA00000931.pdf",
+  "document_id": "EFTA00000931",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:42.186579Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

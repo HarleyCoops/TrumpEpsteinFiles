@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000935.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior hallway or room corner. The walls are covered in a light-colored patterned wallpaper. A bronze or dark metal statue of a young boy wearing a cap and jacket sits on a wooden bench with a red, black, and tan striped cushion. Behind the bench on the wall are two dark rectangular framed artworks, one appearing to contain a mounted insect. To the left, an open doorway leads to another room where a large piece of art depicting a zebra is visible. A small white sign with the letter 'E' is taped to the wall near the doorway.",
+    "layout": "Interior scene with a hallway corner, furniture, and wall art.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "E\nEFTA00000935",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "E",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000935",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000935"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence tag/label 'E' on wall",
+      "Bates stamp EFTA00000935"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence, likely for evidence or inventory purposes.",
+    "date": null,
+    "references": [
+      "EFTA00000935"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be a piece of evidence from an investigation, indicated by the 'E' placard on the wall and the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000935.pdf",
+  "document_id": "EFTA00000935",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:10.580041Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

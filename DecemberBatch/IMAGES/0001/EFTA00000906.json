@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000906.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a wall with patterned wallpaper and four framed architectural or interior design sketches. Below the frames, a portion of a purple velvet bench with gold embroidered floral patterns is visible. The sketches appear to be watercolor or colored pencil renderings of interior rooms. One sketch has a small caption plate at the bottom.",
+    "layout": "The image shows a wall with four framed pictures arranged in a grid-like fashion (two visible on the right, parts of two visible on the left). A piece of furniture is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ALBERTO PINTO\nEFTA00000906",
+    "text_regions": [
+      {
+        "region": "caption_plate",
+        "text": "ALBERTO PINTO",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000906",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Alberto Pinto"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000906"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000906"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior design sketches by Alberto Pinto",
+    "date": null,
+    "references": [
+      "EFTA00000906"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.97
+  },
+  "notes": "The text 'ALBERTO PINTO' is visible on a small label at the bottom of the top-right framed sketch. The sketches themselves contain architectural details and interior layouts.",
+  "file_path": "IMAGES\\0001\\EFTA00000906.pdf",
+  "document_id": "EFTA00000906",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:53:45.585928Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

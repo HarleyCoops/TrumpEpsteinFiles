@@ -1,0 +1,77 @@
+{
+  "file_name": "EFTA00000910.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a white piece of paper taped to a vertical architectural element (possibly a door frame or wall molding) next to a gold-framed mirror. The paper features a large, bold letter 'C' in the center and a table at the bottom. The background consists of a textured, diamond-patterned wallpaper and a white towel is partially visible on the right side.",
+    "layout": "The image is a vertical shot focusing on a document taped to a wall. The document has a header section, a large central graphic, and a tabular grid at the bottom.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Building No. Description of Room\nC\nSearch Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)\nEFTA00000910",
+    "text_regions": [
+      {
+        "region": "document_header",
+        "text": "Building No. Description of Room",
+        "type": "printed"
+      },
+      {
+        "region": "document_center",
+        "text": "C",
+        "type": "printed"
+      },
+      {
+        "region": "document_table_headers",
+        "text": "Search Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "footer_watermark",
+        "text": "EFTA00000910",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000910"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Large printed 'C' in the center of the page",
+      "Bates stamp/Reference number EFTA00000910 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Room Search Log / Identification",
+    "date": null,
+    "references": [
+      "EFTA00000910"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The document appears to be a search log or room identifier used during an investigation or evidence collection process. The table at the bottom is blank. The 'C' likely designates a specific room or zone.",
+  "file_path": "IMAGES\\0001\\EFTA00000910.pdf",
+  "document_id": "EFTA00000910",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:13.943946Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "file_name": "EFTA00000924.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a desk setup featuring an Apple iMac computer on a bright red glossy desk. The computer screen shows the macOS desktop with the 'System Preferences' window open. On the desk, there is a white keyboard, a white Magic Mouse, a landline telephone, a bottle of hand sanitizer, a wooden tissue box, a cup of pens/pencils, a tape dispenser, and a blue United States passport. In the background, the legs of two individuals are partially visible.",
+    "layout": "The image is a wide-angle photograph with the computer centered. Objects are scattered across the red desk surface.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "System Preferences Edit View Window Help\nSystem Preferences\nNetwork\nDesktop & Screen Saver\nDock\nMission Control\nLanguage & Region\nSecurity & Privacy\nSpotlight\nNotifications\nDisplays\nEnergy Saver\nKeyboard\nMouse\nTrackpad\nPrinters & Scanners\nSound\nStartup Disk\niCloud\nInternet Accounts\nApp Store\nNetwork\nBluetooth\nExtensions\nSharing\nUsers & Groups\nParental Controls\nDate & Time\nTime Machine\nAccessibility\nFlash Player\nPASSPORT\nUnited States of America\nEFTA00000924",
+    "text_regions": [
+      {
+        "region": "computer_screen_menu_bar",
+        "text": "System Preferences Edit View Window Help",
+        "type": "typed"
+      },
+      {
+        "region": "computer_screen_window",
+        "text": "System Preferences\nNetwork\nDesktop & Screen Saver\nDock\nMission Control\nLanguage & Region\nSecurity & Privacy\nSpotlight\nNotifications\nDisplays\nEnergy Saver\nKeyboard\nMouse\nTrackpad\nPrinters & Scanners\nSound\nStartup Disk\niCloud\nInternet Accounts\nApp Store\nNetwork\nBluetooth\nExtensions\nSharing\nUsers & Groups\nParental Controls\nDate & Time\nTime Machine\nAccessibility\nFlash Player",
+        "type": "typed"
+      },
+      {
+        "region": "passport_cover",
+        "text": "PASSPORT\nUnited States of America",
+        "type": "printed"
+      },
+      {
+        "region": "footer_watermark",
+        "text": "EFTA00000924",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple",
+      "United States of America"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000924"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number: EFTA00000924",
+      "United States Passport Seal"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Workspace/Desk Evidence Photo",
+    "date": null,
+    "references": [
+      "EFTA00000924"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The text on the computer screen is standard macOS System Preferences labels. The person in the top left has their face redacted with a black box. The passport is a standard blue US passport.",
+  "file_path": "IMAGES\\0001\\EFTA00000924.pdf",
+  "document_id": "EFTA00000924",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:52.366602Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

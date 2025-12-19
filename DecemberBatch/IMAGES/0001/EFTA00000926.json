@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000926.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph looking down from a wooden staircase into a grand, ornate foyer or hallway. The room features white walls with gold trim, a marble fireplace with gold accents, and a checkered marble floor with dark diamond-shaped tiles. Two ornate gold-framed mirrors are mounted on the walls, each above a matching gold console table. A portrait of a man with a yellow-toned face is hung above the fireplace. Lamps with cream-colored shades are placed on the console tables. A black wrought-iron railing is visible in the foreground.",
+    "layout": "Interior architectural photograph with a downward perspective from a staircase.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000926",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000926",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000926"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000926' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a luxury residence",
+    "date": null,
+    "references": [
+      "EFTA00000926"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph of an interior space, likely part of a larger set of evidence or documentation given the Bates stamp numbering. The OCR provided in the prompt contained noise (',A itsci% ‘i:S. a 1') which is not visible on the actual image; only the Bates stamp is clearly legible.",
+  "file_path": "IMAGES\\0001\\EFTA00000926.pdf",
+  "document_id": "EFTA00000926",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:08.018037Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

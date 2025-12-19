@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000928.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from an elevated position looking down into a grand interior space. The foreground shows a dark wood banister with ornate wrought-iron scrollwork. A wooden staircase with white walls and gold-leaf molding descends along the right side. In the center of the room below, there are two white upholstered armchairs facing a small, octagonal black table with a chess set. A person wearing a black shirt and pants is walking through a doorway in the background. Hanging from the ceiling or upper floor is a white rope and what appears to be part of a sculpture or decorative element (a leg and white fabric). The ceiling features a mural of a blue sky with clouds.",
+    "layout": "High-angle interior shot of a foyer or grand room with a staircase.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ir \nEFTA00000928",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000928",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "ir",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000928"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000928"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000928"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'ir' in the top left is partially cut off and appears to be a fragment of a larger word or marking. The main identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000928.pdf",
+  "document_id": "EFTA00000928",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:21.279962Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

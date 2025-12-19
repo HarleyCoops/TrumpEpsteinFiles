@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000911.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a hallway looking through an open doorway into a bathroom. The bathroom features a marble-topped vanity with a white sink, gold-toned fixtures, and two wall-mounted sconce lights flanking a large mirror. The walls inside the bathroom have a patterned wallpaper. A dark bust sculpture sits on the vanity. The hallway has white walls with a marble baseboard and light-colored tile flooring. The door is a white, paneled pocket door that is partially retracted into the wall. A small white label with the letter 'C' is visible on a dark surface in the background of the bathroom.",
+    "layout": "Interior architectural photograph with a central focal point through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "C\nEFTA00000911",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "C",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000911",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000911"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000911"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000911"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates stamp and the 'C' label visible in the background.",
+  "file_path": "IMAGES\\0001\\EFTA00000911.pdf",
+  "document_id": "EFTA00000911",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:21.548477Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

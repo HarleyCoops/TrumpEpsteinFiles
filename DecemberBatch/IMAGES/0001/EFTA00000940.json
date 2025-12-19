@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000940.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room, likely a study or hallway. A long, dark wood curved console table sits against a wall with decorative mural wallpaper depicting stylized clouds or mountains. The table is covered with numerous framed personal photographs. To the left, there is a leopard-print armchair and a tall wooden window frame with cream-colored curtains. A dark wood door is partially open in the background. A tall candelabra stands on a pedestal near the window.",
+    "layout": "Interior room shot with a focus on a furniture piece (console table) and wall decor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000940",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000940",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000940"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000940 at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room view with personal photographs",
+    "date": null,
+    "references": [
+      "EFTA00000940"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates stamp. The individual subjects in the framed photos on the table are not clearly identifiable due to distance and angle.",
+  "file_path": "IMAGES\\0001\\EFTA00000940.pdf",
+  "document_id": "EFTA00000940",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:45.687867Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

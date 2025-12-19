@@ -2,8 +2,8 @@
   "file_name": "EFTA00000905.pdf",
   "image_analysis": {
     "type": "photograph",
-    "description": "A photograph of an interior room featuring an open white door with recessed panels. To the left of the door is a wall with patterned wallpaper consisting of small diamond shapes and horizontal stripes. To the right, a large ornate gold-gilded mirror reflects the interior of the room, showing another door and a rug on the floor. A portion of a dark wood chair with purple velvet upholstery is visible in the bottom left corner.",
-    "layout": "Interior architectural shot showing a doorway and a mirror reflection.",
+    "description": "A photograph of an interior room featuring a doorway and a large ornate mirror. The wall on the left is covered in a patterned wallpaper with geometric diamond and stripe motifs in neutral tones. A white paneled door is partially open, revealing a glimpse into another room. To the right of the door is a large, gold-gilded mirror with an elaborate, ornate frame at the top and bottom. The reflection in the mirror shows a continuation of the hallway or room, including a rug on the floor and another door. In the bottom left corner, a small portion of a chair with dark wood and purple velvet upholstery is visible.",
+    "layout": "Vertical composition focusing on an interior doorway and mirror.",
     "quality": "high",
     "orientation": "portrait"
   },
@@ -33,14 +33,14 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Bates stamp: EFTA00000905"
+      "Bates stamp 'EFTA00000905' in the bottom right corner"
     ]
   },
   "document_metadata": {
     "document_type": "photo",
     "sender": null,
     "recipient": null,
-    "subject": "Interior room photograph",
+    "subject": "Interior photograph of a residence",
     "date": null,
     "references": [
       "EFTA00000905"
@@ -51,11 +51,11 @@
     "structured_data": 1.0,
     "overall": 1.0
   },
-  "notes": "The text 'EFTA00000905' is a Bates stamp identifier commonly used in legal and investigative document production.",
+  "notes": "The image is a high-quality interior photograph, likely part of a legal or investigative production given the Bates stamp numbering.",
   "file_path": "IMAGES\\0001\\EFTA00000905.pdf",
   "document_id": "EFTA00000905",
   "processing_metadata": {
-    "processed_at": "2025-12-19T23:53:37.875316Z",
+    "processed_at": "2025-12-19T23:53:38.593101Z",
     "model": "gemini-3-flash-preview"
   }
 }

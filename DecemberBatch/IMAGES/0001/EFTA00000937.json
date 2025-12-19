@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000937.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior hallway and bathroom area. On the left, there is a large bronze-colored statue of a seated figure on a striped bench. The walls are covered in a light-colored patterned wallpaper with vertical stripes. An open white door leads to a further hallway with marble flooring and black diamond accents. On the right, there is a granite countertop with a white sink, a small candle, and a black box. A wall-mounted light fixture is visible on the right wall.",
+    "layout": "Interior architectural shot showing a transition between rooms.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "V \nEFTA00000937",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000937",
+        "type": "printed"
+      },
+      {
+        "region": "top_left",
+        "text": "V",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000937"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000937' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000937"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'V' at the top left is partially cut off. The image appears to be a piece of evidence or documentation from a legal or investigative file, indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000937.pdf",
+  "document_id": "EFTA00000937",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:25.659432Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

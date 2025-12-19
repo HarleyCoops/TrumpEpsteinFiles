@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000944.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a hallway or room. In the foreground, a curved wooden sideboard or console table is covered with numerous framed photographs of various sizes and colors. The wall behind the table features a light-colored wallpaper with a subtle, wavy, mountain-like pattern. In the center, a large, dark-wood ornate door with a diamond-shaped panel is partially open, leading into another room. To the right, a small wooden easel stands with a white board containing some red markings or drawings. The floor is covered with a neutral-toned, ribbed carpet. The ceiling has white crown molding.",
+    "layout": "Interior room view with furniture in the foreground and a doorway in the center background.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "11\nEFTA00000944",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "11",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000944",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000944"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000944",
+      "Page number: 11"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000944"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text '11' and 'EFTA00000944' are likely administrative markings (Bates numbering) added to the photograph for documentation purposes. There is some illegible red writing/drawing on the easel in the background.",
+  "file_path": "IMAGES\\0001\\EFTA00000944.pdf",
+  "document_id": "EFTA00000944",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:13.567387Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

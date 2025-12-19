@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000947.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a hallway or room transition. In the foreground, a tall, dark wooden pedestal supports an ornate Egyptian-style candelabra featuring a black female figure holding a gold-toned multi-candle holder with white candles. To the right of the pedestal are long, cream-colored curtains with a black patterned design. In the background, there is a narrow console table with a vase of flowers, a doorway leading to another room, and a striped carpet running the length of the hall.",
+    "layout": "Interior scene with a vertical focus on the candelabra in the left foreground and a receding perspective down a hallway to the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000947",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000947",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000947"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic Bates stamp: EFTA00000947"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office",
+    "date": null,
+    "references": [
+      "EFTA00000947"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates stamp in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000947.pdf",
+  "document_id": "EFTA00000947",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:33.973174Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000916.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle perspective photograph of a grand, ornate hallway or gallery inside a luxury residence or palace. The floor is made of light-colored stone or marble with dark diamond-shaped insets. To the right, there is a large white marble fireplace with gold-leaf detailing and a black fire screen. Above the fireplace hangs a large framed painting. Further down the hall are gold-leaf console tables. The walls are white with elaborate gold-leaf crown molding and door frames. At the end of the hallway is a set of dark, polished double doors under a decorative light fixture. A small white label with the letter 'D' is affixed to the side of the fireplace mantel.",
+    "layout": "Interior architectural photograph with a central vanishing point perspective down a hallway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "D\nEFTA00000916",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "D",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000916",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000916"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000916",
+      "White label with letter 'D' on fireplace"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a luxury residence hallway",
+    "date": null,
+    "references": [
+      "EFTA00000916"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph used as evidence, likely from a legal or investigative file given the Bates numbering (EFTA00000916) and the 'D' evidence marker.",
+  "file_path": "IMAGES\\0001\\EFTA00000916.pdf",
+  "document_id": "EFTA00000916",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:54:54.619485Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

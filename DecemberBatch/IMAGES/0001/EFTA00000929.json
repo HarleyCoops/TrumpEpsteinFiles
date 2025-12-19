@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000929.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior staircase in a grand, ornate building. The stairs are made of dark polished wood. To the left is a wrought-iron railing with intricate scrollwork. On the landing, there is a highly ornate, dark-carved chair with green upholstery. The walls are white with gold-leaf decorative molding. The ceiling features a large mural depicting a blue sky with white clouds, framed by gold-leaf borders. A gold chandelier or wall sconce is visible on the upper wall/ceiling area.",
+    "layout": "The image is a vertical shot looking up a staircase toward a landing and a decorated ceiling.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "tyli.\":.• \nEFTA00000929",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "tyli.\":.•",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000929",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000929"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000929"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or official building",
+    "date": null,
+    "references": [
+      "EFTA00000929"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text 'tyli.\":.•' appears to be a scanning artifact or partial OCR noise at the top edge. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000929.pdf",
+  "document_id": "EFTA00000929",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:28.717449Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

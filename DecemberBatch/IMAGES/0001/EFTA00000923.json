@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000923.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a luxurious hallway or foyer. The room features white walls with ornate gold-leaf molding on the ceiling and door frames. The floor is a light-colored stone or marble with dark diamond-shaped inlays. In the foreground, there are two cream-colored upholstered armchairs. To the left, a portion of a gold-leaf console table is visible. In the background, an open doorway leads to another room where a person's silhouette can be seen. A dark wooden staircase is visible in the upper right corner. A decorative chandelier hangs in the hallway beyond the first doorway.",
+    "layout": "Interior architectural shot with a deep perspective leading through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000923",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000923",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000923"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000923' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or building",
+    "date": null,
+    "references": [
+      "EFTA00000923"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, as evidenced by the Bates stamp. The OCR provided in the prompt contained bullet points and fragments not clearly visible as text in the image itself, likely artifacts of the OCR process on the surrounding document page.",
+  "file_path": "IMAGES\\0001\\EFTA00000923.pdf",
+  "document_id": "EFTA00000923",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:55:43.527928Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

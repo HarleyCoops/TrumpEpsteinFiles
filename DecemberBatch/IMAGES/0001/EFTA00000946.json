@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000946.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a lavishly decorated room, likely a dining or meeting room. The room features a long table covered with a patterned cloth, surrounded by several chairs upholstered in a leopard-print fabric. In the foreground, there is a large metal gong on a wooden stand and a gold-colored utility cart holding various items. The walls are decorated with a mural depicting mountains and clouds in a traditional Asian style. A large framed portrait of an elderly man with a long beard hangs above a dark fireplace mantel. The floor is covered with a light-colored, vertically striped carpet. Long, heavy curtains hang to the right.",
+    "layout": "The photograph is taken from a slightly elevated perspective, looking down the length of the room towards a fireplace and a mural-covered wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000946",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000946",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000946"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000946' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a decorated room",
+    "date": null,
+    "references": [
+      "EFTA00000946"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp EFTA00000946. The portrait on the wall appears to be of a figure in a traditional Chinese style, possibly a philosopher or historical figure.",
+  "file_path": "IMAGES\\0001\\EFTA00000946.pdf",
+  "document_id": "EFTA00000946",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:27.507140Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

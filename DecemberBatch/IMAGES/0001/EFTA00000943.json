@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000943.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room, likely a dining or meeting room. The room features ornate wall murals with mountain and cloud motifs in a traditional Asian style. There is a long, low banquette seating area with patterned cushions along the left wall. In the foreground, a wooden easel or stand is partially visible. To the right, there are leopard-print chairs tucked under a white table. A black fireplace with a framed portrait of an elderly bearded man sits against the far wall. The floor is covered in a striped carpet.",
+    "layout": "Interior room view with furniture and decor; a watermark/document ID is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "G \n•R \n4, \nEFTA00000943",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000943",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin",
+        "text": "G \n•R \n4,",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000943"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000943"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a room",
+    "date": null,
+    "references": [
+      "EFTA00000943"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'G •R 4,' appears to be artifacts or small markings in the upper left corner of the image, possibly from the original scanning or document processing. The primary text is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000943.pdf",
+  "document_id": "EFTA00000943",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:06.969814Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000932.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a luxurious interior room featuring ornate classical decor. The image shows a two-story space with a balcony or mezzanine level. The upper level has a decorative black wrought-iron railing with scrollwork. The ceiling is coffered with gold trim. On the lower level, there is a marble fireplace with gold leaf accents, a portrait of a man with a distorted or stylized face above the mantle, and two large, ornate gold-framed mirrors on either side. Lamps with pleated shades are visible in front of the mirrors. The walls are white with gold molding.",
+    "layout": "Vertical composition showing a multi-level interior space.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000932",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000932",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000932"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000932' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000932"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp EFTA00000932. The portrait above the fireplace appears to be in a modern or expressionist style, contrasting with the traditional ornate decor.",
+  "file_path": "IMAGES\\0001\\EFTA00000932.pdf",
+  "document_id": "EFTA00000932",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:56:49.190292Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

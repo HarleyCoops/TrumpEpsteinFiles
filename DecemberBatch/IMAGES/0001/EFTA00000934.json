@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000934.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph looking through an open white door with gold trim into a luxurious bathroom or dressing area. The foreground shows a light-colored stone floor and marble baseboards. The doorway leads into a hallway with dark stone flooring and a small tan rug. In the background, another doorway is visible, featuring a dark wall hanging with a white and yellow animal graphic (possibly a tiger). To the left inside the room is a dark wood vanity or counter. The lighting is warm and recessed from the ceiling.",
+    "layout": "Interior architectural photograph with a centered perspective looking through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000934",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000934",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000934"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000934' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or hotel suite",
+    "date": null,
+    "references": [
+      "EFTA00000934"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000934.pdf",
+  "document_id": "EFTA00000934",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:57:03.497313Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

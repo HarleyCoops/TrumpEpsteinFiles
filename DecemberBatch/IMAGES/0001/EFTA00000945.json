@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000945.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a lavishly decorated room. The room features a large mural of a tree on the wall, leopard-print upholstered chairs, and a white table covered with a floral cloth. In the foreground, there is a large brass gong mounted on a wooden stand, which is placed on a gold-toned rolling cart containing various items. A small whiteboard on an easel is visible in the background near a doorway. The floor is covered with a neutral-toned striped carpet.",
+    "layout": "Interior room shot with furniture and decorative objects arranged for a meeting or social gathering.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000945",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000945",
+        "type": "printed"
+      },
+      {
+        "region": "background_whiteboard",
+        "text": "[unclear: handwritten text on whiteboard]",
+        "type": "handwritten"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000945"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000945"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000945"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text on the whiteboard in the background is illegible due to distance and focus. The primary text is the Bates stamp identifier at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000945.pdf",
+  "document_id": "EFTA00000945",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T23:58:20.523580Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
