@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000284.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking down a long, narrow interior hallway. The hallway features grey walls, white crown molding, and white baseboards. The floor is covered with a light-colored carpet featuring a repeating geometric diamond pattern. Three flush-mount dome light fixtures with brass-colored trim are visible on the ceiling. On the left side of the hallway, a white door is partially open. On the right side, there are recessed architectural features or window wells. The hallway leads to another doorway in the distance.",
+    "layout": "Central perspective view looking down a corridor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000284",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000284",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000284"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000284' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior hallway photograph",
+    "date": null,
+    "references": [
+      "EFTA00000284"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior architectural or real estate style photograph, likely part of an evidentiary or investigative file as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000284.pdf",
+  "document_id": "EFTA00000284",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:10.479058Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

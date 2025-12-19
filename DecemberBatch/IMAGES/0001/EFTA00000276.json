@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000276.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an open closet or storage unit containing various items. On the top shelf are two white female torso mannequins. The shelves below contain athletic equipment including sneakers, a blue exercise mat, a black storage bin with labels, stacks of small boxes (possibly DVDs or supplements), push-up bars, and other fitness accessories. To the left, a large stone-like sculpture or bust is partially visible on a counter next to a set of white drawers. A black pole (possibly a weight bar or cleaning tool) leans against the shelves.",
+    "layout": "The image shows a built-in shelving unit flanked by white cabinetry and a doorway/wall. The photograph is taken from a straight-on perspective.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000276\nGLOVES\nHAND WRAPS\nJUMP ROPE\nRESISTANCE BANDS\nVALSLIDES\nGRIP STRENGTHENER",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000276",
+        "type": "printed"
+      },
+      {
+        "region": "label",
+        "text": "GLOVES\nHAND WRAPS\nJUMP ROPE\nRESISTANCE BANDS\nVALSLIDES\nGRIP STRENGTHENER",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000276"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000276"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage closet with fitness equipment and mannequins",
+    "date": null,
+    "references": [
+      "EFTA00000276"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The labels on the black bin are small and slightly blurry but legible as a list of exercise equipment. The Bates stamp indicates this is part of a legal or investigative production.",
+  "file_path": "IMAGES\\0001\\EFTA00000276.pdf",
+  "document_id": "EFTA00000276",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:15.337388Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

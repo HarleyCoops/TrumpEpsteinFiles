@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000268.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a home gym or fitness room. In the foreground, the control panel of a 'TRUE' brand exercise machine is visible. To the right, there is a stationary bike with grey padded handles and a weight bench with tan leather/vinyl padding. In the background, three exercise balls (blue, red, and yellow) are stacked on a vertical rack. Next to the balls is a tall, dark wooden or stone statue of a figure. A doorway leads to another room containing more gym equipment. The walls are covered in a tan, textured wallpaper, and the floor is light-colored wood. A window with white blinds and beige curtains is on the right wall. A pull-up bar with gymnastic rings is mounted on the left wall.",
+    "layout": "Interior room shot with equipment in foreground and background.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "TRUE\nEFTA00000268",
+    "text_regions": [
+      {
+        "region": "foreground_equipment",
+        "text": "TRUE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000268",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "TRUE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000268"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic footer: EFTA00000268"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a home gym",
+    "date": null,
+    "references": [
+      "EFTA00000268"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'TRUE' is a brand name on the fitness equipment. The alphanumeric string 'EFTA00000268' is a bates-style document identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000268.pdf",
+  "document_id": "EFTA00000268",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:19.713507Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

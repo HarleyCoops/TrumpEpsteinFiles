@@ -1,0 +1,72 @@
+{
+  "file_name": "EFTA00000269.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a home gym or exercise room. The room has light-colored wood flooring and textured tan/beige wallpaper. Visible equipment includes a stack of blue exercise mats, gymnastic rings hanging from the ceiling, a wall-mounted pull-up bar with suspension straps (possibly TRX), and a tall wooden speaker. Through an open doorway on the right, another room is visible containing cardio equipment like an elliptical machine. A white sticker with the letter 'Z' is affixed to the door frame on the right. In the bottom left foreground, parts of other gym equipment are partially visible.",
+    "layout": "Landscape photograph with two doorways visible; one on the left and one on the right.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "1 \nZ\nEFTA00000269",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "1",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "Z",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000269",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000269"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000269",
+      "Label: 'Z' on door frame"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence/gym facility",
+    "date": null,
+    "references": [
+      "EFTA00000269"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely from a search or inventory process, indicated by the 'Z' label and the Bates numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000269.pdf",
+  "document_id": "EFTA00000269",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:26.731269Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

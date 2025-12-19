@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000259.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a home gym or fitness room. The room contains various pieces of exercise equipment including an elliptical machine, a stationary bike, a weight bench, a speed bag mounted on the wall, and a rack of dumbbells. There is a large mirror on the left wall reflecting the equipment. A flat-screen television is mounted on the right wall. The floor is carpeted, and there is an open wooden door leading to another room with more equipment. The lighting is warm, possibly from an overhead source or a lamp.",
+    "layout": "Landscape orientation photograph with a white border at the bottom containing a reference number.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "9 \nEFTA00000259",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "9",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000259",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000259"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Page number '9' at top left",
+      "Reference number 'EFTA00000259' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a fitness room",
+    "date": null,
+    "references": [
+      "EFTA00000259"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation as indicated by the 'EFTA' prefix and page numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000259.pdf",
+  "document_id": "EFTA00000259",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:13.348957Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

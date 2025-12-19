@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000278.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of a closet. The closet contains a top shelf with a stack of folded linens (towels and blankets in light pink, blue, brown, and patterned colors). Below the shelf is a metal hanging rod. On the left side of the rod, a few items of clothing are visible on hangers, including a red jacket and a dark blue garment. To the right of the closet frame, a mirror reflects a dark, textured object that appears to be a statue or stone carving. A light fixture is visible on the ceiling inside the closet.",
+    "layout": "Interior shot with a vertical frame on the left and a mirrored surface on the right.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000278",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000278",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000278"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000278"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Closet interior",
+    "date": null,
+    "references": [
+      "EFTA00000278"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text 'V C' mentioned in the OCR provided by the user is not clearly legible in the image itself, though the Bates stamp 'EFTA00000278' is clearly visible in the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000278.pdf",
+  "document_id": "EFTA00000278",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:29.400059Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

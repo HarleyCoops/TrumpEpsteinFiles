@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000248.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a room interior, likely a bedroom or sitting area. The walls are painted a deep textured blue with white crown molding. The room contains a white sofa with patterned throw pillows, a large square ottoman with blue fringe, a dark leather armchair, and several small side tables with lamps. The floor is covered in a dark plaid carpet. A doorway leads to another room. A tall silver tower fan is visible on the right.",
+    "layout": "Interior room shot with furniture arranged against walls and in the center.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000248",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000248",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000248"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic Bates stamp: EFTA00000248"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000248"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph with an evidentiary Bates stamp at the bottom right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000248.pdf",
+  "document_id": "EFTA00000248",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:13:57.991159Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000287.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a living room or sitting area. The room features yellow wall-to-wall carpeting and white walls with a subtle diamond-patterned wallpaper. There are two windows with white curtains and black curtain rods. Furniture includes two cream-colored armchairs, two green upholstered chairs with pink pillows, a wooden sideboard/credenza against the wall, and two floor lamps with salmon-colored shades. A telephone and some electronic equipment are visible on the sideboard.",
+    "layout": "Landscape orientation showing a wide view of the room's interior.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "!mom.—\nEFTA00000287",
+    "text_regions": [
+      {
+        "region": "top_left_margin",
+        "text": "!mom.—",
+        "type": "printed"
+      },
+      {
+        "region": "bottom_right_footer",
+        "text": "EFTA00000287",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000287"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000287' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000287"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text '!mom.—' appears to be a digital artifact or a partial OCR error from the very top edge of the image, possibly representing a header from a previous page or a scanning artifact. The primary identifier is the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000287.pdf",
+  "document_id": "EFTA00000287",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:30.696412Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

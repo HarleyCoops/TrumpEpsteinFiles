@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000258.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor home gym or fitness room. The room features beige carpeting and light-colored walls with crown molding. Several pieces of exercise equipment are visible, including a Schwinn stationary bike in the foreground, a Precor elliptical machine in the center, and a weight-lifting apparatus on the left. Through an open double wooden door, a second room is visible containing more exercise equipment, including another stationary bike and a treadmill. A flat-screen television is mounted on the wall behind the elliptical. To the right of the elliptical is a white rolling cart holding various items, possibly towels or cleaning supplies.",
+    "layout": "Landscape photograph showing a room interior with an open doorway leading to an adjacent room.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "SCHWINN\n130\nPRECOR\nEFTA00000258",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "SCHWINN\n130",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "PRECOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000258",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Schwinn",
+      "Precor"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000258"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000258"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a fitness room",
+    "date": null,
+    "references": [
+      "EFTA00000258"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'SCHWINN 130' and 'PRECOR' are brand/model markings on the exercise equipment. The alphanumeric string at the bottom right is a Bates stamp used for document identification in legal or investigative contexts.",
+  "file_path": "IMAGES\\0001\\EFTA00000258.pdf",
+  "document_id": "EFTA00000258",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:06.459544Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000243.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a high-end bathroom. The focal point is a narrow walk-in shower with a glass door and chrome frame. The interior of the shower and the bathroom floor are finished with white marble featuring grey veining. A small chrome shelf inside the shower holds two bottles. To the right of the shower is a white paneled door that is slightly ajar, revealing a brass doorknob and keyhole. The lower half of the walls are tiled in white marble with a thin black border, while the upper half is painted a light cream color. A white bath mat is placed on the floor in front of the shower entrance.",
+    "layout": "The image is a vertical shot from a doorway looking into a bathroom space.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000243",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000243",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000243"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000243' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom/shower area",
+    "date": null,
+    "references": [
+      "EFTA00000243"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000243.pdf",
+  "document_id": "EFTA00000243",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:13:24.765709Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

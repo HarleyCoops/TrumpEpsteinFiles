@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000279.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of a closet. Inside the closet, a red satin robe and a dark blue garment are hanging on a metal rod. On the floor of the closet, there is a large wicker basket sitting on top of a blue padded item. To the right of the basket is a black and silver piece of equipment, possibly a stroller frame or walker. On the top shelf of the closet, several folded blankets or quilts are stacked. The closet has white walls and a white door frame.",
+    "layout": "Single photograph with a white border and a document ID at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I \nEFTA00000279",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "I",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000279",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000279"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic Bates stamp: EFTA00000279"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Closet interior",
+    "date": null,
+    "references": [
+      "EFTA00000279"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The image is a standard evidentiary photograph, likely from an investigation, as indicated by the Bates stamp 'EFTA00000279'.",
+  "file_path": "IMAGES\\0001\\EFTA00000279.pdf",
+  "document_id": "EFTA00000279",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:36.066673Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

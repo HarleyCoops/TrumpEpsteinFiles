@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000254.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a utility or maintenance room, likely in a residential or commercial building. The room contains complex plumbing, including copper pipes, insulated pipes, and several pipes labeled 'DRAIN' with green arrows. There is a small, tiled, octagonal-shaped basin or shower-like area in the corner with a faucet and showerhead above it. A red plunger with a long clear handle stands on the floor. A floor drain is visible in the center of the room. A white door with a gold-colored handle is partially visible on the right side of the frame.",
+    "layout": "Interior shot of a utility room showing plumbing fixtures and floor area.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "DRAIN\nDRAIN\nDRAIN\nDRAIN\nEFTA00000254",
+    "text_regions": [
+      {
+        "region": "labels",
+        "text": "DRAIN\nDRAIN\nDRAIN\nDRAIN",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000254",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000254"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number 'EFTA00000254' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Utility room/plumbing inspection",
+    "date": null,
+    "references": [
+      "EFTA00000254"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates-style numbering at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000254.pdf",
+  "document_id": "EFTA00000254",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:38.429289Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

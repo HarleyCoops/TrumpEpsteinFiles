@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000273.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bathroom interior. The image shows two open doorways: the left door leads to a small room with a toilet and a framed black-and-white photograph of a person on the wall; the right door leads to a walk-in shower with marble walls and several bottles of toiletries on a shelf. Between the two doors is a towel ring with a white towel. To the far left, a marble countertop is visible with a pair of pink ballet slippers hanging on the wall above it. To the far right, another marble countertop with a sink and a mirror is visible. The floor appears to be marble tile in the toilet and shower areas, and carpet in the foreground.",
+    "layout": "Interior architectural shot with symmetrical doorway placement.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000273",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000273",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000273"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000273' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000273"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph used as evidence or documentation, as indicated by the Bates stamp. The framed photo on the wall inside the toilet area contains a black box obscuring the subject's face/upper body.",
+  "file_path": "IMAGES\\0001\\EFTA00000273.pdf",
+  "document_id": "EFTA00000273",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:53.878981Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

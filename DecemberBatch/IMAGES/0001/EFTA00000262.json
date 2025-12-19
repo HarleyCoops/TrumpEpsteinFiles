@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000262.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a small closet or storage area. The central focus is a three-tiered metal shelving unit on wheels. The top shelf contains boxing gear, including black focus mitts and wrist weights. The middle shelf holds four pairs of black athletic shoes, mostly high-tops. The bottom shelf holds three pairs of athletic shoes: one pair of blue/black/orange sneakers, one pair of blue 'Everlast' sneakers, and one pair of red 'Everlast' sneakers. To the left, a wooden bench or table holds a black object and yellow fabric. To the right, a white plastic storage bin filled with white linens or towels is visible. The floor is carpeted in a light tan color.",
+    "layout": "The image is a wide-angle photograph taken from a doorway looking into a storage space.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EVERLAST\nEVERLAST\nEVERLAST\nEVERLAST\nPOLO SPORT\nPOLO SPORT\nEVERLAST\nEVERLAST\nEVERLAST\nEVERLAST\nEVERLAST\nEVERLAST\nEFTA00000262",
+    "text_regions": [
+      {
+        "region": "shoe labels (middle shelf)",
+        "text": "EVERLAST, EVERLAST, EVERLAST, EVERLAST, POLO SPORT, POLO SPORT, EVERLAST, EVERLAST",
+        "type": "printed"
+      },
+      {
+        "region": "shoe labels (bottom shelf)",
+        "text": "EVERLAST, EVERLAST, EVERLAST, EVERLAST",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000262",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Everlast",
+      "Polo Sport"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000262"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Digital watermark/footer: EFTA00000262"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Evidence photograph of a closet containing shoes and boxing equipment",
+    "date": null,
+    "references": [
+      "EFTA00000262"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text extracted primarily consists of brand names visible on the footwear and a document identification number in the footer.",
+  "file_path": "IMAGES\\0001\\EFTA00000262.pdf",
+  "document_id": "EFTA00000262",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:36.639518Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "file_name": "EFTA00000261.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a four-tier metal and glass shelving unit inside a closet or storage area. The shelves are filled with boxing equipment and athletic footwear. The top shelf holds two pairs of boxing gloves (one pair black 'TKO' brand, one pair silver 'TITLE' brand). The second shelf holds two black focus mitts and a pair of black shin guards or heavy wraps. The third shelf contains four pairs of black athletic shoes, including 'EVERLAST' and 'POLO SPORT' brands. The bottom shelf shows several pairs of colorful running shoes (blue, orange, red). To the left, a wooden cabinet is partially visible with yellow hand wraps on top. To the right, a plastic bin with white fabric is visible.",
+    "layout": "Indoor storage/closet scene with a central shelving unit.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "TKO\nTKO\nTITLE\nPlatinum\nEVERLAST\nEVERLAST\nEVERLAST\nEVERLAST\nPOLO SPORT\nPOLO SPORT\nEVERLAST\nEVERLAST\nEFTA00000261",
+    "text_regions": [
+      {
+        "region": "top_shelf_labels",
+        "text": "TKO, TKO, TITLE, Platinum",
+        "type": "printed"
+      },
+      {
+        "region": "third_shelf_labels",
+        "text": "EVERLAST, EVERLAST, EVERLAST, EVERLAST, POLO SPORT, POLO SPORT, EVERLAST, EVERLAST",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000261",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "TKO",
+      "TITLE",
+      "EVERLAST",
+      "POLO SPORT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000261"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000261"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of boxing equipment and shoes",
+    "date": null,
+    "references": [
+      "EFTA00000261"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a clear photograph likely taken during an investigation or inventory process, indicated by the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000261.pdf",
+  "document_id": "EFTA00000261",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:28.900454Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

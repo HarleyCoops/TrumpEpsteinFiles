@@ -1,0 +1,69 @@
+{
+  "file_name": "EFTA00000260.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of a closet or storage space. The image shows a built-in shelf at the top, a metal hanging rod below it, and a glass-shelved metal rack unit inside the closet. On the glass shelf, there are two pairs of boxing gloves: one pair is black with 'TKO' branding, and the other pair is silver/grey with 'TITLE' branding. The walls are off-white/cream, and there is decorative molding at the top of the closet.",
+    "layout": "The image is a landscape-oriented photograph showing a recessed closet space.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "TKO\nTKO\nTITLE\nTITLE\nEFTA00000260",
+    "text_regions": [
+      {
+        "region": "object_labels",
+        "text": "TKO\nTKO\nTITLE\nTITLE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000260",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "TKO",
+      "TITLE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000260"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000260"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of boxing equipment",
+    "date": null,
+    "references": [
+      "EFTA00000260"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text 'TKO' and 'TITLE' are brand names visible on the boxing gloves. The number 'EFTA00000260' is a Bates stamp identifier commonly used in legal or committee documentation.",
+  "file_path": "IMAGES\\0001\\EFTA00000260.pdf",
+  "document_id": "EFTA00000260",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:21.715251Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

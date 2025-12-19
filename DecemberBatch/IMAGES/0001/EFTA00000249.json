@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000249.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. The room features deep blue textured walls and a dark plaid carpet. On the left, a bed with white linens is partially visible. Two windows are covered with cream-colored floral patterned curtains tied back with red cords. Between the windows sits a dark wood bombe-style chest of drawers topped with two small lamps and a decorative box. To the right, a cream-colored sofa with patterned throw pillows is positioned against the wall. In front of the sofa is a large, square blue ottoman with fringe. A tall, silver tower fan is in the foreground on the right, and a dark leather chair is partially visible in the bottom right corner.",
+    "layout": "Interior room shot, landscape orientation, wide angle.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000249",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000249",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000249"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Digital watermark/identifier 'EFTA00000249' in the bottom right corner."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000249"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a clear photograph of a residential interior. The only text present is a document identification number likely added during an investigation or discovery process.",
+  "file_path": "IMAGES\\0001\\EFTA00000249.pdf",
+  "document_id": "EFTA00000249",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:04.681867Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

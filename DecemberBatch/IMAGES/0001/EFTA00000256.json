@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000256.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor home gym or fitness room. The room features tan carpeting and walls lined with large mirrors that reflect the equipment. Visible equipment includes a Cybex multi-station weight machine, several adjustable weight benches with tan upholstery, a rack of dumbbells, yoga mats (pink and green), and various smaller fitness accessories like yoga blocks and small hand weights. A white door is visible in the background, and the lighting appears to be from recessed ceiling fixtures.",
+    "layout": "Landscape photograph showing a wide view of a fitness room.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "CYBEX\nEFTA00000256",
+    "text_regions": [
+      {
+        "region": "equipment_label",
+        "text": "CYBEX",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000256",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Cybex"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000256"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000256"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a home gym",
+    "date": null,
+    "references": [
+      "EFTA00000256"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier in the lower right corner.",
+  "file_path": "IMAGES\\0001\\EFTA00000256.pdf",
+  "document_id": "EFTA00000256",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:51.535832Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

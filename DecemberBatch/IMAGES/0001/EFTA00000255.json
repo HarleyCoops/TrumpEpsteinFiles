@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000255.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a hallway or adjacent room looking into a dimly lit home gym. A white door is partially open, with a white piece of paper taped to it featuring a large, bold letter 'Y'. Inside the room, various pieces of exercise equipment are visible, including a weight machine, a bench, and a rack of dumbbells. The lighting is low, appearing to come from a single lamp or light source within the gym area.",
+    "layout": "The image is dominated by the white door frame and door on the left and center-left. The right side of the frame shows the interior of the gym room.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Y\nEFTA00000255",
+    "text_regions": [
+      {
+        "region": "label on door",
+        "text": "Y",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000255",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000255"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000255",
+      "Paper sign with letter 'Y' taped to door"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence showing a home gym and a labeled door",
+    "date": null,
+    "references": [
+      "EFTA00000255"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The paper taped to the door appears to be a form or log sheet with the letter 'Y' printed prominently at the top, likely used for evidence indexing or room identification during a search or investigation. The text below the 'Y' on the paper is too small and blurry to read reliably.",
+  "file_path": "IMAGES\\0001\\EFTA00000255.pdf",
+  "document_id": "EFTA00000255",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:44.641838Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

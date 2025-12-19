@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000289.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior living space. The room features white walls, white crown molding, and yellow-gold wall-to-wall carpeting. On the left is a cream-colored sofa with several pillows (one dark brown/black, one cream, one patterned). To the right of the sofa is a floor lamp with a brown shade and a stack of books on the floor. In the foreground on the right is a matching cream-colored armchair with a small colorful toy on the seat. In the background, there are three doorways: one on the far left leading to another room, a central white door with a small sign labeled 'AA', and a doorway on the right leading into what appears to be a kitchen area. A cat scratching post is visible near the central doorway.",
+    "layout": "Interior room shot with furniture in the foreground and multiple doorways in the background.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "AA\nEFTA00000289",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "AA",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000289",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000289"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Small white sign on door labeled 'AA'",
+      "Bates stamp/Reference number 'EFTA00000289' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000289"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The OCR provided in the prompt was largely garbled noise; the extracted text 'AA' and 'EFTA00000289' are clearly visible in the image itself. The image appears to be an evidentiary photograph from an investigation.",
+  "file_path": "IMAGES\\0001\\EFTA00000289.pdf",
+  "document_id": "EFTA00000289",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:44.836329Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

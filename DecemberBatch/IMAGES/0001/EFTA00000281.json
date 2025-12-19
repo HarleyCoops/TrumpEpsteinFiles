@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000281.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from the bottom of a staircase looking up. The stairs are covered in a grey patterned carpet. To the left is a dark-colored wooden or metal banister with a light-colored wooden handrail. On the wall at the top of the stairs, two fire extinguishers (one red, one black) are mounted. Above them is a small black sign with white text. To the right of the stairs is a white wall with a framed object or window with a mesh screen. The lighting appears to be from an overhead source, casting shadows on the walls.",
+    "layout": "Vertical orientation showing a stairwell interior.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "51. FLOOR\nEFTA00000281",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "51. FLOOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000281",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "51. FLOOR"
+    ],
+    "document_numbers": [
+      "EFTA00000281"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000281"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a stairwell with fire extinguishers",
+    "date": null,
+    "references": [
+      "EFTA00000281"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text on the wall sign is partially obscured by the fire extinguisher bracket, making the first digit slightly unclear, though it appears to be '51.' or '1st'. Given the context of floor numbering, it is likely '1st FLOOR' or '5th FLOOR'.",
+  "file_path": "IMAGES\\0001\\EFTA00000281.pdf",
+  "document_id": "EFTA00000281",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:49.528120Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

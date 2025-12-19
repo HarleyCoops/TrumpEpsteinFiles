@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00000266.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a home gym or exercise room. The room features light-colored wood flooring and textured tan wallpaper. On the left, there is a large wooden statue of a figure (possibly a Buddha or similar deity) and a large wooden ballet barre or stretching rack. In the center and right, there are several pieces of white and tan exercise equipment, including a power tower/dip station and a Cybex branded back extension machine. A small green side table holds a stack of green weights and a white corded telephone. A window with white blinds and cream-colored curtains is visible on the left wall.",
+    "layout": "Landscape photograph showing a corner of a room with exercise equipment.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "7 44‘111 %1W .\nCYBEX\nEFTA00000266",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "CYBEX",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000266",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "7 44‘111 %1W .",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "CYBEX"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000266"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number: EFTA00000266"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a home gym",
+    "date": null,
+    "references": [
+      "EFTA00000266"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The text '7 44‘111 %1W .' appears to be a digital artifact or OCR misinterpretation of the ceiling/vent area in the top left, but is included as it was present in the provided OCR text. The 'CYBEX' text is a brand label on the exercise equipment.",
+  "file_path": "IMAGES\\0001\\EFTA00000266.pdf",
+  "document_id": "EFTA00000266",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:04.521582Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

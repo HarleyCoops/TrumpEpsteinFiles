@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000288.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room with yellow carpeting. The room contains a large cream-colored armchair in the center, a teal upholstered chair with a pink and purple pillow to the right, and a long wooden sideboard/cabinet against the right wall. In the background, two doorways are visible; one leads to a kitchen area with white cabinets and a stainless steel appliance, and the other leads to a hallway or another room. A cat scratching post and a green toy are on the floor near the left doorway. The walls are white with crown molding, and there is a faint 'X' pattern visible on the wall to the left.",
+    "layout": "Interior room shot with furniture and doorways leading to other rooms.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000288",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000288",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000288"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000288"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000288"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely taken for investigative or inventory purposes, as indicated by the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000288.pdf",
+  "document_id": "EFTA00000288",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:37.815520Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

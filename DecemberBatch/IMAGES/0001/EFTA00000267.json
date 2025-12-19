@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000267.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor home gym or exercise room. The room features light-colored wood flooring and textured tan/beige wallpaper. In the room, there is a large wooden Buddha statue on the left, a wooden ballet barre or stretching rack in front of a window with white curtains and blinds, and several pieces of white and grey exercise equipment, including a power tower/pull-up station and a weight bench. A portion of a stationary bike is visible on the far right.",
+    "layout": "Landscape orientation showing a corner of a room with exercise equipment and decor.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000267",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000267",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000267"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000267' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph showing exercise equipment and decor",
+    "date": null,
+    "references": [
+      "EFTA00000267"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph likely used as evidence or documentation in a legal or investigative context, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000267.pdf",
+  "document_id": "EFTA00000267",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:12.249401Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

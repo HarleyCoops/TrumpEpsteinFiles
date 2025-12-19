@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000246.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom featuring blue textured walls and a plaid carpet. The room contains a large bed with a floral patterned headboard and white linens. Flanking the bed are two wooden nightstands with matching lamps. To the right, there are three sets of floor-to-ceiling cream-colored curtains with floral patterns and red tie-backs. On the left, a silver air purifier stands near a dark leather chair. A wooden dresser is visible on the far right.",
+    "layout": "Interior bedroom scene, landscape orientation.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000246",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000246",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000246"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000246 in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bedroom",
+    "date": null,
+    "references": [
+      "EFTA00000246"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a clear photograph of a residential interior. The only text present is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000246.pdf",
+  "document_id": "EFTA00000246",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:13:45.054972Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

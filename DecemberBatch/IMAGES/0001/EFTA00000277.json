@@ -1,0 +1,78 @@
+{
+  "file_name": "EFTA00000277.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a closet or storage area. To the left is a built-in white dresser with five drawers and silver knobs. To the right is an open closet door revealing several shelves filled with exercise and boxing equipment. Items include black storage bins, stacks of Everlast hand wraps or similar boxed items, a blue foam pad, push-up bars, an ab roller, dumbbells, and athletic shoes. A long black pole or bar stands vertically against the left side of the closet opening.",
+    "layout": "The image is split between a built-in dresser on the left and an open closet on the right. The closet door is partially visible in the foreground on the right side.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "GLOVES\nHAND WRAPS\nJUMP ROPE\nWEIGHT LIFT GLOVES\nEverlast\nEFTA00000277",
+    "text_regions": [
+      {
+        "region": "label_on_black_bin",
+        "text": "GLOVES\nHAND WRAPS\nJUMP ROPE",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_shelf_edge",
+        "text": "WEIGHT LIFT GLOVES",
+        "type": "printed"
+      },
+      {
+        "region": "product_packaging",
+        "text": "Everlast",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000277",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Everlast"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000277"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000277 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of exercise equipment",
+    "date": null,
+    "references": [
+      "EFTA00000277"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text on the labels is small but legible. The brand 'Everlast' is visible on multiple stacked boxes on the top shelf. The Bates stamp indicates this is part of a legal or investigative production.",
+  "file_path": "IMAGES\\0001\\EFTA00000277.pdf",
+  "document_id": "EFTA00000277",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:23.217529Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

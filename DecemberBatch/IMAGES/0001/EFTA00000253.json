@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00000253.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a utility or mechanical room. The image shows complex plumbing and HVAC equipment. On the left, there are large insulated pipes, gauges, and valves. A grey control box is mounted on the wall. In the center, there is a wall-mounted faucet over a small tiled area. A thin copper pipe runs horizontally across the back wall. Above, a large rectangular HVAC unit with a blue filter is mounted to the ceiling. A framed document or chart is hanging on the wall.",
+    "layout": "The image is a wide-angle photograph of an interior utility space.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "DRAIN\nDRAIN\nDRAIN\nEFTA00000253",
+    "text_regions": [
+      {
+        "region": "labels on pipes",
+        "text": "DRAIN\nDRAIN\nDRAIN",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000253",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000253"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000253"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Mechanical room or utility area documentation",
+    "date": null,
+    "references": [
+      "EFTA00000253"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the framed document on the wall is illegible due to distance and focus. The labels 'DRAIN' appear on green tape wrapped around copper piping.",
+  "file_path": "IMAGES\\0001\\EFTA00000253.pdf",
+  "document_id": "EFTA00000253",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:31.058577Z",
+    "model": "gemini-3-flash-preview"
+  }
+}    "model": "gemini-3-flash-preview"
+  }
+}

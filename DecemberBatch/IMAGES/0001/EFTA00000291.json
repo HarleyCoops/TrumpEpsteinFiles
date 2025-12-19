@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00000291.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a white door with a printed sign taped to it. The sign features the large letters 'BB' and a table for search personnel information. The door appears to be part of a closet or interior room, with a gold-colored doorknob visible at the bottom left and a dark interior visible to the left of the door frame.",
+    "layout": "Centered photograph of a door with a document attached to the middle panel.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "BB\nSearch Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)\nEFTA00000291",
+    "text_regions": [
+      {
+        "region": "document_center",
+        "text": "BB",
+        "type": "printed"
+      },
+      {
+        "region": "document_table_headers",
+        "text": "Search Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000291",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000291"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Large 'BB' printed in the center of the page",
+      "Empty table for search personnel tracking",
+      "Faint badge-like emblem visible behind the 'BB' text"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph of a search log form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Search identification and tracking",
+    "date": null,
+    "references": [
+      "EFTA00000291"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.93
+  },
+  "notes": "The document on the door appears to be a room identifier or search log used during a legal or official search. The table on the document is blank, indicating it may be a marker for 'Room BB'.",
+  "file_path": "IMAGES\\0001\\EFTA00000291.pdf",
+  "document_id": "EFTA00000291",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:58.202780Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

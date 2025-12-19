@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000290.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a living room or sitting area. The room features yellow-gold carpeting and white walls. There is a large cream-colored sofa against the wall, flanked by two floor lamps with brown shades. A matching cream-colored armchair is in the foreground. To the left, there is a wooden desk or table with a telephone and some papers. Two windows with white curtains and black curtain rods are visible on the far wall. There are also green upholstered stools or ottomans and pink pillows visible. The lighting appears to be from the room's lamps and possibly an overhead source.",
+    "layout": "Landscape photograph of an interior room.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": ".1 wr \nEFTA00000290",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000290",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin",
+        "text": ".1 wr",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000290"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000290"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00000290"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text '.1 wr' is very small and located in the upper left corner, possibly a scanning artifact or a small notation. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000290.pdf",
+  "document_id": "EFTA00000290",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:51.735914Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000274.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a luxurious bathroom and an adjacent dressing area. On the left, there is a marble-topped vanity with two sinks, cream-colored cabinetry, and large mirrors with decorative sconces. A white towel hangs from a ring on the wall. In the center, an open mirrored door leads to a dressing room or walk-in closet featuring a white dresser with multiple drawers and a dark statue or bust on top. To the right, a marble-encased bathtub is partially visible with white towels draped over the edge. The walls are a neutral beige/cream color, and the floor is carpeted.",
+    "layout": "Interior architectural photograph showing a suite of rooms (bathroom and dressing area).",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000274",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000274",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000274"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000274' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000274"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior real estate or investigative photograph. The only text present is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000274.pdf",
+  "document_id": "EFTA00000274",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:00.231258Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

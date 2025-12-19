@@ -1,0 +1,78 @@
+{
+  "file_name": "EFTA00000275.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a closet or storage cabinet. The top shelf contains two white female torso mannequins. The middle shelf contains athletic gear including a pair of dark sneakers, a blue bag, and a white towel. The bottom visible shelf contains a black storage bin with labels, stacks of small packaged items (possibly 'EverGel' hand wraps), and other blue athletic equipment.",
+    "layout": "The image is a straight-on shot of a built-in shelving unit inside a closet, with a door partially visible on the right side and a mirror reflection on the left.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000275\nGLOVES\nHAND WRAPS\nJUMP ROPE\nSTRETCHING EQUIPMENT\nBALLET SHOES\nWRAP BODY WEIGHTS\nEverGel\nEverGel\nEverGel\nEverGel\nEverGel\nWEIGHT LIFT GLOVES",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000275",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_bin",
+        "text": "GLOVES\nHAND WRAPS\nJUMP ROPE\nSTRETCHING EQUIPMENT\nBALLET SHOES\nWRAP BODY WEIGHTS",
+        "type": "printed"
+      },
+      {
+        "region": "product_packaging",
+        "text": "EverGel",
+        "type": "printed"
+      },
+      {
+        "region": "shelf_label",
+        "text": "WEIGHT LIFT GLOVES",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "EverGel"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000275"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000275"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of athletic equipment and mannequins",
+    "date": null,
+    "references": [
+      "EFTA00000275"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the black bin label is small but legible. The brand 'EverGel' is visible on the side of stacked retail packaging. The image appears to be an evidentiary photograph from an investigation.",
+  "file_path": "IMAGES\\0001\\EFTA00000275.pdf",
+  "document_id": "EFTA00000275",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:08.158164Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

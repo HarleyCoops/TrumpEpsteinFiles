@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000285.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a room. The foreground shows a white door frame and a partially open white door with silver hinges and a brass-colored doorknob. The room inside has yellow/gold carpeting. In the middle ground, there is a cream-colored sofa or armchair with several large books stacked on the floor next to it. A brass floor lamp with two adjustable heads and red shades stands behind the books. In the background, there is a window with white curtains and dark drapes on either side. The walls are white with decorative molding.",
+    "layout": "Interior room shot through an open doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000285",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000285",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000285"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000285' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00000285"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary photograph, likely from a legal or investigative file given the Bates numbering.",
+  "file_path": "IMAGES\\0001\\EFTA00000285.pdf",
+  "document_id": "EFTA00000285",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:16.961054Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

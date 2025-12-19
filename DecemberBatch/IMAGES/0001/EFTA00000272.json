@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000272.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway or hallway looking into a bathroom suite. On the left, there is a marble-topped bathtub. In the center, a doorway leads to a separate toilet room (water closet) containing a white toilet and a framed piece of art on the wall. To the right of that doorway is a towel ring with a white towel. Further right is a large glass door or partition, likely for a shower, reflecting the room. The floor is covered in a light tan or beige carpet. The walls are a neutral cream color with white crown molding. Two recessed lights are visible on the ceiling.",
+    "layout": "Interior architectural photograph with a central perspective looking through a suite of rooms.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000272",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000272",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000272"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000272' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00000272"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph contains a piece of art on the wall in the background which appears to have a black box digitally placed over a portion of it (likely for redaction or privacy). The text 'EFTA00000272' is a Bates stamp used for document tracking in legal or investigative contexts.",
+  "file_path": "IMAGES\\0001\\EFTA00000272.pdf",
+  "document_id": "EFTA00000272",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:16:45.899645Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

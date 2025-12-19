@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00000265.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room, likely a home gym or exercise area. In the foreground, a white piece of paper with a large black letter 'Z' is taped to a white door frame or wall corner. To the right is a polished wood-grain door. In the background, two gymnastic rings hang from the ceiling by blue straps labeled 'AVAI'. Below the rings is a blue exercise mat. A doorway to another dark room is visible in the background, along with the silhouette of a piece of exercise equipment (possibly a stationary bike) on the left.",
+    "layout": "The image is a wide-angle shot focusing on a marker (the letter 'Z') placed in a room. The composition is split between the foreground wall/door and the background gym equipment.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Z\nSearch Personnel Name\nAgency\nContact Number\nInitials\nSearch Completed\n(Place X in Box)\nEFTA00000265",
+    "text_regions": [
+      {
+        "region": "marker_label",
+        "text": "Z",
+        "type": "printed"
+      },
+      {
+        "region": "form_fields",
+        "text": "Search Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000265",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "AVAI"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000265"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence or search marker labeled 'Z' with a form for search personnel details."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Evidence or search scene documentation",
+    "date": null,
+    "references": [
+      "EFTA00000265"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The text on the white paper is a standard search/evidence form used during investigations to mark specific locations or items. The form fields (Name, Agency, etc.) appear to be blank in this photograph.",
+  "file_path": "IMAGES\\0001\\EFTA00000265.pdf",
+  "document_id": "EFTA00000265",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:57.061663Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

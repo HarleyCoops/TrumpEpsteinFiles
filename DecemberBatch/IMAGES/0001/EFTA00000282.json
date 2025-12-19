@@ -1,0 +1,95 @@
+{
+  "file_name": "EFTA00000282.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing two red fire extinguishers mounted on a wall. The extinguisher on the right is in the foreground, and the one on the left is slightly behind it. Both have yellow inspection tags attached. Behind the extinguishers, a black sign with white lettering is partially visible on the wall. A white rectangular object, possibly a sensor or light fixture, is mounted higher on the wall to the right.",
+    "layout": "Close-up photograph of equipment against a plain wall.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "5TH FLOOR\nCUSTOMER\nIves LLP.\n9E 72nd\n2nd Floor\nWORK BY\nJM\nDATE MO\n[11/16/22]\n2018\nINSTRUCTIONS\n2. START BACK 8 FEET\nAIM AT BASE OF\nFLAME\n3. SQUEEZE LEVER\nEFTA00000282",
+    "text_regions": [
+      {
+        "region": "wall sign",
+        "text": "5TH FLOOR",
+        "type": "printed"
+      },
+      {
+        "region": "left extinguisher tag",
+        "text": "CUSTOMER\nIves LLP.\n9E 72nd\n2nd Floor\nWORK BY\nJM\nDATE MO\n[11/16/22]",
+        "type": "handwritten"
+      },
+      {
+        "region": "right extinguisher tag",
+        "text": "2018",
+        "type": "printed"
+      },
+      {
+        "region": "extinguisher label",
+        "text": "INSTRUCTIONS\n2. START BACK 8 FEET\nAIM AT BASE OF\nFLAME\n3. SQUEEZE LEVER",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000282",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2018",
+      "2022-11-16"
+    ],
+    "people": [
+      "JM"
+    ],
+    "organizations": [
+      "Ives LLP."
+    ],
+    "locations": [
+      "5TH FLOOR",
+      "9E 72nd",
+      "2nd Floor"
+    ],
+    "document_numbers": [
+      "EFTA00000282"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "9E 72nd, 2nd Floor"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Yellow inspection tags",
+      "Bates stamp EFTA00000282"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Fire safety equipment inspection",
+    "date": "2022-11-16",
+    "references": [
+      "EFTA00000282"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The wall sign says '5TH FLOOR' but the handwritten tag mentions '2nd Floor'. The date on the tag is handwritten as 11/16/22. The yellow tag on the right extinguisher prominently displays '2018'.",
+  "file_path": "IMAGES\\0001\\EFTA00000282.pdf",
+  "document_id": "EFTA00000282",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:57.254223Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

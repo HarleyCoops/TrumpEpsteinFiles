@@ -1,0 +1,72 @@
+{
+  "file_name": "EFTA00000286.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a white interior door with a document taped to it. The document features large, bold letters 'AA' and a grid/table at the bottom. To the left of the door, a portion of a room is visible, containing a beige sofa, a floor lamp with a gold-colored base, and dark curtains in the background. The lighting appears to be from a camera flash, creating a high-contrast scene with deep shadows.",
+    "layout": "The image is a landscape-oriented photograph. The right two-thirds of the frame are dominated by the white door and the document attached to it. The left third shows the interior of a room.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "AA\nSearch Completed\n(Place X in Box)\nEFTA00000286",
+    "text_regions": [
+      {
+        "region": "document_center",
+        "text": "AA",
+        "type": "printed"
+      },
+      {
+        "region": "document_table_header",
+        "text": "Search Completed\n(Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right",
+        "text": "EFTA00000286",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000286"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document taped to door with 'AA' designation",
+      "Bates stamp EFTA00000286"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Evidence or search documentation showing a room/door identifier",
+    "date": null,
+    "references": [
+      "EFTA00000286"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.8,
+    "overall": 0.85
+  },
+  "notes": "The document on the door appears to be a search or inventory log, likely used during a law enforcement or investigative search. The table at the bottom of the paper contains several columns that are illegible due to the distance and angle of the photograph.",
+  "file_path": "IMAGES\\0001\\EFTA00000286.pdf",
+  "document_id": "EFTA00000286",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:23.859058Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

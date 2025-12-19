@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000244.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of a small closet. The closet features a top shelf holding three decorative pillows with floral patterns and red fringe, along with a folded white quilt. Below the shelf is a metal hanging rod. On the left side of the rod, there are several wooden hangers, some holding dark-colored robes or garments. On the right side, there is a large collection of white garments (possibly robes or linens) on white plastic hangers. The closet has light green walls, a decorative blue border near the ceiling, and a single circular light fixture on the ceiling.",
+    "layout": "Interior shot of a closet space, framed by the door jambs.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000244",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000244",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000244"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00000244 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Closet interior with linens and garments",
+    "date": null,
+    "references": [
+      "EFTA00000244"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph likely used as evidence or documentation, identified by the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0001\\EFTA00000244.pdf",
+  "document_id": "EFTA00000244",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:13:31.299840Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

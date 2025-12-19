@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00000257.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a home gym or exercise room. The room features beige carpeting, cream-colored walls with crown molding, and a large wall-to-wall mirror that reflects the equipment and the room's layout. Visible equipment includes a Cybex leg press machine, a weight bench with brown padding, an elliptical trainer, a stationary bike, and a rack of dumbbells. There is a white door on the left with a small white sign taped to it, and a wooden door visible in the reflection. A television is mounted on the wall in the background, visible through the mirror.",
+    "layout": "Interior room shot with exercise equipment distributed across the floor; mirrored wall creates a sense of depth.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "Y\nCYBEX\nEFTA00000257",
+    "text_regions": [
+      {
+        "region": "label on door",
+        "text": "Y",
+        "type": "printed"
+      },
+      {
+        "region": "equipment branding",
+        "text": "CYBEX",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000257",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Cybex"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000257"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence/Bates stamp 'EFTA00000257' in bottom right corner",
+      "White label with the letter 'Y' taped to the left door"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of an exercise room/gym",
+    "date": null,
+    "references": [
+      "EFTA00000257"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a clear photograph used as evidence, likely part of a larger investigative file as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000257.pdf",
+  "document_id": "EFTA00000257",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:59.154917Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

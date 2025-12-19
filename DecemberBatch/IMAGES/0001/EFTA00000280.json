@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000280.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a carpeted staircase winding upwards. The stairs are covered in a dark gray, textured carpet with a grid-like pattern. To the left is a metal railing painted a dark blue or gray, topped with a wooden handrail. The walls are painted an off-white or light beige color. A single, glowing dome-shaped light fixture is visible on the ceiling at the top of the stairs. An electrical outlet is visible on the wall near the landing. A watermark or tracking number is printed in the bottom right corner.",
+    "layout": "Vertical interior shot of a staircase.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000280",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000280",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000280"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00000280 (Bates-style tracking number)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a staircase",
+    "date": null,
+    "references": [
+      "EFTA00000280"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a larger set of documentation as indicated by the tracking number EFTA00000280.",
+  "file_path": "IMAGES\\0001\\EFTA00000280.pdf",
+  "document_id": "EFTA00000280",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:17:42.307934Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

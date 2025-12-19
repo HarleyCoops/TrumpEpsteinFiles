@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00000264.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a small storage closet or exercise nook. The space contains various pieces of fitness equipment, including a vertical rack holding three medicine balls (black, red, and grey/black), a purple and black abdominal roller or exercise frame, a wicker basket, and a black metal frame that appears to be part of a larger piece of gym equipment like a power rack or pull-up station. A blue exercise ball is partially visible on the floor to the right. The walls are off-white, and the floor is carpeted.",
+    "layout": "Interior shot of a closet space with equipment arranged against the back wall.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "TKO\nFitness & Exercise\nMULTI-FUNCTIONAL\n12 LBS. 5.5 KGS.\nWATERPROOF\nEFTA00000264",
+    "text_regions": [
+      {
+        "region": "medicine_ball_top",
+        "text": "TKO",
+        "type": "printed"
+      },
+      {
+        "region": "medicine_ball_middle",
+        "text": "Fitness & Exercise\nMULTI-FUNCTIONAL\n12 LBS. 5.5 KGS.\nWATERPROOF",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000264",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "TKO"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000264"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00000264"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of exercise equipment",
+    "date": null,
+    "references": [
+      "EFTA00000264"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text extracted from the medicine balls is partially obscured by the angle and lighting but legible. The document number 'EFTA00000264' is a digital overlay or Bates stamp typical of legal or committee documentation.",
+  "file_path": "IMAGES\\0001\\EFTA00000264.pdf",
+  "document_id": "EFTA00000264",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:15:49.670809Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

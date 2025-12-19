@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000283.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow hallway leading to a white door. On the left, a portion of a carpeted staircase is visible. The hallway has light-colored walls and a dark grey carpeted floor. A single circular light fixture is mounted on the ceiling. The door at the end of the hallway has a red rectangular sign posted on it. A small black document reference number is printed in the bottom right corner of the image.",
+    "layout": "Interior architectural shot, centered on a hallway and door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "24 HOUR\nVIDEO\nSURVEILLANCE\nEFTA00000283",
+    "text_regions": [
+      {
+        "region": "sign_on_door",
+        "text": "24 HOUR\nVIDEO\nSURVEILLANCE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000283",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000283"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Red warning sign on door",
+      "Bates-style document tracking number in footer"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a hallway and door with surveillance warning",
+    "date": null,
+    "references": [
+      "EFTA00000283"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph likely used for documentation of a specific location.",
+  "file_path": "IMAGES\\0001\\EFTA00000283.pdf",
+  "document_id": "EFTA00000283",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:18:03.800995Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

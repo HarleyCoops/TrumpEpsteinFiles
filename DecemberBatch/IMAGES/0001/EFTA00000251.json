@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000251.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A long, narrow hallway inside a residence. The hallway features a bright blue patterned carpet with black border stripes. The walls are light-colored with decorative paneling or molding. On the right side, there are windows covered by white curtains with blue horizontal stripes. Several pieces of wooden furniture, including bookshelves and a side table with a lamp, are visible along the right wall. A large framed mirror hangs on the left wall. The perspective leads through a doorway into further rooms, where a bright flash or light source is reflected in a mirror or glass surface. Ceiling-mounted globe lights illuminate the space.",
+    "layout": "Interior photograph, portrait orientation, showing a deep perspective of a hallway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000251",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000251",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000251"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000251' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence hallway",
+    "date": null,
+    "references": [
+      "EFTA00000251"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates stamp EFTA00000251. The flash from the camera is visible as a bright reflection in the distance.",
+  "file_path": "IMAGES\\0001\\EFTA00000251.pdf",
+  "document_id": "EFTA00000251",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:17.644245Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

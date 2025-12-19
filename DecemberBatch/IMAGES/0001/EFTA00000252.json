@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000252.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a mechanical or utility room, likely a mechanical closet. The image shows a large, white, ceiling-mounted HVAC unit with a blue filter visible at the bottom. To the left, there are several insulated pipes running vertically, a blue electrical or control box, and various valves and gauges. A framed document or chart is hanging on the wall below the HVAC unit. Copper piping runs horizontally across the lower right wall.",
+    "layout": "Industrial/utility setting with various mechanical components and piping.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "FILTER\n12 x 24 x 1\nEFTA00000252",
+    "text_regions": [
+      {
+        "region": "HVAC unit label",
+        "text": "FILTER\n12 x 24 x 1",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000252",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000252"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00000252",
+      "Handwritten maintenance note on HVAC unit: FILTER 12 x 24 x 1"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Mechanical/Utility Room Inspection",
+    "date": null,
+    "references": [
+      "EFTA00000252"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text on the framed document on the wall is illegible due to distance and glare. The handwritten text on the HVAC unit specifies the filter size.",
+  "file_path": "IMAGES\\0001\\EFTA00000252.pdf",
+  "document_id": "EFTA00000252",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:24.082162Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

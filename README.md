@@ -14,7 +14,7 @@ P25-12-19 15:02:44
 
 **Latest Processing Update:**
 
-- 190 new image analysis files processed
+- 239 new image analysis files processed
 - 0 new text extraction files processed
 
 (API analysis temporarily unavailable - processing continues)

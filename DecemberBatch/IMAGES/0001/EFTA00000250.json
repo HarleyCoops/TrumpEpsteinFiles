@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00000250.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a long, narrow hallway inside a residence or hotel. The hallway features blue patterned carpeting with dark stripes running along the edges. The walls are white with decorative paneling (molding) outlined in a light blue or grey color. A large gold-framed mirror or painting hangs on the left wall. There are two visible ceiling lights: one in the foreground and one further down the hall. A doorway on the left shows a white door with a brass handle. The perspective is looking down the length of the hallway into a darker area in the distance.",
+    "layout": "Interior architectural photograph with a deep perspective view.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I\nEFTA00000250",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "I",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000250",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000250"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000250' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior hallway photograph",
+    "date": null,
+    "references": [
+      "EFTA00000250"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The image appears to be a piece of evidence or documentation from an investigation, indicated by the Bates stamp at the bottom. The 'I' at the top left is likely a scanning artifact or a partial character.",
+  "file_path": "IMAGES\\0001\\EFTA00000250.pdf",
+  "document_id": "EFTA00000250",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:14:11.000635Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

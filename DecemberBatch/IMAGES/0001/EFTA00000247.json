@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000247.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A wide-angle photograph of a bedroom. The room features deep blue textured walls and a dark plaid carpet. A large bed with a white duvet and floral-patterned headboard is the central focus. To the left of the bed is a dark leather wingback chair, a floor lamp with a brown shade, and a silver tower fan. On either side of the bed are wooden nightstands with lamps and various items including a telephone and what appear to be books or small containers. The ceiling is white with crown molding.",
+    "layout": "Interior room shot, landscape orientation.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000247",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000247",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000247"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000247' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bedroom",
+    "date": null,
+    "references": [
+      "EFTA00000247"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000247.pdf",
+  "document_id": "EFTA00000247",
+  "processing_metadata": {
+    "processed_at": "2025-12-19T22:13:51.535497Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
