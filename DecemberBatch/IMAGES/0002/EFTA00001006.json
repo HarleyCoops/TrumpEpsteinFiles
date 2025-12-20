@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001006.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An indoor photograph of a seating area. The scene features a white circular table with a central pole extending upwards into a large black and white umbrella. Four wicker armchairs with bright orange/red cushions are arranged around the table. The floor is covered by a colorful, abstract-patterned rug with shades of pink, purple, yellow, and red. In the background, there is a framed painting on a wall with patterned wallpaper. A white telephone is visible on a small side table in the background to the left.",
+    "layout": "The photograph is a wide-angle shot of an interior room, centered on a table and chair set.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "41/4\n40 .1/4\n...2/430 v..\n44%\nEFTA00001006",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "41/4\n40 .1/4\n...2/430 v..\n44%",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001006",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001006"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001006"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a seating area",
+    "date": null,
+    "references": [
+      "EFTA00001006"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text '41/4 40 .1/4 ...2/430 v.. 44%' appears to be technical metadata or printer's marks often found at the edge of scanned documents or photographs. The primary identifier is the Bates stamp EFTA00001006.",
+  "file_path": "IMAGES\\0002\\EFTA00001006.pdf",
+  "document_id": "EFTA00001006",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:28.489212Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

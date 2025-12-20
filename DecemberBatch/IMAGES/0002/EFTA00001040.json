@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001040.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, interior photograph of a long, narrow, and opulently decorated room, likely a library or study. The room features dark wood paneling, floor-to-ceiling bookshelves in the background, and a long Persian-style runner rug stretching down a central walkway. To the left, there is a seating area with a white sofa and a pink armchair. A large table lamp with a pleated shade sits on a side table. To the right, a wooden sideboard holds framed photographs and a large, gold, egg-shaped sculpture. The walls are adorned with tapestries and several candle-style wall sconces. A large ornate chandelier hangs from the dark blue ceiling.",
+    "layout": "Interior room view with a central perspective following a long rug.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001040",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001040",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001040"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001040' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001040"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates stamp EFTA00001040. The room appears to be a private library or study in a luxury residence.",
+  "file_path": "IMAGES\\0002\\EFTA00001040.pdf",
+  "document_id": "EFTA00001040",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:09:31.660999Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

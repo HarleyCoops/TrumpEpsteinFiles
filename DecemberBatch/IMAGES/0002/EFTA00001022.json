@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001022.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room corner. The room features ornate wallpaper with a yellow/gold marbleized texture and vertical decorative bands with scrollwork patterns. A large framed photograph of a tropical island seascape with blue water and green islands is mounted on the wall. Below the picture is a sofa or settee with a highly detailed, multi-colored paisley or oriental rug-style upholstery (red, blue, cream, and black). To the left, a doorway is visible, and a small white sign with the letter 'M' is posted on the wall. A white landline telephone is partially visible on a small table or ledge behind the sofa.",
+    "layout": "Interior shot showing a corner with a sofa, wall art, and a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "M\nEFTA00001022",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "M",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001022",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001022"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      {
+        "description": "Bates stamp or tracking number at bottom right: EFTA00001022"
+      }
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001022"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The OCR provided in the prompt contained noise ('11‘ rerr are're,,, rtr') which does not correspond to visible text in the image, except for the tracking number. The letter 'M' on the wall sign is clearly visible but its specific meaning is unknown.",
+  "file_path": "IMAGES\\0002\\EFTA00001022.pdf",
+  "document_id": "EFTA00001022",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:22.658174Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

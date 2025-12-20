@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001036.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle interior photograph of a lavishly decorated room, likely an office or study. In the foreground, a large wooden desk holds a LIFE magazine, a blue picture frame, and a gold-colored ornate lamp with a white shade. Two velvet-upholstered chairs face the desk. In the background, there is a large ornate crystal chandelier hanging from a blue ceiling, wood-paneled walls with tapestries, and another table with books and decorative objects. The floor is covered with a dark, patterned oriental rug.",
+    "layout": "Interior scene with desk in foreground, seating in middle ground, and ornate lighting/decor in background.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "LIFE\nEFTA00001036",
+    "text_regions": [
+      {
+        "region": "foreground_object",
+        "text": "LIFE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001036",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "LIFE Magazine"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001036"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic footer stamp: EFTA00001036"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a room, possibly an office or study",
+    "date": null,
+    "references": [
+      "EFTA00001036"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'LIFE' is visible on a magazine cover on the desk. The alphanumeric string at the bottom right is a document tracking ID used in legal or investigative discovery.",
+  "file_path": "IMAGES\\0002\\EFTA00001036.pdf",
+  "document_id": "EFTA00001036",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:09:02.239167Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

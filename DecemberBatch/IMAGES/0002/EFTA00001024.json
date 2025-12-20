@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001024.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of an interior space, likely a bathroom or dressing area, looking through an open doorway into a hallway. In the foreground, there is a marble-topped vanity with a white sink, a toothbrush holder, and a small lamp. To the left, a chair with ornate, multi-colored patterned upholstery is visible. The walls feature yellow-toned marble or faux-marble panels with decorative scrollwork. The floor is dark wood in a parquet or herringbone pattern. The doorway leads to a dark hallway where another door and a chair with checkered upholstery can be seen in the distance.",
+    "layout": "Interior architectural photograph with a central perspective through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001024",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001024",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001024"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001024' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001024"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included as evidence in a document set, identified by the Bates stamp EFTA00001024.",
+  "file_path": "IMAGES\\0002\\EFTA00001024.pdf",
+  "document_id": "EFTA00001024",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:36.559342Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

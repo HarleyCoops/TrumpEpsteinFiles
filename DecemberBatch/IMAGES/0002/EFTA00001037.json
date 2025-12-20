@@ -1,0 +1,69 @@
+{
+  "file_name": "EFTA00001037.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a large, ornate wooden desk in a study or office. The desk is cluttered with various items including a silver Apple iMac, a black speaker, a blue spray bottle with a yellow cloth, a LIFE magazine, a blue picture frame, and several lamps. Behind the desk is a large tapestry depicting a coat of arms and a landscape. To the left is an ornate armchair with a leopard-print pillow and a tall wooden bookshelf filled with books and small framed photos. The room has wood-paneled walls and a patterned rug.",
+    "layout": "The photograph is taken from a slightly elevated perspective looking down at the desk, which dominates the foreground and midground. The background consists of a wall with a large tapestry and built-in shelving.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "LIFE\nEFTA00001037",
+    "text_regions": [
+      {
+        "region": "magazine cover",
+        "text": "LIFE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001037",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple",
+      "LIFE Magazine"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001037"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001037"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of an office or study",
+    "date": null,
+    "references": [
+      "EFTA00001037"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph of an interior space, likely part of an investigation or evidence collection given the Bates stamp. The magazine on the desk is 'LIFE', but the specific issue date is not clearly legible. The computer is an Apple iMac.",
+  "file_path": "IMAGES\\0002\\EFTA00001037.pdf",
+  "document_id": "EFTA00001037",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:09:09.864113Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

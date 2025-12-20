@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001000.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A narrow, galley-style kitchen or pantry area. The room features off-white or cream-colored cabinetry that extends to the ceiling. A white top-freezer refrigerator is centered in the background. To the left, there is a small metal rolling cart. On the right, a stainless steel microwave sits on a light-colored countertop next to a sink. A wine rack is built into the cabinetry above the refrigerator. The floor is covered in a dark blue carpet. A circular flush-mount light fixture is on the ceiling.",
+    "layout": "Vertical photograph showing a narrow interior space from a standing eye-level perspective.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "4 \nEFTA00001000",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "4",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001000",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001000"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001000",
+      "Page number: 4"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a kitchen/pantry area",
+    "date": null,
+    "references": [
+      "EFTA00001000"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from a legal or investigative production, indicated by the Bates stamp 'EFTA00001000'.",
+  "file_path": "IMAGES\\0001\\EFTA00001000.pdf",
+  "document_id": "EFTA00001000",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:04:46.099690Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

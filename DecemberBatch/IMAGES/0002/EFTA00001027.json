@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001027.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a hallway or dressing area leading into a bathroom. The room features ornate wood paneling, patterned wallpaper, and parquet wood flooring. On the left, there is a long bench with floral upholstery and a large framed object leaning against the wall. A white piece of paper with the letter 'N' is taped to the wall. On the right, there is a marble-topped vanity with a sink, various toiletries, and a decorative bronze-colored statue. Two wall-mounted lamps with white shades flank a mirror. A doorway in the center leads to another room where a toilet and a framed piece of art are visible.",
+    "layout": "Interior architectural photograph with a central perspective looking down a hallway into a bathroom.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "N\nEFTA00001027",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "N",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001027",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001027"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "White paper label with the letter 'N' taped to the wall",
+      "Bates stamp/identifier 'EFTA00001027' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence, likely related to an investigation",
+    "date": null,
+    "references": [
+      "EFTA00001027"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from a legal or governmental investigation, indicated by the Bates stamp and the 'N' marker on the wall.",
+  "file_path": "IMAGES\\0002\\EFTA00001027.pdf",
+  "document_id": "EFTA00001027",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:58.750499Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

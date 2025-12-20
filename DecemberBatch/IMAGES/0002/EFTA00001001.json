@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001001.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a room. The room features a colorful, patterned rug with abstract shapes in pink, yellow, grey, and red. Two wicker armchairs with bright red cushions are visible, one in the foreground and one partially visible in the background. A white round table is also present. In the background, there is a white door, beige patterned wallpaper with a decorative border, and beige curtains. A large white umbrella or lighting diffuser is partially visible in the upper right, suggesting a photo shoot setup. A small white tag with the letter 'K' is hanging from a light fixture or the umbrella frame.",
+    "layout": "Interior room shot framed by a doorway on the left and right edges.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "K\nEFTA00001001",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "K",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001001",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001001"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001001",
+      "Label: K"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001001"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The photograph appears to be part of a legal or investigative production, indicated by the Bates stamp 'EFTA00001001'. The presence of a photography umbrella suggests the room was being professionally photographed or used as a set.",
+  "file_path": "IMAGES\\0002\\EFTA00001001.pdf",
+  "document_id": "EFTA00001001",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:04:53.391801Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001002.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An indoor photograph of a seating area featuring a large white circular table with a central pole supporting a large white umbrella or canopy. Around the table are four wicker armchairs with red cushions. The floor is covered by a colorful patterned rug with pink, yellow, and purple tones. In the background, there are neutral-toned curtains, a white decorative column, and a framed piece of art on the wall. The lighting appears to be artificial, creating shadows under the canopy.",
+    "layout": "A single photograph occupying the entire frame with a small alphanumeric identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001002",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001002",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001002"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates-style document identifier: EFTA00001002"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room setting with table and umbrella",
+    "date": null,
+    "references": [
+      "EFTA00001002"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph of an interior space, likely part of a larger set of evidence or documentation given the 'EFTA' prefix on the document number.",
+  "file_path": "IMAGES\\0002\\EFTA00001002.pdf",
+  "document_id": "EFTA00001002",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:00.204093Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

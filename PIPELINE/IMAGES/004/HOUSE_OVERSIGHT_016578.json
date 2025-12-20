@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_016578.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page typed document containing meeting minutes from a Code Enforcement Board.",
+    "layout": "Standard portrait document layout with a header, numbered sections (H and I), and a footer with a page number and document reference code.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Code Enforcement Board Meeting Minutes 07/17/08\n\nMr. Gerry said zoning is tied into business tax receipts because zoning requirements do not allow certain businesses in some districts. There is also the question of whether the space is legitimate because people will subdivide suites and make two spaces where there should only be one. Mr. Gerry said it looked like a legal space from the documentation Mr. Clark provided but the Zoning Administrator needed to approve it.\n\nMOTION BY MR. FRIED TO POSTPONE THE CASE UNTIL THE AUGUST 21, 2008 HEARING DATE\nSECONDED BY MS. VAN BUREN\nMOTION PASSED UNANIMOUSLY\n\nH. Case # 08-2517, 2270 E. Ibis Isle Road, Mark Remson Trust\nREPEAT Violation of Chapter 42, Section 42-86 of the Town of Palm Beach Code of Ordinances, Environment, properties to be maintained in a good condition.\n\nCode Enforcement Officer Weymer presented the facts of the case and said the violation was discovered from routine patrol in the area but shortly after the notice of repeat violation was sent out, a citizen complaint was received as well. Mr. Weymer said there had been at least seven previous letters to this property owner regarding lack of maintenance on the property. A repeat notice of code violation was mailed out on June 24, 2008 with a mandatory hearing date. The lot was cut on or around July 2, 2008. This particular violation is a Class II violation under the fine schedule which calls for a fine of $400.00, however, by law, the Board has the ability to impose a fine of up to $500.00 because it is a repeat violation. Mr. Weymer said he believes it is important to look at the track record of this property in considering the fine. The Town recommends a finding of non-compliance, administrative costs in the amount of $150.00 and a fine of $500.00, which is the maximum fine for a repeat violation.\n\nMr. Hoffman said it seemed that every time the property owner gets notified he comes into compliance but he has to be notified. Mr. Weymer says there are times when he comes into compliance but on at least two other occasions, he has been before the Board because he has not complied by the time set. Mr. Ochstein asked if he has been fined in the past and Mr. Weymer said there are two outstanding fines for which liens have been placed on the property.\n\nMOTION BY MS. GREENBERG TO FIND THE VIOLATOR IN NON-COMPLIANCE, ASSESS ADMINISTRATIVE COSTS IN THE AMOUNT OF $150.00 AND A FINE OF $500.00\nSECONDED BY MS. DUEMLER\nMOTION PASSED UNANIMOUSLY\n\nI. Case # 08-2518, 230 Esplanade Way, Kenneth J. Horton\n5\nHOUSE_OVERSIGHT_016578",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Code Enforcement Board Meeting Minutes 07/17/08",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Mr. Gerry said zoning is tied into business tax receipts because zoning requirements do not allow certain businesses in some districts. There is also the question of whether the space is legitimate because people will subdivide suites and make two spaces where there should only be one. Mr. Gerry said it looked like a legal space from the documentation Mr. Clark provided but the Zoning Administrator needed to approve it.\n\nMOTION BY MR. FRIED TO POSTPONE THE CASE UNTIL THE AUGUST 21, 2008 HEARING DATE\nSECONDED BY MS. VAN BUREN\nMOTION PASSED UNANIMOUSLY\n\nH. Case # 08-2517, 2270 E. Ibis Isle Road, Mark Remson Trust\nREPEAT Violation of Chapter 42, Section 42-86 of the Town of Palm Beach Code of Ordinances, Environment, properties to be maintained in a good condition.\n\nCode Enforcement Officer Weymer presented the facts of the case and said the violation was discovered from routine patrol in the area but shortly after the notice of repeat violation was sent out, a citizen complaint was received as well. Mr. Weymer said there had been at least seven previous letters to this property owner regarding lack of maintenance on the property. A repeat notice of code violation was mailed out on June 24, 2008 with a mandatory hearing date. The lot was cut on or around July 2, 2008. This particular violation is a Class II violation under the fine schedule which calls for a fine of $400.00, however, by law, the Board has the ability to impose a fine of up to $500.00 because it is a repeat violation. Mr. Weymer said he believes it is important to look at the track record of this property in considering the fine. The Town recommends a finding of non-compliance, administrative costs in the amount of $150.00 and a fine of $500.00, which is the maximum fine for a repeat violation.\n\nMr. Hoffman said it seemed that every time the property owner gets notified he comes into compliance but he has to be notified. Mr. Weymer says there are times when he comes into compliance but on at least two other occasions, he has been before the Board because he has not complied by the time set. Mr. Ochstein asked if he has been fined in the past and Mr. Weymer said there are two outstanding fines for which liens have been placed on the property.\n\nMOTION BY MS. GREENBERG TO FIND THE VIOLATOR IN NON-COMPLIANCE, ASSESS ADMINISTRATIVE COSTS IN THE AMOUNT OF $150.00 AND A FINE OF $500.00\nSECONDED BY MS. DUEMLER\nMOTION PASSED UNANIMOUSLY\n\nI. Case # 08-2518, 230 Esplanade Way, Kenneth J. Horton",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "5\nHOUSE_OVERSIGHT_016578",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-07-17",
+      "2008-08-21",
+      "2008-06-24",
+      "2008-07-02"
+    ],
+    "people": [
+      "Mr. Gerry",
+      "Mr. Clark",
+      "Mr. Fried",
+      "Ms. Van Buren",
+      "Weymer",
+      "Mr. Hoffman",
+      "Mr. Ochstein",
+      "Ms. Greenberg",
+      "Ms. Duemler",
+      "Kenneth J. Horton"
+    ],
+    "organizations": [
+      "Code Enforcement Board",
+      "Mark Remson Trust",
+      "Town of Palm Beach"
+    ],
+    "locations": [
+      "2270 E. Ibis Isle Road",
+      "230 Esplanade Way"
+    ],
+    "document_numbers": [
+      "08-2517",
+      "08-2518",
+      "Chapter 42, Section 42-86",
+      "HOUSE_OVERSIGHT_016578"
+    ],
+    "financial_amounts": [
+      "$400.00",
+      "$500.00",
+      "$150.00"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "2270 E. Ibis Isle Road",
+        "230 Esplanade Way"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_016578 (Bates stamp/reference number)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "meeting minutes",
+    "sender": null,
+    "recipient": null,
+    "subject": "Code Enforcement Board Meeting Minutes",
+    "date": "2008-07-17",
+    "references": [
+      "Case # 08-2517",
+      "Case # 08-2518"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is page 5 of a larger set of minutes. It details proceedings regarding code violations and zoning issues.",
+  "file_path": "IMAGES\\004\\HOUSE_OVERSIGHT_016578.jpg",
+  "document_id": "HOUSE_OVERSIGHT_016578",
+  "house_oversight_id": "016578",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:40.953096Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

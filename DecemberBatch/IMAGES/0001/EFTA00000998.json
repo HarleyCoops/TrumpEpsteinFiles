@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00000998.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an interior room, likely a kitchen or pantry area, with a view through a doorway into an adjacent room. In the foreground, there is a built-in cabinet unit with a light-colored countertop. On the counter sit three stacked boxes: a black box with a gold handle and lock on the bottom, a dark wood box in the middle, and a clear acrylic display case containing a smaller wooden box on top. A white piece of paper with a large letter 'J' is taped to the backsplash. To the left, an open doorway reveals a room with a patterned rug, a wicker chair with a red cushion, and what appears to be a canopy or draped fabric. A gold-toned metal cart is partially visible in the bottom right corner.",
+    "layout": "Interior shot with a doorway on the left and cabinetry on the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "J\nEFTA00000998",
+    "text_regions": [
+      {
+        "region": "label_on_wall",
+        "text": "J",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00000998",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000998"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence tag/label 'J' taped to the wall",
+      "Bates stamp/document identifier 'EFTA00000998' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence, likely related to an investigation",
+    "date": null,
+    "references": [
+      "EFTA00000998"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a forensic or investigative photograph, indicated by the 'J' marker and the Bates-style numbering at the bottom.",
+  "file_path": "IMAGES\\0001\\EFTA00000998.pdf",
+  "document_id": "EFTA00000998",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:04:33.254610Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

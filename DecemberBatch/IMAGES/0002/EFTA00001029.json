@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001029.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a lavishly decorated office or study. The room features dark wood-paneled walls with intricate carvings, a blue ceiling, and a large, ornate patterned rug in shades of blue, cream, and orange. A large wooden desk sits in the center-right, equipped with a computer monitor, two lamps with pleated shades, and several framed photographs. Two upholstered armchairs with a patterned fabric face the desk. To the left, there is a tall, ornate black and gold cabinet (possibly a cabinet on stand or secretary). A large circular mirror hangs on the wood-paneled wall above the cabinet. A gold chandelier is partially visible in the upper left corner. White curtains cover a window behind the desk.",
+    "layout": "Interior room view, portrait orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001029",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001029",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001029"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001029' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of an office/study",
+    "date": null,
+    "references": [
+      "EFTA00001029"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document production, identified by the Bates stamp. The room appears to be a private office or study with high-end furnishings and decor.",
+  "file_path": "IMAGES\\0002\\EFTA00001029.pdf",
+  "document_id": "EFTA00001029",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:08:12.976868Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

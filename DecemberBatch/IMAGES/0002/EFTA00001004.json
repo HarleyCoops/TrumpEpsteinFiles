@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001004.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room leading into a hallway. In the foreground, there are two wicker chairs with bright orange/red cushions. A patterned rug with purple, orange, and white wavy designs is on the floor. To the left, a black and white photography umbrella or light modifier is partially visible. The walls are covered in a patterned wallpaper with decorative borders. An open doorway leads to a hallway with a blue carpet runner, which further leads into what appears to be a kitchen area with white cabinetry.",
+    "layout": "Interior room shot with a deep perspective through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "74-#..t.L.LL.V.-ti.X.I.:24..t.:-.14.?„..:-.4.:.\"-Ltz.r.:-•..:. *\ntce0+0+0ifaief Of 04:-.r.\n11.••••:. \n:01i \n1:.....1: \nsi.\nsi\norg \nil\n•:\nI\n; \n:I: \n1‘... . \n..i ... I. \n•:•••%•• \n'0.•:fr \nis4 \nEFTA00001004",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001004",
+        "type": "printed"
+      },
+      {
+        "region": "ocr_artifacts",
+        "text": "74-#..t.L.LL.V.-ti.X.I.:24..t.:-.14.?„..:-.4.:.\"-Ltz.r.:-•..:. *\ntce0+0+0ifaief Of 04:-.r.\n11.••••:. \n:01i \n1:.....1: \nsi.\nsi\norg \nil\n•:\nI\n; \n:I: \n1‘... . \n..i ... I. \n•:•••%•• \n'0.•:fr \nis4",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001004"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001004"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001004"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The OCR text provided in the prompt contains many artifacts likely caused by the wallpaper patterns and decorative borders being misinterpreted as text. The only clear, legible text is the Bates stamp 'EFTA00001004' at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001004.pdf",
+  "document_id": "EFTA00001004",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:15.292868Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

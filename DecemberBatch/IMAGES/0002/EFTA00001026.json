@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001026.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a grand hallway or foyer leading into another room. The space features dark wood parquet flooring with a geometric diamond pattern. The walls are white with gold trim/molding. To the right, there are mirrored panels reflecting the space. A large, ornate wooden door with a central diamond-shaped panel and gold accents stands partially open, revealing a room beyond with a large crystal chandelier and a desk. A hanging lantern-style gold chandelier is visible in the foreground hallway. A chair with a blue and white checkered pattern is positioned against the mirrored wall.",
+    "layout": "Portrait orientation showing a deep perspective view through a doorway into an adjacent room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I ir \nEFTA00001026",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001026",
+        "type": "typed"
+      },
+      {
+        "region": "top_left_margin",
+        "text": "I ir",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001026"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001026' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001026"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'I ir' appears to be a fragment or artifact from the scanning/OCR process at the top left. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001026.pdf",
+  "document_id": "EFTA00001026",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:51.366949Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

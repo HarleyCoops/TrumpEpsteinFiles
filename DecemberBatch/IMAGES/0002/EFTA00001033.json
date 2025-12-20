@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001033.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a large, ornate office or study. In the foreground is a large wooden desk cluttered with various items including picture frames (some with redacted faces), a tissue box, glasses, a small clock, and papers. Behind the desk are two high-backed chairs with patterned upholstery. The room features dark wood-paneled walls, a large crystal chandelier hanging from a blue ceiling, and tall windows covered with white curtains. A tiger-skin rug is visible on the floor in the background. The lighting is warm, coming from the chandelier and various lamps around the room.",
+    "layout": "The image is a single photograph with a document reference number in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001033",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001033",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001033"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001033"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of an office or study",
+    "date": null,
+    "references": [
+      "EFTA00001033"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph contains several redacted areas, specifically over faces in picture frames on the desk. The text on the papers on the desk is too small and angled to be legible.",
+  "file_path": "IMAGES\\0002\\EFTA00001033.pdf",
+  "document_id": "EFTA00001033",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:08:41.722361Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

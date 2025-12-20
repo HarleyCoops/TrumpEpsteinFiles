@@ -1,0 +1,63 @@
+{
+  "file_name": "EFTA00001018.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle interior photograph of a formal library or study. The room features orange-red walls with white ornate crown molding and a large white built-in bookcase filled with numerous books. In front of the bookcase is a teal velvet tufted sofa with a green patterned throw pillow. To the left is a white armchair with black trim and a gold-based lamp with a pleated shade. In the foreground, there is a white rectangular ottoman with gold stud detailing and a dark wood tray on top. The floor is covered by a large rug with yellow, teal, and black abstract patterns. Two telescopes are mounted on top of the bookcase.",
+    "layout": "Interior room setting with furniture in the foreground and midground, and a large bookcase against the back wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001018",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001018",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001018"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001018' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001018"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included as evidence or documentation, identified by a Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001018.pdf",
+  "document_id": "EFTA00001018",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:06:51.348407Z",
+    "model": "gemini-3-flash-preview"
+  }
+}el": "gemini-3-flash-preview"
+  }
+}

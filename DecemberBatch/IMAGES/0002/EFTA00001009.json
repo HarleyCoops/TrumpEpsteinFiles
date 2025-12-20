@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001009.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a lavishly decorated interior living room or salon. The room features orange walls, an ornate white coffered ceiling, and large windows with cream-colored curtains featuring a Greek key border. Furniture includes a teal velvet sofa, black and white armchairs, and several ornate side tables. A large abstract painting with a blue background and a central dark figure hangs on the wall. The floor is covered by a large, colorful geometric rug with yellow, teal, and purple patterns. Several lamps with pleated shades are visible, providing warm lighting.",
+    "layout": "Interior room view showing furniture arrangement, wall decor, and architectural details.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001009",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001009",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001009"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001009' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001009"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp at the bottom right. No textual content exists within the photograph itself other than the identifier.",
+  "file_path": "IMAGES\\0002\\EFTA00001009.pdf",
+  "document_id": "EFTA00001009",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:49.400123Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

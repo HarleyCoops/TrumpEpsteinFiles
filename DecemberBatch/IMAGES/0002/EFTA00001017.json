@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001017.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a luxuriously decorated room, likely a library or study. The room features burnt-orange walls, an ornate white coffered ceiling with crown molding, and a large white built-in bookcase filled with books. In the foreground, there is a light blue velvet sofa and a white armchair with dark wood trim. A large yellow and blue patterned rug covers the floor. A desk or piano is visible in the background with a white bust sculpture on top. Two lamps with large pleated shades are lit, providing warm illumination. A doorway leads to another room with mirrored panels.",
+    "layout": "Interior room shot with furniture in the foreground and built-in shelving in the background.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001017",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001017",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001017"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001017' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office",
+    "date": null,
+    "references": [
+      "EFTA00001017"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph included as evidence or documentation, identified by a Bates stamp. No other text is present in the image.",
+  "file_path": "IMAGES\\0002\\EFTA00001017.pdf",
+  "document_id": "EFTA00001017",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:06:44.803142Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

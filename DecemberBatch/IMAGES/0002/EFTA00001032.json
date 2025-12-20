@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001032.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, interior shot of a long, narrow room or hallway with ornate, classical decor. The walls are paneled in dark wood and adorned with large blue and white tapestries depicting landscapes. A long, patterned oriental runner rug stretches down the center of the room. To the left, there is a wooden sideboard with framed photographs and a large golden egg-shaped sculpture. To the right, a table holds a lamp with a large white shade and a framed photo with a blacked-out face. The ceiling is painted a solid blue. Lighting is provided by wall-mounted sconces and a chandelier visible in the upper right.",
+    "layout": "Perspective view looking down a long hallway/room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001032",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001032",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001032"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001032' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001032"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The photograph contains several framed personal photos, one of which has a black redaction box over a face. The room appears to be a private residence or office with high-end traditional furnishings.",
+  "file_path": "IMAGES\\0002\\EFTA00001032.pdf",
+  "document_id": "EFTA00001032",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:08:34.790654Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "file_name": "EFTA00001025.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a printed form taped to a textured, yellowish-brown marble or stone wall next to a wooden door frame. The form features a large, bold letter 'M' in the center, overlaid on a faint FBI seal.",
+    "layout": "Portrait orientation. The document is centered on the wall. The document contains a header table, a large central graphic, and a footer table.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Building No. Description of Room\nM\nSearch Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)\nEFTA00001025",
+    "text_regions": [
+      {
+        "region": "header_table",
+        "text": "Building No. Description of Room",
+        "type": "printed"
+      },
+      {
+        "region": "central_graphic",
+        "text": "M",
+        "type": "printed"
+      },
+      {
+        "region": "footer_table",
+        "text": "Search Personnel Name Agency Contact Number Initials Search Completed (Place X in Box)",
+        "type": "printed"
+      },
+      {
+        "region": "page_footer",
+        "text": "EFTA00001025",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "FBI"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001025"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Large bold letter 'M'",
+      "Faint FBI seal behind the letter 'M'"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "FBI",
+    "recipient": null,
+    "subject": "Room Search Log",
+    "date": null,
+    "references": [
+      "EFTA00001025"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.93
+  },
+  "notes": "The document appears to be a blank search log or room identifier used during a law enforcement operation. The FBI seal is visible but faint behind the large 'M'. The form is unused.",
+  "file_path": "IMAGES\\0002\\EFTA00001025.pdf",
+  "document_id": "EFTA00001025",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:44.430673Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001035.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a highly ornate, opulent interior room. The room features dark wood paneling, a blue ceiling, and a large crystal chandelier. In the center of the room, a large tiger (likely a taxidermy mount) is lying on a patterned Persian-style rug. The furniture includes a white sofa, a gold-colored coffee table, a blue velvet stool with gold legs, and a very large, intricate marquetry cabinet or armoire in the foreground. There are various lamps and decorative objects throughout the space.",
+    "layout": "Interior room shot with a large piece of furniture in the immediate right foreground, leading the eye into the living area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "f*;, 11i44\nI Mill! I !HIM I III' \nEFTA00001035",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001035",
+        "type": "printed"
+      },
+      {
+        "region": "top_margin",
+        "text": "f*;, 11i44\nI Mill! I !HIM I III'",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001035"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001035"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001035"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text at the top appears to be a digital artifact or corrupted OCR from a header/footer not fully visible or properly rendered in the original scan. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001035.pdf",
+  "document_id": "EFTA00001035",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:08:55.705731Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

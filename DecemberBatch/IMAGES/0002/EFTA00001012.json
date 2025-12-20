@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001012.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle interior photograph of a room featuring a black Steinway & Sons grand piano in the foreground. The room has orange-colored walls, white ornate crown molding, and built-in white bookshelves filled with books. A large, dark wood double door is visible in the background, partially open. There are several decorative objects including a white bust on a pedestal, a smaller white bust on a book, and a brass telescope on top of a bookshelf. A modern brass light fixture with two circular globes hangs from the ceiling. The floor is hardwood with a patterned rug partially visible under the piano.",
+    "layout": "The piano dominates the lower half of the frame. Bookshelves flank the central doorway. The perspective is slightly from above, looking into the room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "STEINWAY & SONS\nEFTA00001012",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "STEINWAY & SONS",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001012",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Steinway & Sons"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001012"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001012' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room with grand piano",
+    "date": null,
+    "references": [
+      "EFTA00001012"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The text 'STEINWAY & SONS' is the manufacturer's logo on the piano. The alphanumeric string at the bottom is a Bates stamp used for document identification in legal or investigative proceedings.",
+  "file_path": "IMAGES\\0002\\EFTA00001012.pdf",
+  "document_id": "EFTA00001012",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:06:09.514430Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

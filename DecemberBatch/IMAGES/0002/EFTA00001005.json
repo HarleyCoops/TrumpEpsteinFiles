@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001005.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor seating area featuring a large white patio umbrella positioned over a round white table. Two red upholstered wicker chairs are visible on either side of the table. The background shows an ornate room with patterned wallpaper, decorative borders, and a framed painting on the left wall. The ceiling is vaulted. A small wooden light fixture or decorative element hangs from the center of the umbrella's underside.",
+    "layout": "The photograph is taken from a slightly low angle, centered on the umbrella and table set.",
+    "quality": "medium",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001005",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001005",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001005"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001005' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph with umbrella and seating",
+    "date": null,
+    "references": [
+      "EFTA00001005"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from a collection, identified by the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001005.pdf",
+  "document_id": "EFTA00001005",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:05:20.762358Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

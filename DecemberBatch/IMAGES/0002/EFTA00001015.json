@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001015.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle, interior photograph of a lavishly decorated living room or library. The room features orange walls, white ornate crown molding, and a white coffered ceiling. A large white fireplace with a marble mantel is visible on the left, adorned with various tribal masks and artifacts on the wall above it. To the right of the fireplace is a tall, white built-in bookcase filled with books. The furniture includes a light blue velvet sofa, a patterned rug with teal, yellow, and purple elements, and several ornate side tables. Lighting is provided by multiple lamps with pleated shades and golden bases, as well as tall golden candelabras. A unique clear acrylic console table filled with blue and green agate slices stands on the right. The floor is dark wood in a parquet pattern.",
+    "layout": "Interior room view with furniture and decor arranged in a residential setting.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "M \nI \nI \n/7 1\n\"'V \na il \n?MINN T=11111011 \nEnt, \nEFTA00001015",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001015",
+        "type": "printed"
+      },
+      {
+        "region": "ocr_artifacts",
+        "text": "M \nI \nI \n/7 1\n\"'V \na il \n?MINN T=11111011 \nEnt,",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001015"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001015"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001015"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The OCR text provided in the prompt contains several artifacts that do not appear clearly as text in the image, likely due to the OCR engine misinterpreting visual patterns in the ceiling or decor. The only clear, legible text is the Bates stamp 'EFTA00001015' at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001015.pdf",
+  "document_id": "EFTA00001015",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:06:31.582245Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

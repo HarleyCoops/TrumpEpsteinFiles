@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001030.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a lavishly decorated office or study. The room features dark wood-paneled walls with built-in bookshelves filled with books. A large wooden desk is visible on the left, topped with a lamp, a computer monitor, and a framed photograph. An ornate patterned rug covers the floor. In the foreground, a large, reflective gold egg-shaped sculpture sits on a glass and metal stand. The lighting is dim, provided by several wall sconces and desk lamps. The ceiling is dark blue.",
+    "layout": "Interior room shot with a focus on the desk area and foreground sculpture.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001030",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001030",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001030"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001030 in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a study or office",
+    "date": null,
+    "references": [
+      "EFTA00001030"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The OCR provided in the prompt included 'leraiartA—lara:tro' which appears to be a misinterpretation of visual noise or artifacts not clearly legible as text in the image itself. The only clear text is the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001030.pdf",
+  "document_id": "EFTA00001030",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:08:19.918769Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

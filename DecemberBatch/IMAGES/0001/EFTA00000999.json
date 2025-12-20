@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000999.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a kitchen interior. The kitchen features cream-colored, floor-to-ceiling cabinetry with small round knobs. There is a gray countertop with a built-in black gas stovetop and oven. On the left side of the counter, there are stacked wooden and acrylic boxes. To the right, there is a white refrigerator. Two metal rolling carts with glass shelves are visible in the foreground and mid-ground. The floor is covered in a dark blue carpet.",
+    "layout": "Interior kitchen scene showing cabinets, appliances, and mobile carts.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000999",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000999",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000999"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000999' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Kitchen interior documentation",
+    "date": null,
+    "references": [
+      "EFTA00000999"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier.",
+  "file_path": "IMAGES\\0001\\EFTA00000999.pdf",
+  "document_id": "EFTA00000999",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:04:39.319464Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

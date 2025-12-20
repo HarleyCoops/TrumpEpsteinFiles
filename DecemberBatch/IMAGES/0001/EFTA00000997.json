@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00000997.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking down a narrow hallway or passage. The foreground shows a blue carpeted floor. To the right, there is a built-in white cabinet or desk area with drawers. Further down the hallway, another doorway leads into a room with a patterned rug and a piece of furniture with a red top (possibly a stool or bench). The walls and door frames are painted an off-white or cream color. The lighting appears to be artificial and somewhat dim in the background room.",
+    "layout": "Interior architectural view through multiple doorways.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00000997",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00000997",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00000997"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00000997' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence or office",
+    "date": null,
+    "references": [
+      "EFTA00000997"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard investigative or evidentiary photograph, likely part of a larger set as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0001\\EFTA00000997.pdf",
+  "document_id": "EFTA00000997",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:04:26.529245Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

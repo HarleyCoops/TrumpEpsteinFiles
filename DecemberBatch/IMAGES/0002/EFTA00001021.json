@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001021.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a luxurious bathroom or dressing area. The foreground shows a white door with gold trim held open. Inside, there is a vanity with a marble countertop and wooden cabinetry on the left, a wall-mounted lamp with a beige shade, and a patterned upholstered bench on the right. The floor is dark wood with a parquet/chevron pattern. In the background, another open wooden door leads to a smaller room containing a toilet and a framed piece of art on the wall. A white piece of paper with the letter 'M' is taped to the wall near the bench.",
+    "layout": "Interior architectural photograph with a deep perspective through multiple doorways.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "M\nEFTA00001021",
+    "text_regions": [
+      {
+        "region": "wall_label",
+        "text": "M",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001021",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001021"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001021",
+      "Wall label: M"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001021"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates stamp and the 'M' marker on the wall, likely used for cataloging specific rooms or locations during a search or inspection.",
+  "file_path": "IMAGES\\0002\\EFTA00001021.pdf",
+  "document_id": "EFTA00001021",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:07:14.926893Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
