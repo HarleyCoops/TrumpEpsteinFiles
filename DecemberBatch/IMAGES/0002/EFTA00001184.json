@@ -1,0 +1,106 @@
+{
+  "file_name": "EFTA00001184.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an indoor storage area or craft room. On the left is a tall, cream-colored shelving unit with drawers at the bottom and shelves above containing various white storage boxes. To the right is a white rolling cart filled with craft supplies, including wrapping paper rolls, ribbons, and tools. A white chair is partially visible in the bottom right corner.",
+    "layout": "The image is split vertically between a built-in shelving unit on the left and a wall/storage area on the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "DESIGN IDEAS FOR\nPARIS\nZORRO\nPHOTOS OF JE\nJE AWARDS\nCELINA PHOTOS\nART & FURNITURE PURCHASES\nJE OLD PHOTO ALBUMS\nEFTA00001184",
+    "text_regions": [
+      {
+        "region": "label_on_box_top_right",
+        "text": "DESIGN IDEAS FOR",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_box_middle_right",
+        "text": "PARIS",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_box_top_left",
+        "text": "ZORRO",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_thin_box_1",
+        "text": "PHOTOS OF JE",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_thin_box_2",
+        "text": "JE AWARDS",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_thin_box_3",
+        "text": "CELINA PHOTOS",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_box_middle_left",
+        "text": "ART & FURNITURE PURCHASES",
+        "type": "printed"
+      },
+      {
+        "region": "label_on_bottom_drawer",
+        "text": "JE OLD PHOTO ALBUMS",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001184",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JE",
+      "CELINA"
+    ],
+    "organizations": [],
+    "locations": [
+      "PARIS"
+    ],
+    "document_numbers": [
+      "EFTA00001184"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001184"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage and organization of personal files and craft supplies",
+    "date": null,
+    "references": [
+      "EFTA00001184"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The text 'JE' likely refers to initials of an individual. The labels are small and printed on adhesive strips attached to storage containers.",
+  "file_path": "IMAGES\\0002\\EFTA00001184.pdf",
+  "document_id": "EFTA00001184",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:12.456846Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

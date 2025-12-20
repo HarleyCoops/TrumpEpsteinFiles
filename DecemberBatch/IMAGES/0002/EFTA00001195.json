@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001195.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a storage area, likely in a basement or mechanical room. Large white insulated pipes run across the ceiling. In the center, a long white table or duct-like structure is covered with numerous rolled and unrolled architectural blueprints or maps. A black flat-file cabinet sits against the back wall. To the left is a large blue mechanical unit, possibly a blower or HVAC component. A wooden easel or stand is on the right. The floor is a light-colored speckled tile.",
+    "layout": "Interior room shot with mechanical equipment and document storage.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "HEATING WATER SUP\nEFTA00001195",
+    "text_regions": [
+      {
+        "region": "label on pipe",
+        "text": "HEATING WATER SUP",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001195",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001195"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Yellow pipe label: HEATING WATER SUP",
+      "Bates stamp/Reference number: EFTA00001195"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of documents in a mechanical room",
+    "date": null,
+    "references": [
+      "EFTA00001195"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The photograph appears to document the storage conditions of sensitive or official documents (blueprints/maps) in a non-standard storage area near HVAC equipment. The text 'HEATING WATER SUP' is on a yellow label on a pipe in the background.",
+  "file_path": "IMAGES\\0002\\EFTA00001195.pdf",
+  "document_id": "EFTA00001195",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:32.832500Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

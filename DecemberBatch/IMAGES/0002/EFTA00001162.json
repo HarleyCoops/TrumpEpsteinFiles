@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001162.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. In the foreground, the edge of a bed with white linens is visible. The room features yellow carpeting and beige walls. Against the far wall is a dark wood desk with a white lamp and various papers/books. Two bright orange chairs flank the desk. To the right, a large flat-screen television sits on a dark wood dresser. A white upholstered armchair with a round cushion is positioned between the desk and the dresser. A small white label with the letters 'DD' is taped to the wall above the armchair. A green and grey patterned tube (possibly a cat tunnel) and a red circular object are on the floor under the desk.",
+    "layout": "Interior room shot, landscape orientation, showing furniture arrangement against two walls.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "DD\nEFTA00001162",
+    "text_regions": [
+      {
+        "region": "wall_label",
+        "text": "DD",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001162",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001162"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence label 'DD' on wall",
+      "Bates stamp/Reference number 'EFTA00001162' in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph for evidence or documentation",
+    "date": null,
+    "references": [
+      "EFTA00001162"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the 'DD' marker on the wall and the EFTA prefix on the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001162.pdf",
+  "document_id": "EFTA00001162",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:38.003848Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

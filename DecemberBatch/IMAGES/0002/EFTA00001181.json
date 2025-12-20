@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00001181.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a walk-in closet or storage room. The room features a large, built-in white shelving unit and dresser. The shelves are filled with numerous white storage boxes of various sizes. On the left wall, a sign with the letters 'GG' is taped. A yellow Kodak slide projector box sits on the floor. To the right, a grey rolling cart holds rolls of paper or blueprints. The floor is covered in a light-colored patterned carpet.",
+    "layout": "Interior shot taken through a doorway, showing a storage area with built-in cabinetry.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "GG\nEFTA00001181",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "GG",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001181",
+        "type": "printed"
+      },
+      {
+        "region": "floor_object",
+        "text": "Kodak [unclear: Carousel] slide projector",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Kodak"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001181"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001181",
+      "Sign on wall labeled 'GG'"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage room interior with boxes and cabinetry",
+    "date": null,
+    "references": [
+      "EFTA00001181"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The photograph appears to be an evidentiary photo from an investigation, indicated by the Bates stamp and the 'GG' marker on the wall. The text on the yellow box is partially obscured but identifies it as a Kodak slide projector box.",
+  "file_path": "IMAGES\\0002\\EFTA00001181.pdf",
+  "document_id": "EFTA00001181",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:49.610530Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

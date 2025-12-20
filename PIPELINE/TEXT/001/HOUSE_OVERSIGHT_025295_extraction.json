@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_025295.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_025295.txt",
+  "content": {
+    "full_text": "From: \nSent: \nTo: \nSubject: \nAttachments: \nThomas Jr., Landon \n11/14/2016 5:32:04 PM \nJeffrey Epstein [jeeyacation@gmail.com] \nFwd: Game On paper from Dr. Laffer \n2016.05.19 Game On - updated 2016.07.06.pdf \nImportance: High \nThese old school supply siders supposedly have DT's ear. Your old pal Larry Kudlow/Laffer/Steve \nMoore. I think they basically wrote his tax plan. Steve Forbes for Treasury Secretary??:):) \n----------Forwarded message---------- \nFrom: Nicholas Drinkwater \nDate: Mon, Nov 14, 2016 at 11:38 AM \nSubject: Game On paper from Dr. Laffer \nTo:' \nDear Landon, \nPlease see the attached paper from Dr. Laffer. \nBest, \nNick \nNicholas C. Drinkwater \nChief of Staff \nLaffer Associates \n103 Murphy Court \nNashville, TN 37203 \nPhone: \nFax \nLandon Thomas, Jr. \nFinancial Reporter \nNew York Times \nhttp://topics.nytimes.com/top/reference/timestopics/people/t/landon jr thomas/index.h  \ntml \nHOUSE OVERSIGHT 025295 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 30.009041095s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}",
+  "house_oversight_id": "025295",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:30.109588Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

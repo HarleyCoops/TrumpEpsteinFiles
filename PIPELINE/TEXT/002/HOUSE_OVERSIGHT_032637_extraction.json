@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_032637.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_032637.txt",
+  "content": {
+    "full_text": "From: \nSent: \nTo: \nSubject: \nAttachments: \nRobert Kuhn \n11/6/2017 1:19:09 PM \njeffrey E. [jeeyacation@gmail.com] \nRe: \nKuhn - CNN - Xi and New Politburo Standing Committee - 10.26.17.pdf; Untitled attachment 168555.htm; Kuhn - BBC \nWorld News - Xi Jinping and the New Politburo Standing Committee - 10.25.17.pdf; Untitled attachment \n168558.htm; Kuhn - CNN - Xi and 19th CPC National Congress - 10.25.17A.pdf; Untitled attachment 168561.htm; \nKuhn - New Era on the Road to 2050 - China Daily Newspaper - 10.28.17.pdf; Untitled attachment 168564.htm \nImportance: High \nYou nailed it! (before —1/2 of family). \nStill in China - from Party Congress through Trump \"State+ Visit\". Many interviews/commentaries (CNN/BBC \nattached). \nMore important (from some ultimate reference frame): Radical Breakthroughs. Preproduction going well; \nexpect to send by end of month complete preproduction document, with 3-4 pages on each of the 13 episodes - \nrefined versions of the prototypes (first two episodes) I sent you in late Sept. Excited. Looking forward to \ndiscussing content. \nI'll be in NY from —Nov. 21/22 through early January. When to meet? Breakthroughs and of course politics / \ngeopolitics (so much). \nRobert \nHOUSE OVERSIGHT 032637 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 10.190154176s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}",
+  "house_oversight_id": "032637",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:49.934402Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

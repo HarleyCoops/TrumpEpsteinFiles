@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_026548.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_026548.txt",
+  "content": {
+    "full_text": "From: Lvjet \nSent: 6/7/2014 5:00:22 PM \nTo: jeevacation@gmail.com \nSubject: Fwd: Photos \nAttachments: photo_LJPG; photo_2.JPG; photo_3.JPG; photo_4.JPG \nImportance: High \n-----Original Message----- \nFrom: Lvje \nTo: jeevacation <jeevacation@gmail.com> \nSent: Sat, Jun 7, 2014 12:45 pm \nSubject: Fwd: Photos \nJeffrey, \nphotos of unmasked B727,. Paint shop indicated we can use Vinyl for your \"E\" Logo and \"Flag\" as oppose of painting, this \nwould enable easy removal if plane sells in the future. Trump and other airlines uses Vinyl for logos,. \ncan you sketch the style of \"E\" for the tail, and I'll request rendering with slanted Flag for Right side of Vertical Stabilizer,. \nthank you, \nLarry \n-----Original Message----- \nFrom: Guy Amico < \nTo: Larry Visoski \nCc: Scott Stambaugh ; JR Stambaugh \nSent: Sat, Jun 7, 2014 12:16 pm \nSubject: Photos \nHOUSE OVERSIGHT 026548 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 59.336127835s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}",
+  "house_oversight_id": "026548",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:00.783665Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

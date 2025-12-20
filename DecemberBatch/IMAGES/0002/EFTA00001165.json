@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001165.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a long, narrow interior hallway. The walls are painted a medium gray, and the ceiling and trim are white. The floor is covered in a light-colored carpet with a geometric diamond pattern. On the left, an open white door reveals a glimpse of another room. On the right, there is a large window with white framing and a deep windowsill. The ceiling features three circular flush-mount light fixtures with gold-toned rims and a rectangular HVAC vent. At the far end of the hallway, another doorway leads into a dark room where some equipment or storage is visible.",
+    "layout": "Single-point perspective photograph looking down a hallway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I \nEFTA00001165",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001165",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "I",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001165"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number: EFTA00001165"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office hallway",
+    "date": null,
+    "references": [
+      "EFTA00001165"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'I' appears to be a stray character or artifact from the OCR/scanning process. The primary text is the Bates-style tracking number at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001165.pdf",
+  "document_id": "EFTA00001165",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:58.401094Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

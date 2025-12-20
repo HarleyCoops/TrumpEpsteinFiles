@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_030217.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_030217.txt",
+  "content": {
+    "full_text": "From: Larry Visoski \nSent: 9/5/2016 7:10:16 PM \nTo: Je vacation [jeevacation@gmail.com] \nCC: Rich Kahn \nSubject: Flight time OMAA - BQK \nAttachments: IMG_0068.PNG; Untitled attachment 393133.txt; IMG_0069.PNG; Untitled attachment 393136.txt \nJeffrey \nEric completed Trump's interior on his 757 at Stambaugh, they have worked together in the past. \nEstimated cost Abu Dhabi to Stambaugh $37,038.00 \nAbu Dhabi - Shannon Ireland 7+45min (-23kt Headwind) \nShannon - Jacksonville (to clear Customs) 7+46min (-23kt headwind) \nJacksonville to Brunswick GA +12min \nTotal Flight time 15+42min \nCost \nBBJ burns an average of 5,200Lbs per hour = 776 gallons per hour \nAbu Dhabi current fuel price $1.74 per gallon. \nShannon Current fuel price. $1.94 per gallon. \nJacksonville Fuel, $3.50 per gallon. \nAbu Dhabi - Shannon, 7.7 hours = 5,975 gallons = $10,396.50 Fuel \nShannon -Jacksonville 7.7 hours = 5975 gallons = $11,591.50 Fuel \nJacksonville-Brunswick .2 hours= 300 gallons= $ 1,050.00 Fuel \nHandling charge in Shannon estimate $ 3,500 00 \nNavigational charges, overflight permits, landing \nFee Shannon Ireland. $10,000.00 est. \nLanding fee Jacksonville. 500.00 \nEstimated total $ 37,038.00 \nHOUSE OVERSIGHT 030217 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 50.649381564s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}",
+  "house_oversight_id": "030217",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:09.473430Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

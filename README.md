@@ -14,9 +14,9 @@ P25-12-19 15:02:44
 
 ### Processing Status
 
-- Total documents analyzed: 1235
-- Named individuals identified: 49
-- Organizations found: 101
+- Total documents analyzed: 1281
+- Named individuals identified: 54
+- Organizations found: 104
 - Document types: image_analysis
 
 (Strategic analysis temporarily unavailable - processing continues)

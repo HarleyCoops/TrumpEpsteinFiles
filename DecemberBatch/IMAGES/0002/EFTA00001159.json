@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001159.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room corner. The room features beige walls with white crown molding and a yellow carpet. A dark wood desk sits against the left wall, topped with a white lamp, stacks of magazines, and a small container of pens/scissors. An orange, armless upholstered chair is positioned next to the desk. On the wall above the chair, a white piece of paper with the letters 'DD' printed in black is taped. Under the desk, a green object and a pink circular cat toy are visible. A portion of a white sofa is visible on the far right edge.",
+    "layout": "Interior room shot with furniture and an evidentiary or organizational label on the wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "DD\nEFTA00001159",
+    "text_regions": [
+      {
+        "region": "wall_label",
+        "text": "DD",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001159",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001159"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence/Location marker 'DD' taped to wall",
+      "Bates stamp/Document ID 'EFTA00001159' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00001159"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be a forensic or investigative photograph of a room, likely part of a larger set of evidence documentation given the 'DD' marker and the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001159.pdf",
+  "document_id": "EFTA00001159",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:17.864377Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

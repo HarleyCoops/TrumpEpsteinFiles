@@ -1,0 +1,90 @@
+{
+  "file_name": "EFTA00001176.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a desk setup featuring an Apple iMac computer, a multi-line office telephone, a cup of pens and scissors, and a printer in the background. The desk surface appears to be frosted glass. The iMac screen is dark, reflecting the room. The telephone is a beige 'STARPLUS digital' model with several programmable buttons, some of which have redacted labels. A white charging cable is coiled on the desk.",
+    "layout": "The iMac is centered in the frame. To the left is a blue and white ceramic pen holder. To the right is a beige office phone. An Epson printer is visible behind the computer.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EPSON\nSTARPLUS digital\nOFFICE\nKITCHEN\nKARENA\nDINING ROOM\nMORGAN\nGYM\nMAIN OFFICE\nCONF\nANS PAGE\nALL PAGE\nDARREN OFFICE\nOPEN DOOR\nDARREN CELL\nOPEN DOOR\nEFTA00001176",
+    "text_regions": [
+      {
+        "region": "background_object",
+        "text": "EPSON",
+        "type": "printed"
+      },
+      {
+        "region": "telephone_brand",
+        "text": "STARPLUS digital",
+        "type": "printed"
+      },
+      {
+        "region": "telephone_buttons",
+        "text": "OFFICE\nKITCHEN\nKARENA\nDINING ROOM\nMORGAN\nGYM\nMAIN OFFICE\nCONF\nANS PAGE\nALL PAGE\nDARREN OFFICE\nOPEN DOOR\nDARREN CELL\nOPEN DOOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001176",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "KARENA",
+      "MORGAN",
+      "DARREN"
+    ],
+    "organizations": [
+      "EPSON",
+      "STARPLUS"
+    ],
+    "locations": [
+      "OFFICE",
+      "KITCHEN",
+      "DINING ROOM",
+      "GYM",
+      "MAIN OFFICE",
+      "DARREN OFFICE"
+    ],
+    "document_numbers": [
+      "EFTA00001176"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001176"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Desk and office equipment setup",
+    "date": null,
+    "references": [
+      "EFTA00001176"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "Several labels on the telephone buttons have been redacted with black bars. The text on the telephone buttons represents internal intercom or speed-dial locations.",
+  "file_path": "IMAGES\\0002\\EFTA00001176.pdf",
+  "document_id": "EFTA00001176",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:14.626567Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

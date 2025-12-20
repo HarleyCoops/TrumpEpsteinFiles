@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001178.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small bathroom or water closet. The room features white tiled floors, off-white or cream-colored walls, and a white toilet. To the left of the toilet is a dark wooden stool or stand shaped like an elephant, holding three rolled white towels. A white bath mat is on the floor in front of the stool. A toilet brush in a silver holder is visible behind the toilet. The photo is taken from a doorway, with the door frame visible on the right side.",
+    "layout": "Interior room photograph with a document ID watermark in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001178",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001178",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001178"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/document ID: EFTA00001178"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00001178"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely taken for investigative or inventory purposes, as indicated by the Bates-style numbering at the bottom.",
+  "file_path": "IMAGES\\0002\\EFTA00001178.pdf",
+  "document_id": "EFTA00001178",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:27.434448Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001175.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an office interior. The room features a window with cream-colored floor-length curtains, a black paper shredder on wheels positioned in front of the window, and a desk area on the left with a computer monitor, telephone, and office chair. On the right, there is a large printer/copier and a stack of documents on a dark surface. The floor is covered in a light-colored patterned carpet.",
+    "layout": "Interior office shot with equipment and furniture arranged around the perimeter of the room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001175",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001175",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001175"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001175' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Office interior documentation",
+    "date": null,
+    "references": [
+      "EFTA00001175"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The photograph appears to be part of an evidentiary or investigative collection, as indicated by the Bates stamp. The stack of documents on the right contains some illegible text on the top page covers.",
+  "file_path": "IMAGES\\0002\\EFTA00001175.pdf",
+  "document_id": "EFTA00001175",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:07.032540Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

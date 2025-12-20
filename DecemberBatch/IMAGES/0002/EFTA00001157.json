@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001157.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken through a doorway looking into a small kitchen or kitchenette. The kitchen features white cabinetry, a light-colored countertop, and a stainless steel dishwasher. On the counter, there is a paper towel roll, a toaster, a black electric kettle, and a microwave. A sink is visible on the left side under a window with a grid pattern. A white piece of paper with the letters 'CC' is taped to one of the upper cabinet doors. The floor is light-colored tile or laminate. The image is framed by a white doorframe in the foreground.",
+    "layout": "Interior photograph with a central focus on the kitchen appliances and cabinetry, framed by a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CC\nEFTA00001157",
+    "text_regions": [
+      {
+        "region": "label on cabinet",
+        "text": "CC",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001157",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001157"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001157' in bottom right corner",
+      "Label 'CC' taped to upper cabinet"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a kitchen area",
+    "date": null,
+    "references": [
+      "EFTA00001157"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The 'CC' label on the cabinet likely serves as a room or evidence marker for investigative purposes. The number at the bottom is a standard Bates stamp used in legal and oversight documentation.",
+  "file_path": "IMAGES\\0002\\EFTA00001157.pdf",
+  "document_id": "EFTA00001157",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:02.863215Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

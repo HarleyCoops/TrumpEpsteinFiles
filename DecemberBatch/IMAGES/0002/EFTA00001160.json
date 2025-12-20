@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001160.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. It features a white upholstered armchair with a fringed base and a round pet bed sitting on the cushion. To the right of the chair is a dark wood or black dresser/media console holding a large flat-screen television and a white cylindrical object (possibly a vase or speaker). In the foreground, the corner of a bed with white linens and a striped bed skirt is visible. The floor is covered in a yellow or gold-colored carpet. The walls are a neutral off-white color with crown molding at the ceiling.",
+    "layout": "Interior room shot, eye-level perspective.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001160",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001160",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001160"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001160' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a room",
+    "date": null,
+    "references": [
+      "EFTA00001160"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph likely used as evidence or documentation, identified by the Bates numbering at the bottom.",
+  "file_path": "IMAGES\\0002\\EFTA00001160.pdf",
+  "document_id": "EFTA00001160",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:24.516439Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

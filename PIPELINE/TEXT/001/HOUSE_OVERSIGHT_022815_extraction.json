@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_022815.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_022815.txt",
+  "content": {
+    "full_text": "From: Brad Edwards \nSent: 4/6/2018 3:49:11 PM \nTo: jeevacation@gmail.com \nAttachments: image001.png; clinton_9-2002.pdf; shoppers_travel_not_redacted.pdf \nImportance: High \nCONFIDENTIAL SETTLEMENT DISCUSSIONS/NO PRIVILEGE WAIVER/PER YOUR REQUEST - \nI expect a crisp, new bill. Your personalized message can say whatever you would like but it should include, \"you win!\" \nEDWARDb, \n4111C-71 POTTI NG E K. \nBrad Edwards \nBoard Certified Trial Attorney \n425 North Andrews Avenue, Suite 2 \nFort Lauderdale Florida 33301 \nI www.eplIc.com \nHOUSE OVERSIGHT 022815 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 55.380029113s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}",
+  "house_oversight_id": "022815",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:04.739375Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

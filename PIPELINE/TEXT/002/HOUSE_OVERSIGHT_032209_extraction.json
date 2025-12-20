@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_032209.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_032209.txt",
+  "content": {
+    "full_text": "﻿To: lawkrauss ; jeevacation ; \nSubject: lawkrauss -- 2017/07/05\nSent: 07/05/2017 8:29:33 PM\n\n\n\nlawkrauss\n07/05/2017 07:29:33 PM \nhi.. tried you a bunch of times.. leaving for london and paris tomorrow.. where are you? \n\n\njeevacation\n07/05/2017 08:32:54 PM \nparis \n\n\nlawkrauss\n07/05/2017 09:12:23 PM \nwe will be there July 13-16.. will you? \n\n\njeevacation\n07/05/2017 09:13:04 PM \nare you nuts. trump will close down the city \n\n\nlawkrauss\n07/05/2017 09:14:01 PM \nHe won't be there then.. I am talking about Paris \n\n\nlawkrauss\n07/05/2017 10:54:53 PM \ndon't forget my dream app idea.. and don't steal it. :) anyway, I do think it would be fascinating to make it happen. lets talk about how to make that happen. I think we could learn some very interesting things that could only be learned that way. \n\n\nlawkrauss\n07/05/2017 11:01:43 PM \noh yeah.. and I like the idea of you matching ASU.. could you do that? :) "
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 37.306547069s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}",
+  "house_oversight_id": "032209",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:22.819098Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

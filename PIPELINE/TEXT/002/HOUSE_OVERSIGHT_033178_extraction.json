@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033178.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033178.txt",
+  "content": {
+    "full_text": "From: \nSent: 10/19/2016 6:25:58 PM \nTo: jeffrey epstein [jeevacation@gmail.com] \nSubject: News \nImportance: High \nHi Jeffrey ! ! \nThank you for writing. I'm doing well. Looking forward for winter season in the Alps! \nI have from Zurich as assistant for you. I sent you her photos once :) lives in New Jersey \nnow and in Paris!! \nI have some new ones here in zurich but not in NY or Paris yet. \nHow is it going with Zubair? \nDo you believe Trump will win or Hilary ? \nI miss Berkeley so much. This California lifestyle was magical. Can't wait to be back for 2nd semester C) \nI plan to pass NY or California bar and be attorney in USA. I love America and the win mentality in your \ncountry. \nKind regards, \nHOUSE OVERSIGHT 033178 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 36.339777026s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}",
+  "house_oversight_id": "033178",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:23.786154Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

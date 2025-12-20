@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033371.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033371.txt",
+  "content": {
+    "full_text": "From: Richard Kahn \nSent: 4/26/2018 7:34:48 PM \nTo: jeffrey E. [jeeyacation@gmail.com] \nImportance: High \ndirection of trump? criminal tax fraud?? \nhttps://therealdeal.com/2018/04/26/shvo-settles-tax-evasion-case/?utm_source=The+Real+Deal+E-\nLerts&utm_campaign=9f5d9ae9f9-EMAIL_CAMPAIGN_2017_06_06&utm_medium=email&utm_term=0_6e806bb87a-\n9f5d9ae9f9-385784701 \nRichard Kahn \nHBRK Associates Inc. \n575 Lexington Avenue 4th Floor \nNew York, NY 10022 \nHOUSE OVERSIGHT 033371 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 19.258170369s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}",
+  "house_oversight_id": "033371",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:40.865385Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

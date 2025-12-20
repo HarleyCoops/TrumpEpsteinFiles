@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001169.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an open doorway leading into a small room or closet. The room has light gray walls, white baseboards, and a patterned beige/cream carpet with a geometric diamond design. A small white sign with the letters 'FF' is taped to the center of the back wall. The door on the right is white with recessed panels and brass hardware, including a doorknob and hinges. The door on the left is partially visible. A crown molding is visible at the top of the wall.",
+    "layout": "Interior architectural shot looking through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "FF\nEFTA00001169",
+    "text_regions": [
+      {
+        "region": "center_wall_label",
+        "text": "FF",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001169",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001169"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence or exhibit label 'FF' taped to wall",
+      "Bates stamp/identifier 'EFTA00001169' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00001169"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the 'FF' marker on the wall and the Bates-style numbering at the bottom.",
+  "file_path": "IMAGES\\0002\\EFTA00001169.pdf",
+  "document_id": "EFTA00001169",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:25.384843Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

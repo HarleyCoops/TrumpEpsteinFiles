@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033170.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033170.txt",
+  "content": {
+    "full_text": "From: Deepak Chopra \nSent: 9/27/2016 12:32:41 AM \nTo: Jeff Epstein [jeevacation@gmail.com] \nSubject: Donald Trump and the Looking-Glass War - SFGate \nImportance: High \nhttp://m.sfgate.com/opinion/chopra/article/Donald-Trump-and-the-Looking-Glass-War-9284330.php \nDeepak Chopra \nNew Book: Radicalbeauty.com \nHOUSE OVERSIGHT 033170 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 37.098667402s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}",
+  "house_oversight_id": "033170",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:23.025399Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

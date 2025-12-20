@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001170.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room, likely an office or study. The room features a large built-in white bookshelf on the left filled with books. In the center, there is a small round black table with metallic legs. Behind the table is a window with beige curtains, and a blue and white decorative ginger jar sits on the windowsill. To the right, there is a large professional-grade printer or plotter, a tall black speaker, and some rolled-up paper tubes. The floor is covered with a light-colored carpet featuring a geometric diamond pattern.",
+    "layout": "Interior room view through a doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001170",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001170",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001170"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001170"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001170"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph with a Bates stamp identifier at the bottom right corner. No other text is present in the image.",
+  "file_path": "IMAGES\\0002\\EFTA00001170.pdf",
+  "document_id": "EFTA00001170",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:31.892215Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

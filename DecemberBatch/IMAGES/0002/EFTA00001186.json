@@ -1,0 +1,71 @@
+{
+  "file_name": "EFTA00001186.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a closet shelf with nine white storage boxes lined up. Above the boxes, various binders and folders are visible. Below the shelf is a chrome hanging rod with a few garments in plastic dry-cleaning bags on the right side. The walls are a neutral beige/tan color with decorative crown molding at the ceiling and a matching decorative edge on the shelf.",
+    "layout": "The image shows a horizontal shelf spanning the width of the frame, with storage boxes as the central focus.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "PARIS 1\nPARIS 2\nZORRO\nZORRO\nZORRO\nZORRO\nEFTA00001186",
+    "text_regions": [
+      {
+        "region": "labels_on_binders",
+        "text": "PARIS 1\nPARIS 2",
+        "type": "printed"
+      },
+      {
+        "region": "labels_on_boxes",
+        "text": "ZORRO\nZORRO\nZORRO\nZORRO",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001186",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001186"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001186"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of binders and boxes in a closet",
+    "date": null,
+    "references": [
+      "EFTA00001186"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The labels on the white boxes are small and some are blurry; 'ZORRO' is clearly legible on the rightmost boxes. The binders behind the boxes also have labels, specifically 'PARIS 1' and 'PARIS 2'. Other labels are present but too small to read with certainty.",
+  "file_path": "IMAGES\\0002\\EFTA00001186.pdf",
+  "document_id": "EFTA00001186",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:26.549056Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

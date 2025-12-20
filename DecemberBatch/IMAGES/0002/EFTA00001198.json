@@ -1,0 +1,73 @@
+{
+  "file_name": "EFTA00001198.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a mechanical room or utility space, likely in a basement or industrial setting. The image shows a complex network of insulated pipes, many with yellow labels, and metal ductwork. The floor is a light-colored tile or concrete. There are support structures made of wood and metal framing. The lighting is artificial and appears to be from a flash or overhead utility lights.",
+    "layout": "Industrial mechanical room interior view.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "HEATING WATER SUP.\nHEATING WATER SUP\nHEATING WATER RET\nHEATING WATER RET\nHC-19\nEFTA00001198",
+    "text_regions": [
+      {
+        "region": "pipe_labels",
+        "text": "HEATING WATER SUP.\nHEATING WATER SUP\nHEATING WATER RET\nHEATING WATER RET",
+        "type": "printed"
+      },
+      {
+        "region": "equipment_tag",
+        "text": "HC-19",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001198",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001198",
+      "HC-19"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001198",
+      "Pipe labels indicating 'HEATING WATER SUP' (Supply) and 'HEATING WATER RET' (Return)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Mechanical room infrastructure",
+    "date": null,
+    "references": [
+      "EFTA00001198"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary photograph from a document production, identified by the Bates stamp at the bottom right. The text extracted primarily consists of utility labels on mechanical piping.",
+  "file_path": "IMAGES\\0002\\EFTA00001198.pdf",
+  "document_id": "EFTA00001198",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:54.799436Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

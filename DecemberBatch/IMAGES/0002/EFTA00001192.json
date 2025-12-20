@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001192.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a staircase landing inside a building. The image shows a set of carpeted stairs leading up to a landing. On the wall of the landing, two fire extinguishers are mounted. One is a standard red dry chemical extinguisher, and the other is a red CO2 extinguisher with a black horn. Above the extinguishers is a sign that reads '6TH FLOOR'. To the left is a blue metal banister with a wooden handrail. To the right is a white wall with a framed item or window. The lighting appears to be from an overhead source, casting shadows on the curved wall.",
+    "layout": "Interior architectural shot focusing on a stairwell landing and safety equipment.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "6TH FLOOR\nEFTA00001192",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "6TH FLOOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001192",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [
+      "6th Floor"
+    ],
+    "document_numbers": [
+      "EFTA00001192"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001192"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a building, specifically a 6th-floor stairwell landing with fire extinguishers",
+    "date": null,
+    "references": [
+      "EFTA00001192"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a site inspection or investigation. The text '6TH FLOOR' identifies the location within the building.",
+  "file_path": "IMAGES\\0002\\EFTA00001192.pdf",
+  "document_id": "EFTA00001192",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:09.940367Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

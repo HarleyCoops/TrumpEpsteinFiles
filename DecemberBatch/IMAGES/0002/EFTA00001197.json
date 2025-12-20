@@ -1,0 +1,78 @@
+{
+  "file_name": "EFTA00001197.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an industrial or mechanical room, likely a basement or utility area. The image shows a complex system of HVAC ductwork and insulated piping. A large galvanized metal duct structure is central, supported by a black metal frame. Several white insulated pipes with yellow labels run across the ceiling. A small electric motor is attached to the side of the ductwork. In the background, there are lockers and other mechanical equipment.",
+    "layout": "Vertical photograph showing floor-to-ceiling mechanical infrastructure.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "REEVES\nACCESS DOOR\nEFTA00001197",
+    "text_regions": [
+      {
+        "region": "ductwork_label",
+        "text": "REEVES",
+        "type": "printed"
+      },
+      {
+        "region": "ductwork_label_small",
+        "text": "ACCESS DOOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001197",
+        "type": "typed"
+      },
+      {
+        "region": "wall_sign",
+        "text": "[unclear: symbol or logo resembling two 'U' shapes]",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "REEVES"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001197"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001197"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Mechanical room/HVAC infrastructure",
+    "date": null,
+    "references": [
+      "EFTA00001197"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The text 'REEVES' and 'ACCESS DOOR' appear upside down on the ductwork in the center of the image. The yellow labels on the ceiling pipes are present but the text on them is illegible due to angle and distance.",
+  "file_path": "IMAGES\\0002\\EFTA00001197.pdf",
+  "document_id": "EFTA00001197",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:47.479242Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

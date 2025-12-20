@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033354.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033354.txt",
+  "content": {
+    "full_text": "From: Nicholas Ribis \nSent: 5/7/2019 11:53:10 PM \nTo: Jeffrey Epstein [JEEyacation@gmail.com] \nSubject: NYTimes: Decade in the Red: Trump Tax Figures Show Over $1 Billion in Business Losses \nImportance: High \nHere's a link from The New York Times that I thought you'd find interesting: \nNewly obtained tax information reveals that from 1985 to 1994, Donald J. Trump's businesses were in far \nbleaker condition than was previously known. \nSee More...  \nGet The New York Times on your mobile device  \nSent from my iPhone \nHOUSE OVERSIGHT 033354 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 20.695593779s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}",
+  "house_oversight_id": "033354",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:39.429974Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

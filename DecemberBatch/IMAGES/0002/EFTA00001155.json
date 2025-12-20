@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001155.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a small bathroom or powder room, viewed through an open doorway. The room features a white pedestal sink with silver-toned fixtures, a white toilet to the left, and a small brown trash bin to the right. Above the sink is a large rectangular mirror with a thick black frame, flanked by two wall-mounted light sconces. A glass shelf above the sink holds various toiletries, including bottles and a toothbrush. A small potted orchid sits on the right side of the sink. A white bath mat is on the light-colored tiled floor. Cleaning supplies and a roll of toilet paper are visible on the toilet tank.",
+    "layout": "Interior room shot taken from a doorway perspective.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001155",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001155",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001155"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001155' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Bathroom interior",
+    "date": null,
+    "references": [
+      "EFTA00001155"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document set, likely for investigative or evidentiary purposes, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001155.pdf",
+  "document_id": "EFTA00001155",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:49.357959Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

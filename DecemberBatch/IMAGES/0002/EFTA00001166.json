@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001166.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a narrow hallway or storage area. On the wall to the right of the hallway opening, a white piece of paper is taped, featuring the large printed letters 'EE'. Further down the hallway, there is a storage room containing white cabinets, stacked white boxes, and several large clear plastic bags filled with dark, textured items (possibly clothing or textiles). The lighting is indoor and somewhat dim. The walls are a light beige/tan color.",
+    "layout": "Interior shot showing a doorway in the foreground, a hallway, and a storage area in the background.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EE\nEFTA00001166",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "EE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001166",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001166"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001166",
+      "Wall sign: EE"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior storage area documentation",
+    "date": null,
+    "references": [
+      "EFTA00001166"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The sign on the wall contains smaller text below the large 'EE', but it is too blurry to read. The items in the plastic bags appear to be folded garments or fabrics.",
+  "file_path": "IMAGES\\0002\\EFTA00001166.pdf",
+  "document_id": "EFTA00001166",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:04.953310Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

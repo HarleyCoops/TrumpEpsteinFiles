@@ -1,0 +1,83 @@
+{
+  "file_name": "EFTA00001189.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a white 2x4 cubby-style shelving unit (Kallax-style) filled with various white storage boxes. On top of the shelf are two stacks of four flat white boxes each. The cubbies contain larger white storage bins and smaller boxes. Some boxes have small white labels on them. To the left of the shelf, there are framed pictures leaning against the wall and white shopping bags on the floor. To the right, a yellow box is partially visible. The floor is covered with a light-colored patterned carpet.",
+    "layout": "Landscape photograph of a storage area.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "MISC OLD PHOTOS\nOTHER OLD PHOTOS\nREADING\nGERBE\nEFTA00001189",
+    "text_regions": [
+      {
+        "region": "label_on_box_top_left_cubby",
+        "text": "MISC OLD PHOTOS",
+        "type": "typed"
+      },
+      {
+        "region": "label_on_box_top_second_cubby",
+        "text": "OTHER OLD PHOTOS",
+        "type": "typed"
+      },
+      {
+        "region": "label_on_box_top_right_cubby",
+        "text": "READING",
+        "type": "typed"
+      },
+      {
+        "region": "shopping_bag_content",
+        "text": "GERBE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001189",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "GERBE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001189"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00001189 (Bates stamp/Reference number)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage of boxes and personal items",
+    "date": null,
+    "references": [
+      "EFTA00001189"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.85,
+    "overall": 0.9
+  },
+  "notes": "The labels on the boxes are small and slightly blurry but legible. The text 'GERBE' appears on a magazine or catalog inside a shopping bag. The footer 'EFTA00001189' is an evidentiary tracking number.",
+  "file_path": "IMAGES\\0002\\EFTA00001189.pdf",
+  "document_id": "EFTA00001189",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:49.603699Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

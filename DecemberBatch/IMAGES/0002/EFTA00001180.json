@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001180.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an open white door leading into a walk-in closet or storage room. The room containing the door has a dark navy blue or black wall and a light-colored patterned carpet with a geometric diamond/square motif. Inside the closet, there is a built-in storage unit consisting of several rows of white storage boxes on shelves above a set of five wide drawers. To the left of the drawers, a yellow box is visible on the floor. A small sign with 'GG' is visible on the inner wall of the closet.",
+    "layout": "Interior room view looking through a doorway into a storage area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "GG\nEFTA00001180",
+    "text_regions": [
+      {
+        "region": "inner_closet_wall",
+        "text": "GG",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001180",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001180"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001180"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area/closet interior",
+    "date": null,
+    "references": [
+      "EFTA00001180"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'GG' appears on a small white card or label taped to the wall inside the closet. The number 'EFTA00001180' is a Bates stamp used for document identification in legal or investigative proceedings.",
+  "file_path": "IMAGES\\0002\\EFTA00001180.pdf",
+  "document_id": "EFTA00001180",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:41.633738Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

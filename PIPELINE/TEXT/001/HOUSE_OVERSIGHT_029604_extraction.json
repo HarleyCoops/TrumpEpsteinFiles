@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_029604.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_029604.txt",
+  "content": {
+    "full_text": "From: \nSent: 12/12/2018 5:27:36 PM \nTo: jeevacation@gmail.com \nSubject: Michael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump - \nhttps://www.npr.org/676040070 \nImportance: High \nWoow0 \nMichael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump - \nhttps ://www.npr. org/676 040070  \nHOUSE OVERSIGHT 029604 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 4.12631353s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}",
+  "house_oversight_id": "029604",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:55.996484Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

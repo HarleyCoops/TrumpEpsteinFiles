@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_027034.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_027034.txt",
+  "content": {
+    "full_text": "From: ehud barak \nSent: 9/17/2013 8:55:54 PM \nTo: Jeffrey Epstein [jeeyacation@gmail.com] \nSubject: Re: \nImportance: High \n23rd -yes. 24th probably but early. I have Clinton GI on 9am and fly to Singapore on 3pm. Lets discuss it \ntomorrow. Best \nEB \nSent from my iPhone \nOn Sep 16, 2013, at 21:55, Jeffrey Epstein <jeevacation@gmail.com> wrote: \ncan you do breakfast with ariane rothscild on morinig of 23. and if you wnat kissinger china guy at brakfast 24. \n*********************************************************** \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJeffrey Epstein \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nHOUSE OVERSIGHT 027034 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 47.391258624s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}",
+  "house_oversight_id": "027034",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:12.729894Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033277.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033277.txt",
+  "content": {
+    "full_text": "From: Richard Kahn \nSent: 3/30/2018 5:50:50 PM \nTo: Jeffrey Epstein [jeeyacation@gmail.com] \nSubject: Dershowitz On Special Counsel: The Investigation Should End « CBS Dallas / Fort Worth \nImportance: High \nhttp://dfw.cbslocal.com/2018/03/29/dershowitz-trump-special-counsel-investigation-should-end-soviet-union/ \nRichard Kahn \nHBRK Associates Inc. \n575 Lexington Avenue, 4th Floor \nNew York, NY 10022 \nHOUSE OVERSIGHT 033277 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 26.915602052s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}",
+  "house_oversight_id": "033277",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:33.209468Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_022816.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_022816.txt",
+  "content": {
+    "full_text": "23 \nDate \nAircraft Make \nand Model \nt \nAircraft \nIdentification Mark \nPoints of Departure & Arrival \nMiles \nFlown \nFlight \nNo. \nRemarks, Procedures, \nManeuvers, Endorsements \ni\\-)9 cAsz--6_ \nE.-6-nf3 \nEGO 1\"3 \nLF?f3 \nL \nC-,--115L't  \nG-- tt sck 6 \nNi CIT.& \n1.1 \n(--40 \n.'(5 \n'06x) \n13\\  \nn2 \nNumber \nof Landings \nt./l \nAircraft Category... \nt  \n133 1. Pi, nit.-\n13.73-\nkt \n1( \n1*(-2 \nILS`f \nrJ \nLrf)-2_ \nit \nC \nIt \nI \n\\  \nI=;)-<urK \nc1(3 j\\jr \nR)CY. \nN  \nrl1 \n-7  5 \n6. 5 \ntst3______ \nIS-c(c Lc-\n1511(r, \nr. rLLj \nto  \nLpo \nG \n_ c;.L , \nDeul, • 113 te\\-11:1, ki .00 S L.M \n_____V .> NN6ft?-t. , flu4v4v70 LA-kna. ri, c Lrwt \nri(),Lqiug, 4LCI\" \nA 110\\Y-- Le65 Rio) 1,1o\" \n\\LID 50(1‘u ')c /)110t)(-': PW5 r.)1) L/r)-1- P.Abri \nkt_\\\\t Pt (.)s ())3c,v&,- \n114-\\ 3-s7p,,+1.1:1-7.)(3:)[5(-31-13(1l.)(-2 \n3 --‘;53.6:- ri • \n____MMIPMEIMM \nPR /1-  \nLILA 5(4 6 ,f-)5 OLA: PIO ;DI \n,61.,___________________________________________________________ \n=lc's) \net \n-1 \nc--F) \nOci \n1 \\ \nI certify that the statements made by me on this form are true. \nPilot's Signature \nL  \nf \nPage Total \n/‘ \n5/ \nAmount Forward \nTotal to Date \n6SS 3 \nfr..D-ot)  \n6S3B \n3 1 \nt 1) \nHOUSE OVERSIGHT 022816 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 55.270970678s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}",
+  "house_oversight_id": "022816",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:23:04.848631Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

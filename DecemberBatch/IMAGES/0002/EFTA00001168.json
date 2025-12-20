@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001168.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a storage area or closet. On top of a long white cabinet, there are several large, clear plastic zippered storage bags containing folded textiles (blankets or rugs) with colorful patterns. To the left, there is a tall white shelving unit and a stack of white storage boxes on the floor. The walls are a light beige/tan color.",
+    "layout": "Interior storage space with cabinets and stacked items.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001168",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001168",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001168"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001168"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area containing textiles and boxes",
+    "date": null,
+    "references": [
+      "EFTA00001168"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph from a document production, identified by the Bates stamp EFTA00001168. It depicts household or office storage.",
+  "file_path": "IMAGES\\0002\\EFTA00001168.pdf",
+  "document_id": "EFTA00001168",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:18.031782Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

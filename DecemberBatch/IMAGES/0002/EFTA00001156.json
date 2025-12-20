@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001156.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing the interior of a closet. The closet contains a top shelf with a large black bag and several white items in plastic garment bags. Below the shelf is a hanging rod with various items of clothing including dark jackets, a plaid shirt, a black puffer vest, and a white shirt. On the floor of the closet, which has yellow carpeting, there is a woven wicker basket containing dark clothing and several pairs of dark shoes scattered nearby. To the left, a mirrored door reflects the interior. To the right, an open white door with gold-toned hardware (knobs and locks) is visible.",
+    "layout": "Interior shot of a closet through an open door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "I\\\nEFTA00001156",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "I\\",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001156",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001156"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001156"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Closet interior",
+    "date": null,
+    "references": [
+      "EFTA00001156"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'I\\' appears to be a fragment or artifact of the scanning/OCR process. The primary text is the Bates stamp identifier at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001156.pdf",
+  "document_id": "EFTA00001156",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:56.242443Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

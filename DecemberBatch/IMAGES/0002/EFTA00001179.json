@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001179.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bathroom interior. It features a white vanity with a marble countertop and an undermount sink. The walls are painted a dark, possibly black or navy blue color, contrasted with white crown molding and trim. A large white-framed mirror is mounted above the sink, flanked by two wall-mounted sconce lamps with cream-colored shades. On the counter, there are various toiletries, including a blue bottle, a soap dispenser, and a small round container. A circular magnifying makeup mirror is on the left side of the counter, with its power cord plugged into an outlet on the side of the vanity. A small black trash can with a plastic liner sits on the floor to the left. A white paneled door is partially open on the right, revealing a glimpse of another room. The floor has a light-colored geometric pattern carpet or rug.",
+    "layout": "Interior architectural photograph showing a vanity area and an open door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001179",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001179",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001179"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001179' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00001179"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary or investigative photograph, likely part of a larger set of documentation as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001179.pdf",
+  "document_id": "EFTA00001179",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:34.839506Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

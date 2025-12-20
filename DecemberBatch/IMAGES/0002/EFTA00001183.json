@@ -1,0 +1,93 @@
+{
+  "file_name": "EFTA00001183.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a storage closet or walk-in pantry area. The image shows a tall white built-in shelving unit with drawers at the bottom and shelves filled with white storage boxes. To the left, there is a hanging rod and a lower white cubby-style shelf also containing white boxes. On a shelf above the rod, several black binders are visible. A yellow Kodak slide projector box sits on the floor. A small sign with the letters 'GG' is taped to the back wall.",
+    "layout": "Interior room shot focusing on storage units and shelving.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JE IN MAGAZINES\nPB\nGG\nART & FURNITURE PURCHASES\nOFFICE SUPPLIES\nKodak\nslide projector\nEFTA00001183",
+    "text_regions": [
+      {
+        "region": "storage_box_label_top",
+        "text": "JE IN MAGAZINES",
+        "type": "printed"
+      },
+      {
+        "region": "storage_box_label_middle",
+        "text": "PB",
+        "type": "printed"
+      },
+      {
+        "region": "wall_sign",
+        "text": "GG",
+        "type": "printed"
+      },
+      {
+        "region": "storage_box_label_right",
+        "text": "ART & FURNITURE PURCHASES",
+        "type": "printed"
+      },
+      {
+        "region": "storage_box_label_bottom",
+        "text": "OFFICE SUPPLIES",
+        "type": "printed"
+      },
+      {
+        "region": "floor_box",
+        "text": "Kodak slide projector",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001183",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Kodak"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001183"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001183"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area and organized boxes",
+    "date": null,
+    "references": [
+      "EFTA00001183"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, likely related to document storage or organization. Several labels on boxes are visible but some are too small or blurry to read with 100% certainty (e.g., labels on the stack of four thin boxes).",
+  "file_path": "IMAGES\\0002\\EFTA00001183.pdf",
+  "document_id": "EFTA00001183",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:04.286334Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001167.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a storage area or closet. On the left, there is a white cabinet unit with items stacked on top, including several clear plastic bags containing patterned brown and gold fabrics (possibly cushions or textiles). To the right of the cabinet, several long black garment bags are leaning against the wall on a white shelf. Below the shelf and on the floor, there are several pieces of luggage, including a large black rolling suitcase with blue ribbons tied to the handles, a smaller black suitcase, and a brown leather bag. The room has light-colored walls and a neutral-toned carpet. A small access panel is visible on the right wall.",
+    "layout": "Interior storage space photograph",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001167",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001167",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001167"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001167' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage area containing luggage, garment bags, and textiles",
+    "date": null,
+    "references": [
+      "EFTA00001167"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier.",
+  "file_path": "IMAGES\\0002\\EFTA00001167.pdf",
+  "document_id": "EFTA00001167",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:11.522647Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

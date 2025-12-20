@@ -1,0 +1,76 @@
+{
+  "file_name": "EFTA00001199.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a mechanical or utility room, likely in a basement or industrial setting. The ceiling is filled with large, insulated white pipes running horizontally. In the background, there are black filing cabinets, electrical panels, and more complex piping systems. A fire extinguisher with a yellow inspection tag is partially visible in the lower-left foreground. The floor is a light-colored tile or concrete.",
+    "layout": "Industrial utility room interior with pipes, equipment, and storage.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "2018\n[unclear: 81 423-1900]\nHEATING WATER SUP\nHEATING WATER\nEFTA00001199",
+    "text_regions": [
+      {
+        "region": "foreground_tag",
+        "text": "2018\n[unclear: 81 423-1900]",
+        "type": "printed"
+      },
+      {
+        "region": "pipe_labels",
+        "text": "HEATING WATER SUP\nHEATING WATER",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001199",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2018"
+    ],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001199"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "81 423-1900"
+      ],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Yellow inspection tag on fire extinguisher",
+      "Directional arrows and labels on pipes"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Mechanical room or utility area documentation",
+    "date": "2018",
+    "references": [
+      "EFTA00001199"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.85,
+    "structured_data": 0.9,
+    "overall": 0.88
+  },
+  "notes": "The text on the yellow tag is partially cut off and blurry. The phone number is a best-guess based on visible digits. The document number 'EFTA00001199' is a digital footer added to the image.",
+  "file_path": "IMAGES\\0002\\EFTA00001199.pdf",
+  "document_id": "EFTA00001199",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:28:03.302210Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

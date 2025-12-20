@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_026662.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_026662.txt",
+  "content": {
+    "full_text": "From: Robert Lawrence Kuhn \nSent: 2/13/2017 11:08:13 PM \nTo: jeffrey E. [jeeyacation@gmail.com] \nSubject: Kuhn \nAttachments: TSC Shanghai Program Update.pdf; Untitled attachment 431541.htm \nImportance: High \nGreat talking. Covered lots. All fun! \nAttached is the Shanghai Science of Consciousness program (Stuart Hameroff put together; I advised). \nGregory Chaitin on Closer To Truth - https://www.closertotruth.com/contributor/gregory-chaitin/profile (scroll \ndown for videos). \nMy Bloomberg TV on Trump/China (Feb. 1, pre Trump-Xi call) \n- http s ://www. dropb ox com/s/o 0 6wvej Ilms i9 1 7/Dr%20Kuhn%20B lo omb erg%20D aybreak%20 - \n%20As ia .mov? d1=0 - \nAppreciate discussing \"Science of Sleep & Dreams\" - I'll pull together significance of recent \nresearch/discoveries yielding inflection point, such that timing is propitious for the definitive TV series \nbenchmarking the field and making impact. \nWarmest, Robert \nHOUSE OVERSIGHT 026662 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 54.825062505s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}",
+  "house_oversight_id": "026662",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:05.299548Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

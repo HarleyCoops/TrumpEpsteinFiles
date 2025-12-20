@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_033208.txt",
+  "file_path": "002\\HOUSE_OVERSIGHT_033208.txt",
+  "content": {
+    "full_text": "From: Richard Kahn \nSent: 12/16/2016 3:09:19 PM \nTo: jeffrey E. [jeeyacation@gmail.com] \nSubject: re: Palantir \nImportance: High \nnot sure your thoughts on Palantir but if remotely positive then david access to shares seems like a 50% \ndiscount to market \nplease advise \nthank you \nhttps://www.bloomberg.com/news/articles/2016-10-26/palantir-mulls-ipo-and-expects-to-be-profitable-next-\nyear  \nhttp://fortune.com/2016/10/26/palantir-ceo-ipo/ \nRichard Kahn \nHBRK Associates Inc. \n575 Lexington Avenue 4th Floor \nNew York, NY 10022 \nBegin forwarded message: \nFrom: David Fiszel \n(> \nSubject: re: Palantir \nDate: December 16, 2016 at 9:47:07 AM EST \nTo: Richard Kahn <1  \nCan you see if we can get an update on palantir view. I heard the meeting with Trump was Huge for the company and I \ncan buy more at $5 which is $9.5B valuation. Seems like a home run \nHOUSE OVERSIGHT 033208 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 33.469228252s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}",
+  "house_oversight_id": "033208",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:27:26.656471Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

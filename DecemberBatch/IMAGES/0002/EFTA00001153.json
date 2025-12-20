@@ -2,8 +2,8 @@
   "file_name": "EFTA00001153.pdf",
   "image_analysis": {
     "type": "photograph",
-    "description": "A photograph of a bedroom interior. The room features a purple wall, a dark wood dresser with a television on top, a gold-framed mirror, a plush lion toy, and a gold tissue box. A black chair is visible in the lower left foreground. A window with white curtains and a view of an adjacent building is in the background. The floor is covered with a yellow or gold-toned carpet.",
-    "layout": "Interior room shot, portrait orientation.",
+    "description": "A photograph of an interior room, likely a bedroom. The walls are painted a vibrant blue. A dark wood dresser sits against the wall, holding a flat-screen television, a remote, a gold-colored tissue box, and a small stuffed animal (possibly a lion). Above the dresser is a large mirror with a thick gold frame. To the left, a portion of a black wooden chair is visible. To the right, there is a window with white curtains and a view of a city building through the glass. The floor is covered in a yellow or gold-colored carpet.",
+    "layout": "Interior room shot with a vertical (portrait) orientation.",
     "quality": "high",
     "orientation": "portrait"
   },
@@ -49,15 +49,14 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Bates stamp/Reference number: EFTA00001153",
-      "Metadata/Index code: SOI;0;013"
+      "Bates stamp/Reference number: EFTA00001153"
     ]
   },
   "document_metadata": {
     "document_type": "photograph",
     "sender": null,
     "recipient": null,
-    "subject": "Interior room photograph",
+    "subject": "Interior room documentation",
     "date": null,
     "references": [
       "EFTA00001153"
@@ -68,11 +67,11 @@
     "structured_data": 1.0,
     "overall": 0.98
   },
-  "notes": "The text appears to be administrative metadata or Bates numbering typical of legal or investigative document discovery.",
+  "notes": "The text 'SOI;0;013' and '11' appear to be metadata or indexing information overlaid on the image, likely from a digital evidence management system. 'EFTA00001153' is a standard Bates stamp used in legal and committee documentation.",
   "file_path": "IMAGES\\0002\\EFTA00001153.pdf",
   "document_id": "EFTA00001153",
   "processing_metadata": {
-    "processed_at": "2025-12-20T00:22:34.451896Z",
+    "processed_at": "2025-12-20T00:22:36.463511Z",
     "model": "gemini-3-flash-preview"
   }
 }

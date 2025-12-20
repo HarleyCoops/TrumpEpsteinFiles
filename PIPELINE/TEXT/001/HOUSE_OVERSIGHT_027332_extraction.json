@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_027332.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_027332.txt",
+  "content": {
+    "full_text": "Source Entry: H\\Macintosh HD\\root\\Users\\jee\\Library\\Messages\\Archive\\2018-07-23\\II \non 2018-07-23 at 05.02.16.ichat \nService: IMessage \nStart Time: 07/23/18 02:02:16 AM (554029336) \nEnd Time: 07/23/18 05:34:06 AM (554042046) \nLast Message ID: 17720 \nChat Room: \nParticipants: jee, \nPresentity IDs: e:jeeitunes@gmail.com, \nMessages - \nSender: e:jeeitunes@gmail.com \nTime: 07/23/18 02:02:16 AM (554029336) \nFlags: 1085445 \nIs Read: No \nIs Invitation: No \nGUID: EE232627-17BE-4951-9918-BA3F548ACBE8 \nMessage: Trump threatened Iran ;) \nSender: \nTime: 07/23/18 05:34:06 AM (554042046) \nFlags: 1060865 \nIs Read: Yes \nIs Invitation: No \nGUID: 02455B24-2BBB-4A5B-AADC-F27394281FDA \nMessage: Yes, I saw that and immediately remember our conversation \nHOUSE OVERSIGHT 027332 \n"
+  },
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 41.761593724s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}",
+  "house_oversight_id": "027332",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:24:18.359106Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

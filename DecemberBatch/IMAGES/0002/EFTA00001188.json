@@ -1,0 +1,111 @@
+{
+  "file_name": "EFTA00001188.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing two shelves of a light-colored wooden or laminate bookcase filled with white storage boxes. The top shelf contains several stacked flat boxes and two taller vertical boxes. The bottom shelf contains three larger storage bins with handle cutouts. Most boxes have small labels affixed to the front.",
+    "layout": "Two shelves organized with storage containers. Labels are centered on the front of the boxes.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "JE FAMILY PHOTOS FRAMED\nJE FAMILY PHOTOS FRAMED\nJE FAMILY PHOTOS & FILES\nJE CHILDHOOD PHOTOS & FILES\nART & FURNITURE PURCHASES\nPHOTOS OF JE\nJE AWARDS\nCELINA PHOTOS\nOFFICE SUPPLIES\nEFTA00001188",
+    "text_regions": [
+      {
+        "region": "top_left_box_1",
+        "text": "JE FAMILY PHOTOS FRAMED",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_box_2",
+        "text": "JE FAMILY PHOTOS FRAMED",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_box_3",
+        "text": "JE FAMILY PHOTOS & FILES",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_box_4",
+        "text": "JE CHILDHOOD PHOTOS & FILES",
+        "type": "printed"
+      },
+      {
+        "region": "top_center_vertical_box_1",
+        "text": "ART & FURNITURE PURCHASES",
+        "type": "printed"
+      },
+      {
+        "region": "top_right_box_2",
+        "text": "PHOTOS OF JE",
+        "type": "printed"
+      },
+      {
+        "region": "top_right_box_3",
+        "text": "JE AWARDS",
+        "type": "printed"
+      },
+      {
+        "region": "top_right_box_4",
+        "text": "CELINA PHOTOS",
+        "type": "printed"
+      },
+      {
+        "region": "bottom_left_bin",
+        "text": "OFFICE SUPPLIES",
+        "type": "printed"
+      },
+      {
+        "region": "footer_watermark",
+        "text": "EFTA00001188",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JE",
+      "CELINA"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001188"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      {
+        "description": "Bates stamp/Document ID at bottom right: EFTA00001188"
+      }
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Storage and organization of personal and office files",
+    "date": null,
+    "references": [
+      "EFTA00001188"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.97
+  },
+  "notes": "The initials 'JE' likely refer to a specific individual whose files are being stored. One label on the top right vertical box is visible but the text is too small/blurry to read accurately, though it appears to be a brand logo (possibly 'Bigso Box of Sweden').",
+  "file_path": "IMAGES\\0002\\EFTA00001188.pdf",
+  "document_id": "EFTA00001188",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:26:42.568738Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

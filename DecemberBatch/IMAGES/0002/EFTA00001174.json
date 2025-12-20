@@ -1,0 +1,75 @@
+{
+  "file_name": "EFTA00001174.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A high-angle photograph of a home office or studio. In the foreground is a glass-topped desk with a chrome frame. On the desk are an open magazine (Cote Sud), a small brown sculpture, a box of tissues, a grey binder, a white keyboard, a white mouse, a desktop computer monitor (Apple iMac), a desk organizer with pens, and a beige landline telephone. A black office chair with chrome accents is positioned at the desk. In the background, there is a large-format printer (Epson), a small round black table, and floor-to-ceiling white built-in bookshelves filled with books and framed pictures. The room has light-colored patterned carpeting and off-white walls with crown molding.",
+    "layout": "Interior room shot, wide angle, portrait orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "COTE SUD\nN\nEFTA00001174",
+    "text_regions": [
+      {
+        "region": "magazine_cover",
+        "text": "COTE SUD",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right",
+        "text": "EFTA00001174",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin",
+        "text": "N",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Apple",
+      "Epson",
+      "Cote Sud"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001174"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00001174"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of an office/studio space",
+    "date": null,
+    "references": [
+      "EFTA00001174"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a clear photograph of an office. The text 'COTE SUD' is visible on a magazine on the desk. The alphanumeric string 'EFTA00001174' is a document identifier likely added during the discovery or oversight process.",
+  "file_path": "IMAGES\\0002\\EFTA00001174.pdf",
+  "document_id": "EFTA00001174",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:25:00.048802Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
