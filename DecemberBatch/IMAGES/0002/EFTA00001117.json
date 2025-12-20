@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001117.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a luxurious bathroom interior. The image shows a white marble floor and a white vanity with marble countertops. On the vanity, there are various toiletries including soap dispensers, bottles, and a folded white towel. A large mirror is mounted above the vanity, reflecting the opposite side of the room, including an open white door. To the right of the mirror, a smaller circular magnifying mirror is attached to the wall. In the foreground, a white paneled door is partially open, leading into the bathroom. A white bath mat is visible on the floor.",
+    "layout": "Interior shot with a vertical orientation, focusing on the vanity area and the entrance door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001117",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001117",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001117"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001117' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00001117"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph likely used as evidence or documentation in a legal or investigative context, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001117.pdf",
+  "document_id": "EFTA00001117",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:18:23.862953Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

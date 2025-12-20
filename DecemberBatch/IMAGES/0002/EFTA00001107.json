@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001107.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room with pink walls and a white patterned carpet. A large, dark-toned painting depicting several figures in a classical or mythological style is mounted on the pink wall. In front of the painting is a chaise longue with a floral pattern and several striped pillows (red and green). To the right, there is a lamp with a green and red diamond-patterned shade and a yellow ribbed base. In the foreground on the right, a portion of an ornate, dark-colored cabinet with gold detailing and painted scenes is visible.",
+    "layout": "Interior room shot with furniture and artwork.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001107",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001107",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001107"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001107' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001107"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph of an interior space, likely part of a larger set of evidentiary or documentation photos given the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001107.pdf",
+  "document_id": "EFTA00001107",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:17:17.474676Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

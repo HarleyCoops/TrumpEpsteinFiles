@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001136.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing an open closet door. The door is made of polished wood with a vertical grain and features a large, circular, recessed metal handle. The interior of the door is lined with a mirror. Inside the closet, a red satin robe is hanging on a rod. Above the rod is a shelf with folded towels or linens. On the floor of the closet is a large wicker basket and a blue bag. In the background, visible through the doorway to the left, is a piece of exercise equipment, specifically a '600R TRUE' recumbent bike.",
+    "layout": "Interior shot showing a closet and a glimpse into an adjacent room with gym equipment.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "600R\nTRUE\nEFTA00001136",
+    "text_regions": [
+      {
+        "region": "background_object",
+        "text": "600R\nTRUE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001136",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "TRUE Fitness"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001136"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Electronic footer stamp: EFTA00001136"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a closet and exercise equipment",
+    "date": null,
+    "references": [
+      "EFTA00001136"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The text '600R TRUE' refers to the model and brand of the exercise bike in the background. The alphanumeric code at the bottom right is a document identification stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001136.pdf",
+  "document_id": "EFTA00001136",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:34.372470Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

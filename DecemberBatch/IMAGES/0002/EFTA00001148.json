@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001148.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken from a doorway looking into a hallway and another room. The foreground shows a white door with a brass doorknob and deadbolt. The hallway has blue walls, white trim, and yellow/gold carpeting. A small white sign with the letters 'BB' is taped to the blue wall. Through a second doorway in the hallway, a bathroom is partially visible, showing a toilet and tiled walls. A ceiling light fixture is visible in the hallway.",
+    "layout": "Interior architectural shot with multiple layers of depth (doorway to hallway to bathroom).",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "BB\nEFTA00001148",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "BB",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001148",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001148"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence label 'BB' on wall",
+      "Bates stamp EFTA00001148"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence or office space",
+    "date": null,
+    "references": [
+      "EFTA00001148"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the 'BB' marker and the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001148.pdf",
+  "document_id": "EFTA00001148",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:01.729011Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

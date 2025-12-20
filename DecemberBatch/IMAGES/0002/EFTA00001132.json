@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00001132.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor home gym or exercise room. The room features light-colored wood flooring and textured tan/beige wallpaper. Visible equipment includes a stationary exercise bike (brand 'TRUE') on the left, a blue folding gymnastics mat stacked on the floor, and a pair of white gymnastic rings hanging from the ceiling by blue straps labeled 'AVAI'. A dark wood door is visible in the background, leading to another room.",
+    "layout": "Interior room shot with equipment arranged against walls; portrait orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "AVAI\nTRUE\nEFTA00001132",
+    "text_regions": [
+      {
+        "region": "gym_equipment_label",
+        "text": "AVAI",
+        "type": "printed"
+      },
+      {
+        "region": "exercise_bike_branding",
+        "text": "TRUE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001132",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "AVAI",
+      "TRUE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001132"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001132 in bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of an exercise room",
+    "date": null,
+    "references": [
+      "EFTA00001132"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'AVAI' is visible on the blue straps holding the gymnastic rings. The text 'TRUE' is visible on the base of the stationary bike. The alphanumeric string at the bottom right is a standard Bates stamp used for document tracking.",
+  "file_path": "IMAGES\\0002\\EFTA00001132.pdf",
+  "document_id": "EFTA00001132",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:06.113302Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

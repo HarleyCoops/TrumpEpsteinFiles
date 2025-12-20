@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001124.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an ornate wooden console table against a wall with decorative molding. On the table are two matching lamps with square, cream-colored shades and wooden bases, a small sculpture of a figure in a dynamic pose, and a bright yellow picture frame containing a photograph. Above the table hangs a large framed monochrome painting of a seated nude figure. On the bottom shelf of the table, there is a small figurine. To the left of the table on the blue carpeted floor is a mesh basket filled with various cleaning supplies and spray bottles.",
+    "layout": "Centered photograph with a footer containing a document reference number.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001124",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001124",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001124"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Digital footer: EFTA00001124"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior scene showing furniture and decor",
+    "date": null,
+    "references": [
+      "EFTA00001124"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The photograph appears to be an evidentiary photo from an investigation, likely related to the House Oversight Committee as per the prompt context. The cleaning supplies in the corner suggest the photo may have been taken during a search or maintenance activity.",
+  "file_path": "IMAGES\\0002\\EFTA00001124.pdf",
+  "document_id": "EFTA00001124",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:10.566736Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

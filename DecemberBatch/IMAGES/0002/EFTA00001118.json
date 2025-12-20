@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001118.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken through a white-trimmed doorway looking into a bedroom. The room features a dark blue accent wall, a dark wood dresser with two small lamps and a decorative box on top, and a large blue upholstered ottoman with fringe at the foot of the bed (partially visible). The floor is covered in a dark green and blue tartan plaid carpet. Curtains with a floral pattern and red tie-backs frame the window area. To the right, a portion of a white sofa or chair is visible.",
+    "layout": "Central perspective shot through an open interior doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001118",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001118",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001118"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001118' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001118"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely part of a legal or investigative production, as evidenced by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001118.pdf",
+  "document_id": "EFTA00001118",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:18:30.316009Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

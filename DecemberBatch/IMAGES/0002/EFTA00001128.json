@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001128.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a home gym or fitness area. In the foreground, there is a large Precor brand elliptical machine. To the bottom left, a white landline telephone sits on a glass-topped table or desk. The background features a large wall mirror reflecting other gym equipment, including a weight rack with dumbbells and a foam roller. The room has beige carpeting and white trim.",
+    "layout": "Interior photograph with equipment in the foreground and reflections in a background mirror.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PRECOR\nEFTA00001128",
+    "text_regions": [
+      {
+        "region": "equipment_label",
+        "text": "PRECOR",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001128",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Precor"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001128"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001128"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of fitness equipment",
+    "date": null,
+    "references": [
+      "EFTA00001128"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard evidentiary photograph with a Bates stamp identifier at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001128.pdf",
+  "document_id": "EFTA00001128",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:37.463720Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

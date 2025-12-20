@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001152.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. The room features vibrant blue walls and yellow carpeting. There are two windows with white frames and bars, covered by light grey curtains with blue decorative piping. A bed is partially visible in the foreground, covered with a grey and black striped faux-fur or animal-print throw blanket. To the left, a dark wooden dresser is visible. To the right of the windows, a floor lamp with a red lampshade stands against the blue wall. An air conditioning unit is installed in the lower pane of the left window.",
+    "layout": "Interior room shot, portrait orientation, with a document tracking number at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001152",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001152",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001152"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates-style tracking number EFTA00001152"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bedroom",
+    "date": null,
+    "references": [
+      "EFTA00001152"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard photograph used as evidence or documentation, identified by the alphanumeric string in the bottom right corner.",
+  "file_path": "IMAGES\\0002\\EFTA00001152.pdf",
+  "document_id": "EFTA00001152",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:28.332274Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

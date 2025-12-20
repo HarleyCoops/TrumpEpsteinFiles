@@ -1,0 +1,74 @@
+{
+  "file_name": "EFTA00001127.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an indoor home gym or fitness room. The room features tan carpeting and walls lined with large mirrors. Visible equipment includes a Cyrex multi-station weight machine, several weight benches with brown upholstery, a rack of dumbbells, foam rollers (blue and pink), and the corner of a treadmill or elliptical in the foreground. A white door and a window with white blinds are visible in the background. A small white label with the letter 'Y' is affixed to a glass door or partition.",
+    "layout": "Interior room shot with equipment distributed across the floor and against mirrored walls.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CYBEX\nY\nEFTA00001127",
+    "text_regions": [
+      {
+        "region": "equipment_label",
+        "text": "CYBEX",
+        "type": "printed"
+      },
+      {
+        "region": "marker",
+        "text": "Y",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001127",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Cybex"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001127"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence marker 'Y'",
+      "Bates stamp/Document ID 'EFTA00001127'"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Home gym interior",
+    "date": null,
+    "references": [
+      "EFTA00001127"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the 'Y' marker and the Bates-style numbering at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001127.pdf",
+  "document_id": "EFTA00001127",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:31.465804Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

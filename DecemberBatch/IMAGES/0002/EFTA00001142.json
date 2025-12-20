@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001142.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a living area. The room features a mustard-yellow or gold-colored carpet. In the foreground, there is a stack of three vintage-style suitcases or boxes on the floor. A tall brass floor lamp with a red shade stands next to a cream-colored sofa. In the background, there are two windows with white frames and light-colored curtains. A second lamp with a red shade is visible further back. On the right foreground wall, a white paper sign with the letters 'AA' is taped to the wall. A white door frame and a brass doorknob are visible on the far right.",
+    "layout": "Interior room shot with a focus on furniture and a wall-mounted label.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "AA\nEFTA00001142",
+    "text_regions": [
+      {
+        "region": "label",
+        "text": "AA",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001142",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001142"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "White paper label with 'AA' printed in bold black letters",
+      "Bates stamp/reference number 'EFTA00001142' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph with evidence/location marker",
+    "date": null,
+    "references": [
+      "EFTA00001142"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The photograph appears to be part of a legal or investigative collection, indicated by the 'AA' marker and the Bates-style numbering at the bottom.",
+  "file_path": "IMAGES\\0002\\EFTA00001142.pdf",
+  "document_id": "EFTA00001142",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:21:42.808954Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

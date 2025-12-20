@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001129.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph taken inside a room showing two large, polished wood-grain doors. The door in the foreground is partially open, revealing a black, semi-circular plate around the doorknob. The door in the background is closed and has a similar black plate. To the left, there is a tall white object (possibly a robot or air purifier) and a punching bag stand. To the right, there is a black speaker cabinet and a glass-shelved media rack containing electronic equipment like a receiver and remote controls. The floor is carpeted in a light tan color.",
+    "layout": "Interior room shot with a vertical orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001129",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001129",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001129"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001129' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001129"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image appears to be an evidentiary photograph from an investigation, indicated by the Bates stamp. The white object in the foreground left has a small blue screen, but the text on it is illegible due to the angle and focus.",
+  "file_path": "IMAGES\\0002\\EFTA00001129.pdf",
+  "document_id": "EFTA00001129",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:44.534731Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

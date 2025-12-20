@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001114.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A long, narrow interior hallway with blue patterned carpeting featuring black border stripes. The walls are white with decorative blue panel molding. The hallway leads through several successive doorways, creating a 'hall of mirrors' effect. There are ceiling lights visible in the distance and one partially visible at the top of the frame. A dark object, possibly a shoe or slipper, is visible on the carpet in the bottom left foreground.",
+    "layout": "Portrait orientation showing a deep perspective view of a residential or hotel corridor.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001114",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001114",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001114"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001114' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior view of a hallway",
+    "date": null,
+    "references": [
+      "EFTA00001114"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The OCR provided in the prompt contains many bullet points which appear to be an artifact of the OCR engine attempting to read the pattern on the blue carpet. The only actual text in the image is the Bates stamp identifier.",
+  "file_path": "IMAGES\\0002\\EFTA00001114.pdf",
+  "document_id": "EFTA00001114",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:18:03.580019Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

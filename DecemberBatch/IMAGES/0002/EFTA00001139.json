@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001139.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a narrow utility or electrical room. The room contains various electrical panels, conduits, and wiring. A yellow 'Louisville' brand ladder is leaning against the left wall. There is a large white electrical cabinet on the right side, along with several vertical metal conduits. A black insulated pipe runs vertically. In the background, more electrical panels and wiring are visible on a plywood wall. A small wire cart with a white telephone is on the floor to the right. The floor is a reddish-brown color.",
+    "layout": "Narrow corridor perspective looking into a utility room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Louisville\nEFTA00001139",
+    "text_regions": [
+      {
+        "region": "ladder label",
+        "text": "Louisville",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001139",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Louisville"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001139"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001139"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Utility or electrical room interior",
+    "date": null,
+    "references": [
+      "EFTA00001139"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included in a document set, identified by the Bates stamp EFTA00001139. The text 'Louisville' is a brand name on a ladder.",
+  "file_path": "IMAGES\\0002\\EFTA00001139.pdf",
+  "document_id": "EFTA00001139",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:55.418393Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

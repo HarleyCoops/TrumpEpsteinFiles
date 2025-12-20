@@ -1,0 +1,80 @@
+{
+  "file_name": "EFTA00001133.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a home gym or fitness room. The room has light-colored wood flooring and textured tan/beige wallpaper. Four pieces of exercise equipment are visible against the back wall: a white Cybex back extension machine, a silver/grey weight bench or Roman chair, a black stationary spin bike, and a black recumbent exercise bike. A white sign with the letter 'Z' is taped to the wall above the spin bike. A white door frame is visible on the right side of the image.",
+    "layout": "Interior room shot with equipment lined up against a wall.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Z\nCYBEX\nTRUE\nEFTA00001133",
+    "text_regions": [
+      {
+        "region": "wall_sign",
+        "text": "Z",
+        "type": "printed"
+      },
+      {
+        "region": "equipment_label_left",
+        "text": "CYBEX",
+        "type": "printed"
+      },
+      {
+        "region": "equipment_label_right",
+        "text": "TRUE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001133",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "Cybex",
+      "True Fitness"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001133"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001133",
+      "Wall sign with letter 'Z'"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Fitness equipment in a residential or private setting",
+    "date": null,
+    "references": [
+      "EFTA00001133"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.95
+  },
+  "notes": "The image appears to be an evidentiary photograph from a legal or investigative production, indicated by the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001133.pdf",
+  "document_id": "EFTA00001133",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:13.187477Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

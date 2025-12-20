@@ -1,0 +1,68 @@
+{
+  "file_name": "EFTA00001112.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A very dark, low-light photograph of the interior of a closet. On the top shelf, there is a large white bag or pillow with text on it and a stack of folded white towels. Below the shelf, several items of clothing are hanging on a rod, including what appear to be white shirts or trousers and a dark patterned garment. The overall image has a heavy reddish-brown tint and is underexposed.",
+    "layout": "Single photograph with a footer containing a document ID.",
+    "quality": "low",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EUROPEAN [unclear: WAREHOUSE]\nEFTA00001112",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "EUROPEAN [unclear: WAREHOUSE]",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001112",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "EUROPEAN [unclear: WAREHOUSE]"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001112"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "EFTA00001112 (Bates stamp/Document ID)"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior of a closet",
+    "date": null,
+    "references": [
+      "EFTA00001112"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.6,
+    "structured_data": 0.9,
+    "overall": 0.7
+  },
+  "notes": "The image is extremely dark, making it difficult to discern fine details. The text on the bag in the upper left is partially obscured by shadows and the angle of the bag. The footer text 'EFTA00001112' is clear.",
+  "file_path": "IMAGES\\0002\\EFTA00001112.pdf",
+  "document_id": "EFTA00001112",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:17:49.697021Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

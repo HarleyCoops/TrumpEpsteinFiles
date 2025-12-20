@@ -1,0 +1,78 @@
+{
+  "file_name": "EFTA00001153.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. The room features a purple wall, a dark wood dresser with a television on top, a gold-framed mirror, a plush lion toy, and a gold tissue box. A black chair is visible in the lower left foreground. A window with white curtains and a view of an adjacent building is in the background. The floor is covered with a yellow or gold-toned carpet.",
+    "layout": "Interior room shot, portrait orientation.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "SOI;0;013\n11\nI\nEFTA00001153",
+    "text_regions": [
+      {
+        "region": "top_left_margin",
+        "text": "SOI;0;013",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin_below_soi",
+        "text": "11",
+        "type": "printed"
+      },
+      {
+        "region": "top_left_margin_below_11",
+        "text": "I",
+        "type": "printed"
+      },
+      {
+        "region": "bottom_right_footer",
+        "text": "EFTA00001153",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "SOI;0;013",
+      "EFTA00001153"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Reference number: EFTA00001153",
+      "Metadata/Index code: SOI;0;013"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001153"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text appears to be administrative metadata or Bates numbering typical of legal or investigative document discovery.",
+  "file_path": "IMAGES\\0002\\EFTA00001153.pdf",
+  "document_id": "EFTA00001153",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:34.451896Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

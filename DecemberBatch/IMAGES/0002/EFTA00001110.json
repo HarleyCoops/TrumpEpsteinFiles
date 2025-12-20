@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001110.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a large, framed painting mounted on a pink wall. The painting depicts a surreal, mythological, or allegorical scene with several figures: a central standing child with a yellow collar, a reclining nude woman on a green cushion, a figure wearing an ornate feathered headdress looking into a mirror, and several white doves in flight. The background of the painting features dark, swirling figures. To the right of the painting is a lamp with a green and red diamond-patterned shade and a yellow base. Below the lamp is a small wooden table with books. In the foreground, a portion of a red and green striped pillow is visible.",
+    "layout": "Interior room shot centered on a large wall-mounted artwork.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": ".\nEFTA00001110",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001110",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001110"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001110' in the bottom right corner."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior decor and artwork",
+    "date": null,
+    "references": [
+      "EFTA00001110"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph of an interior space, likely part of an evidentiary or investigative file given the Bates stamp numbering. The painting itself is the primary subject of the photo.",
+  "file_path": "IMAGES\\0002\\EFTA00001110.pdf",
+  "document_id": "EFTA00001110",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:17:37.189259Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

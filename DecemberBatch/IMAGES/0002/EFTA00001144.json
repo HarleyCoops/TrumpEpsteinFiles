@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001144.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room with yellow/gold carpeting. The room contains a cream-colored armchair in the foreground, a green armchair with pink pillows in the mid-ground, and a clear acrylic chair with a patterned cushion next to a white air purifier. A doorway leads to another room where a white sofa is visible. The walls have a subtle geometric diamond pattern. A wooden desk or dresser is partially visible on the right.",
+    "layout": "Interior room shot looking through a doorway into an adjacent room.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001144",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001144",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001144"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001144' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room documentation",
+    "date": null,
+    "references": [
+      "EFTA00001144"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a standard evidentiary photograph, likely part of a legal or investigative discovery process as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001144.pdf",
+  "document_id": "EFTA00001144",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:21:31.623270Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

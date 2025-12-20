@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001138.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a luxurious bathroom interior. The scene features a built-in white bathtub with a marble surround and chrome fixtures. To the left of the tub is a decorative wall panel with a red frame. Above the tub, a pair of pink ballet pointe shoes hangs from a hook on the wall. In the background, an open door leads to a separate room containing a toilet. To the right, a large mirrored door reflects the bathtub area and the ballet shoes. The flooring appears to be a light brown or tan carpet or stone. The lighting is soft, likely from recessed ceiling lights.",
+    "layout": "Interior architectural photograph with a view through a doorway and a reflection in a mirrored door.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001138",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001138",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001138"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001138 in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a bathroom",
+    "date": null,
+    "references": [
+      "EFTA00001138"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The image is a photograph included as evidence or documentation, identified by a Bates stamp. No handwritten text or other identifiers are present.",
+  "file_path": "IMAGES\\0002\\EFTA00001138.pdf",
+  "document_id": "EFTA00001138",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:48.276798Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

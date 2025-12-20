@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001149.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior space, likely a bedroom and adjacent bathroom. The central focus is a blue-painted wall corner where a white evidence marker or label is taped. To the left, a bedroom is visible with a bed covered by a dark, textured (possibly faux fur) throw, a window with grey curtains, and a ceiling light fixture. To the right, a partial view of a bathroom shows a white sink, a bottle of soap, a mirror with a black frame, and a power outlet.",
+    "layout": "The image is split into three vertical sections: the bedroom on the left, the blue wall with a label in the center, and the bathroom on the right.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "BB\nEFTA00001149",
+    "text_regions": [
+      {
+        "region": "evidence_marker",
+        "text": "BB",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001149",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001149"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Evidence marker labeled 'BB' taped to the wall",
+      "Bates stamp/document identifier 'EFTA00001149' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph with evidence marker",
+    "date": null,
+    "references": [
+      "EFTA00001149"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The evidence marker 'BB' contains smaller printed text and a table structure that is illegible due to distance and resolution. The photograph appears to be part of a legal or investigative discovery process.",
+  "file_path": "IMAGES\\0002\\EFTA00001149.pdf",
+  "document_id": "EFTA00001149",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:08.011120Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

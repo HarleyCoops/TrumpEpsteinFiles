@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001145.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a living room area. The room features yellow/gold carpeting and white walls with a subtle diamond-patterned wallpaper or paint effect. In the foreground, there is a cream-colored sofa with a brown pillow and a cream pillow. To the left of the sofa is a floor lamp with a brass stand and a reddish-orange shade. In the background, there are two doorways: one on the left leads into a dark hallway, and one on the right leads into a brightly lit kitchen area with white cabinets and a dark appliance (likely a dishwasher). A cat scratching post and a small green object are visible on the floor near the center.",
+    "layout": "Interior room view with furniture in the foreground and doorways leading to other rooms in the background.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "AS, f. \n4 \nEFTA00001145",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "AS, f. \n4",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001145",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001145"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: EFTA00001145"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior photograph of a residence",
+    "date": null,
+    "references": [
+      "EFTA00001145"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.95
+  },
+  "notes": "The text 'AS, f. 4' appears to be a small annotation or artifact from the OCR/scanning process located at the top left, while the bottom right contains a standard Bates stamp identifier.",
+  "file_path": "IMAGES\\0002\\EFTA00001145.pdf",
+  "document_id": "EFTA00001145",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:21:38.371067Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

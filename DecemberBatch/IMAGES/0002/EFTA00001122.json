@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001122.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of an interior room featuring a dark wood bombe-style chest of drawers centered against a vibrant blue textured wall. On top of the chest are two small lamps with beige shades and a decorative architectural-style box. The chest is flanked by two windows with cream-colored floral curtains tied back with red cords. The floor is covered in a green, blue, and red plaid carpet. In the foreground, a large blue and white striped ottoman or bed footboard has two books resting on it. To the right, a portion of a white upholstered sofa and a side table with a red-shaded lamp are visible.",
+    "layout": "Centered composition focusing on the furniture against the blue wall, with foreground elements (ottoman) and side elements (curtains, sofa) framing the shot.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001122",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001122",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001122"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001122' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room decor",
+    "date": null,
+    "references": [
+      "EFTA00001122"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a high-quality photograph likely part of a legal or investigative production, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001122.pdf",
+  "document_id": "EFTA00001122",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:18:57.663832Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

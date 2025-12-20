@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001134.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room that appears to be a home gym or exercise space. The room has light-colored wood flooring and textured tan wallpaper. In the foreground, there are several large exercise balls (yellow and red) and a white shopping bag containing a roll of paper towels and other items. A large, dark-colored statue of a seated figure (possibly Buddha) stands against the left wall. In the center is a large wooden ballet barre or stretching apparatus. To the right, there is a white power tower/pull-up station. In the background, a small black side table holds what appears to be a telephone and some weights. A large window with white blinds and cream-colored curtains is visible in the center background.",
+    "layout": "Interior room shot with exercise equipment and decorative items.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001134",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001134",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001134"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001134' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph with exercise equipment",
+    "date": null,
+    "references": [
+      "EFTA00001134"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The text 'EFTA00001134' is a Bates stamp used for document tracking in legal or investigative contexts. The image shows a mix of fitness equipment and decorative art.",
+  "file_path": "IMAGES\\0002\\EFTA00001134.pdf",
+  "document_id": "EFTA00001134",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:20:20.230978Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

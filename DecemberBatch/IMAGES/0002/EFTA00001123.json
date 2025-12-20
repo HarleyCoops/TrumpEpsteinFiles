@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001123.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a room featuring a white upholstered sofa with fringe along the bottom. Two decorative white pillows with floral embroidery and red piping are on the sofa. The wall behind the sofa is painted a deep, textured blue. To the left, there is a window with white curtains and a patterned floral drape. A small side table holds a blue lamp with a pink/red lampshade. The floor is covered in a dark green and blue plaid carpet. A small portion of a wooden table is visible in the bottom right corner.",
+    "layout": "Interior room setting, wide-angle shot.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001123",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001123",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001123"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp 'EFTA00001123' in the bottom right corner"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001123"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely taken for documentation or evidentiary purposes, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001123.pdf",
+  "document_id": "EFTA00001123",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:03.859769Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

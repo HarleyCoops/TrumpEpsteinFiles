@@ -1,80 +1,13 @@
 {
-  "file_name": "email_jeevacation_to_ribis_05072019.txt",
+  "file_name": "HOUSE_OVERSIGHT_012102.txt",
+  "file_path": "001\\HOUSE_OVERSIGHT_012102.txt",
   "content": {
-    "full_text": "From: J [jeevacation@gmail.com] \nSent: 5/7/2019 4:29:00 AM \nTo: Nicholas Ribis \nhttps://www.nytimes.com/20 1 9/05/0 6/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage  \nplease note \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nHOUSE OVERSIGHT 012102 \n",
-    "sections": [
-      {
-        "section_index": 0,
-        "section_type": "email_header",
-        "text": "From: J [jeevacation@gmail.com] \nSent: 5/7/2019 4:29:00 AM \nTo: Nicholas Ribis "
-      },
-      {
-        "section_index": 1,
-        "section_type": "link",
-        "text": "https://www.nytimes.com/20 1 9/05/0 6/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage  "
-      },
-      {
-        "section_index": 2,
-        "section_type": "paragraph",
-        "text": "please note "
-      },
-      {
-        "section_index": 3,
-        "section_type": "disclaimer",
-        "text": "The information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved "
-      },
-      {
-        "section_index": 4,
-        "section_type": "footer",
-        "text": "HOUSE OVERSIGHT 012102 "
-      }
-    ]
+    "full_text": "From: J [jeevacation@gmail.com] \nSent: 5/7/2019 4:29:00 AM \nTo: Nicholas Ribis \nhttps://www.nytimes.com/20 1 9/05/0 6/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage  \nplease note \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nHOUSE OVERSIGHT 012102 \n"
   },
-  "metadata": {
-    "document_type": "Email",
-    "participants": [
-      "J",
-      "Nicholas Ribis"
-    ],
-    "date_range": {
-      "earliest": "2019-05-07",
-      "latest": "2019-05-07"
-    },
-    "file_references": [
-      "HOUSE OVERSIGHT 012102"
-    ]
-  },
-  "entities": {
-    "people": [
-      "J",
-      "Nicholas Ribis"
-    ],
-    "organizations": [
-      "JEE",
-      "The New York Times",
-      "House Oversight Committee"
-    ],
-    "locations": [],
-    "dates": [
-      "5/7/2019",
-      "05/06/2019"
-    ],
-    "events": [
-      "Trump inauguration"
-    ]
-  },
-  "themes": [
-    "Confidential Communication",
-    "Legal Disclaimer",
-    "Sharing News Article",
-    "Trump Inauguration"
-  ],
-  "confidence": 0.98,
-  "notes": "The text is an email forwarding a New York Times link, followed by a standard legal confidentiality notice. The URL appears to be broken up by spaces and line breaks, which is preserved in the text extraction. The URL references an article about the Trump inauguration and Stephanie Winston Wolkoff. The sender is identified only as 'J' with an associated email, and the organization 'JEE' is mentioned as the owner of the communication.",
-  "file_path": "TEXT\\001\\HOUSE_OVERSIGHT_012102.txt",
+  "error": "LLM request failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 51.916666357s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}}",
   "house_oversight_id": "012102",
   "processing_metadata": {
-    "processed_at": "2025-11-14T02:03:42.717620Z",
-    "model": "gemini-2.5-pro"
+    "processed_at": "2025-12-20T00:22:08.207275Z",
+    "model": "gemini-3-flash-preview"
   }
 }

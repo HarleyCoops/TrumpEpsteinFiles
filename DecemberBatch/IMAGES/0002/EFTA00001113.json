@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001113.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the interior of a walk-in closet. The closet contains a shelf at the top with a white bag labeled 'EUROPEAN WHITE GOOSE' and folded white towels. Below the shelf is a hanging rod filled with numerous white garments on hangers, likely shirts or robes. To the right, there are two patterned robes with intricate gold and dark red/green designs. On the floor of the closet, several pairs of slippers are visible. The walls are a light tan or beige color, and the floor is carpeted with a patterned design.",
+    "layout": "Interior shot of a closet viewed through an open doorway.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "EUROPEAN WHITE GOOSE\nEFTA00001113",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "EUROPEAN WHITE GOOSE",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001113",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001113"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001113"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Closet interior",
+    "date": null,
+    "references": [
+      "EFTA00001113"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text 'EUROPEAN WHITE GOOSE' is printed on a storage bag on the top shelf. The alphanumeric string at the bottom right is a Bates stamp used for document identification in legal or investigative contexts.",
+  "file_path": "IMAGES\\0002\\EFTA00001113.pdf",
+  "document_id": "EFTA00001113",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:17:56.520704Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

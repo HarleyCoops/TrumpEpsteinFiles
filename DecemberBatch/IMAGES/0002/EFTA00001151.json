@@ -1,0 +1,66 @@
+{
+  "file_name": "EFTA00001151.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of a bedroom interior. The room features vibrant blue walls and a bright yellow/gold carpet. A bed is centered in the frame, featuring a multi-colored striped headboard with a scalloped red trim. The bed is made with white linens and a grey and black faux-fur or animal print throw blanket. To the right of the bed is a black tiered rolling side table holding a white box, a book, and a piece of paper. On the table sits a Tiffany-style lamp with a blue and green stained-glass shade. Two brass floor lamps with red shades are positioned on either side of the bed. A white curtain with a blue wavy pattern is visible on the left.",
+    "layout": "Interior room shot, eye-level perspective.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "~I \npi \nEFTA00001151",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001151",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "~I \npi",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001151"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp EFTA00001151"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior bedroom photography",
+    "date": null,
+    "references": [
+      "EFTA00001151"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The text '~I' and 'pi' appear to be artifacts or partial characters from the OCR process or edge markings on the original document scan. The primary identifier is the Bates stamp at the bottom right.",
+  "file_path": "IMAGES\\0002\\EFTA00001151.pdf",
+  "document_id": "EFTA00001151",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:22:21.622658Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

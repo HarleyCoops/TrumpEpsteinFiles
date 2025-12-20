@@ -1,0 +1,61 @@
+{
+  "file_name": "EFTA00001125.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph showing a small ceramic or plastic figurine of two female characters (resembling Alice in Wonderland and another character) in a dynamic pose, possibly wrestling or playing, resting on a polished dark wood surface. The surface appears to be a mantel or a piece of furniture. In the background, there is a light-colored wall with a decorative border and two thin electrical cords hanging down. The foreground shows a blue patterned carpet with a diamond motif.",
+    "layout": "Landscape photograph with the subject centered on a horizontal wooden surface.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "EFTA00001125",
+    "text_regions": [
+      {
+        "region": "footer",
+        "text": "EFTA00001125",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001125"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp/Document ID: EFTA00001125"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Evidence photograph of a figurine on a wooden surface",
+    "date": null,
+    "references": [
+      "EFTA00001125"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 1.0,
+    "overall": 0.98
+  },
+  "notes": "The OCR provided in the prompt contains a lot of noise/artifacts which do not correspond to visible text in the image, except for the Bates stamp at the bottom right. The figurine appears to be a stylized representation of Alice in Wonderland (blue dress, blonde hair) and another figure.",
+  "file_path": "IMAGES\\0002\\EFTA00001125.pdf",
+  "document_id": "EFTA00001125",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:19:17.592689Z",
+    "model": "gemini-3-flash-preview"
+  }
+}

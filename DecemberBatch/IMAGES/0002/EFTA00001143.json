@@ -1,0 +1,67 @@
+{
+  "file_name": "EFTA00001143.pdf",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "An interior photograph of a living room or sitting area. The room features mustard-yellow shag carpeting and white walls. There are two cream-colored armchairs in the foreground and mid-ground. Against the left wall, there are two teal-colored chairs with pink and white striped pillows. A wooden sideboard or cabinet sits against the wall between the teal chairs. On top of the cabinet are various items including a telephone and electronic equipment. In the background, there is a window with white curtains. In the bottom right corner, there is a stack of vintage-looking suitcases or boxes. A lamp with a pink shade is partially visible on the right edge.",
+    "layout": "Interior room shot with furniture arranged for a seating area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "1\nEFTA00001143",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "1",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "EFTA00001143",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "EFTA00001143"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Page number '1' at top left",
+      "Bates-style tracking number 'EFTA00001143' at bottom right"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interior room photograph",
+    "date": null,
+    "references": [
+      "EFTA00001143"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a standard interior photograph likely used as evidence or documentation in a legal or investigative file, as indicated by the EFTA prefix bates stamp.",
+  "file_path": "IMAGES\\0002\\EFTA00001143.pdf",
+  "document_id": "EFTA00001143",
+  "processing_metadata": {
+    "processed_at": "2025-12-20T00:21:25.547496Z",
+    "model": "gemini-3-flash-preview"
+  }
+}
